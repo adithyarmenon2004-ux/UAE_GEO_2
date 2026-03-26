@@ -1,0 +1,2001 @@
+Age_Group,Income_Level,Nationality,Luxury_Interest,Shopping_Frequency,Preferred_Category,Color_Preference,Digital_Engagement,Influenced_By_AI,Max_Spend,Will_Buy
+36-45,Low,Expat - Western,Medium,Frequent,Fashion,Black,Medium,Yes,32000,No
+46+,Medium,Emirati,Low,Frequent,Fashion,Gold,Medium,Yes,30805,Yes
+18-25,High,Other,Medium,Frequent,Automobiles,Gold,Medium,No,3599,No
+36-45,High,Expat - Western,High,Frequent,Jewelry,White,Medium,No,23100,No
+36-45,High,Expat - Indian,High,Rare,Automobiles,White,High,Yes,31509,Yes
+46+,Medium,Expat - Western,Low,Rare,Watches,White,Low,Yes,36003,Yes
+18-25,Medium,Expat - Western,High,Occasional,Real Estate,Bold Colors,Low,Yes,20183,No
+18-25,High,Expat - Indian,Medium,Rare,Jewelry,Bold Colors,High,Yes,39241,No
+36-45,Low,Expat - Arab,Medium,Occasional,Watches,Black,High,No,1018,No
+26-35,Medium,Expat - Arab,High,Rare,Automobiles,White,Medium,No,1858,No
+36-45,Low,Emirati,High,Frequent,Real Estate,Silver,High,Yes,26992,Yes
+36-45,Ultra High,Emirati,High,Frequent,Watches,White,Low,No,33580,No
+36-45,Ultra High,Expat - Arab,Medium,Rare,Real Estate,Bold Colors,High,No,6380,No
+36-45,Low,Other,High,Rare,Watches,White,High,No,36800,No
+46+,High,Expat - Western,Low,Occasional,Automobiles,Bold Colors,Medium,Yes,19915,No
+18-25,Ultra High,Other,High,Occasional,Real Estate,White,Medium,Yes,41239,Yes
+46+,Low,Expat - Western,High,Occasional,Watches,Silver,Medium,No,38487,No
+46+,Medium,Expat - Arab,Medium,Frequent,Automobiles,Black,Medium,Yes,13943,No
+46+,Ultra High,Emirati,Medium,Frequent,Jewelry,Silver,Low,No,38631,No
+36-45,Low,Emirati,High,Frequent,Automobiles,Bold Colors,High,No,37806,Yes
+26-35,Medium,Other,Low,Frequent,Automobiles,Gold,High,No,19836,No
+18-25,Low,Emirati,Low,Occasional,Jewelry,Silver,Medium,Yes,36614,No
+26-35,Ultra High,Expat - Arab,High,Frequent,Automobiles,White,Low,No,41832,No
+46+,Ultra High,Other,Medium,Frequent,Jewelry,Black,Low,Yes,12394,No
+46+,Ultra High,Expat - Western,High,Frequent,Jewelry,White,High,No,7622,No
+26-35,Medium,Emirati,Medium,Frequent,Jewelry,White,Medium,Yes,46063,No
+26-35,High,Expat - Indian,Low,Rare,Watches,Silver,High,Yes,26280,No
+26-35,High,Emirati,High,Occasional,Real Estate,Black,High,No,12782,No
+46+,Medium,Expat - Western,Medium,Occasional,Watches,Gold,Low,Yes,2159,No
+46+,High,Other,Low,Frequent,Jewelry,White,Low,Yes,5626,No
+18-25,Low,Expat - Western,High,Rare,Real Estate,Black,High,No,24440,No
+18-25,Medium,Expat - Indian,Medium,Occasional,Real Estate,Gold,Medium,Yes,37490,No
+46+,Low,Expat - Arab,Medium,Occasional,Jewelry,White,Medium,No,12630,No
+26-35,Low,Emirati,Medium,Frequent,Real Estate,Black,High,Yes,45042,No
+26-35,Low,Other,High,Frequent,Real Estate,Silver,High,No,48656,No
+18-25,Medium,Expat - Arab,High,Occasional,Watches,White,Medium,No,7589,No
+46+,Medium,Expat - Western,High,Occasional,Real Estate,White,Medium,Yes,49241,Yes
+18-25,High,Other,Low,Rare,Jewelry,Black,Medium,Yes,24233,No
+18-25,Low,Expat - Arab,High,Occasional,Fashion,White,High,Yes,36011,No
+36-45,Medium,Other,Medium,Occasional,Fashion,Gold,Low,Yes,9177,No
+36-45,Medium,Expat - Indian,Medium,Frequent,Fashion,White,Medium,Yes,35528,No
+36-45,High,Expat - Indian,Medium,Occasional,Jewelry,Bold Colors,Medium,No,49970,No
+26-35,Medium,Emirati,High,Frequent,Fashion,Gold,Medium,Yes,39210,No
+46+,Medium,Emirati,High,Occasional,Watches,Black,High,Yes,27372,No
+46+,High,Expat - Indian,Low,Occasional,Jewelry,Gold,Low,No,24508,No
+46+,Medium,Other,Medium,Occasional,Jewelry,Bold Colors,Low,Yes,15965,No
+46+,Low,Expat - Indian,High,Rare,Jewelry,Bold Colors,Medium,Yes,4236,No
+36-45,Low,Emirati,Low,Frequent,Real Estate,White,High,Yes,16611,No
+26-35,High,Expat - Indian,High,Rare,Real Estate,White,Low,Yes,23282,Yes
+26-35,Low,Expat - Indian,Medium,Occasional,Real Estate,Silver,High,No,42003,No
+36-45,High,Other,Medium,Rare,Automobiles,Gold,Low,No,16829,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Watches,Silver,Medium,Yes,9680,No
+36-45,Ultra High,Emirati,Medium,Occasional,Jewelry,Bold Colors,High,Yes,12340,No
+46+,High,Other,High,Rare,Jewelry,White,Medium,Yes,32093,Yes
+36-45,Ultra High,Expat - Indian,Medium,Rare,Real Estate,White,Low,Yes,22107,No
+46+,Medium,Expat - Indian,High,Frequent,Jewelry,White,Low,No,10148,No
+46+,High,Expat - Arab,Medium,Rare,Jewelry,Black,Medium,Yes,44074,No
+18-25,Medium,Emirati,Low,Frequent,Fashion,Bold Colors,Low,Yes,18499,No
+36-45,Medium,Emirati,Low,Occasional,Jewelry,White,Medium,Yes,19165,No
+18-25,Medium,Expat - Western,Medium,Occasional,Automobiles,Bold Colors,Medium,No,44786,No
+36-45,High,Emirati,High,Rare,Real Estate,White,Medium,No,26226,No
+36-45,Ultra High,Expat - Arab,Medium,Occasional,Watches,Gold,Low,No,19260,No
+18-25,High,Expat - Western,Medium,Occasional,Watches,Bold Colors,High,No,25916,No
+18-25,Medium,Expat - Western,Medium,Rare,Fashion,Silver,Medium,Yes,44910,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Watches,Black,High,Yes,31480,No
+26-35,High,Expat - Indian,Medium,Rare,Watches,Silver,Low,Yes,33191,No
+46+,Low,Emirati,High,Frequent,Real Estate,Bold Colors,Low,No,10546,Yes
+18-25,Low,Expat - Western,Medium,Frequent,Real Estate,White,High,No,37044,No
+46+,Medium,Expat - Indian,Medium,Frequent,Automobiles,Bold Colors,Medium,Yes,22921,No
+26-35,Low,Expat - Arab,Low,Rare,Fashion,Black,Low,No,49776,No
+26-35,Low,Expat - Indian,High,Rare,Watches,Bold Colors,Medium,No,37940,No
+26-35,Low,Expat - Indian,Medium,Occasional,Automobiles,White,Medium,No,46951,No
+18-25,Low,Expat - Western,Low,Occasional,Fashion,Silver,High,Yes,13836,No
+26-35,Low,Expat - Western,Medium,Occasional,Watches,Gold,Low,No,9989,No
+18-25,Ultra High,Other,Medium,Occasional,Watches,Silver,High,Yes,14740,No
+26-35,Medium,Expat - Arab,Medium,Occasional,Real Estate,White,Low,No,31180,No
+46+,Medium,Expat - Western,Medium,Rare,Jewelry,White,High,No,14102,No
+46+,Medium,Emirati,High,Rare,Fashion,Black,Low,Yes,16357,No
+36-45,Low,Expat - Arab,Low,Frequent,Watches,Bold Colors,Low,No,49381,Yes
+46+,Ultra High,Expat - Arab,High,Frequent,Fashion,Bold Colors,Low,No,31255,No
+36-45,High,Expat - Western,Medium,Frequent,Automobiles,Silver,Medium,Yes,37094,No
+46+,Low,Expat - Arab,Medium,Frequent,Automobiles,Gold,Medium,Yes,26221,No
+18-25,Medium,Expat - Western,Medium,Rare,Jewelry,Gold,High,Yes,1719,Yes
+46+,High,Expat - Indian,Medium,Rare,Watches,Black,High,No,18906,Yes
+36-45,Ultra High,Other,High,Rare,Real Estate,White,Low,No,24140,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Watches,Black,Low,Yes,2069,No
+26-35,Medium,Expat - Western,Medium,Occasional,Fashion,Bold Colors,Medium,Yes,8749,No
+18-25,Low,Expat - Western,Medium,Frequent,Automobiles,White,Medium,Yes,13935,No
+46+,Ultra High,Expat - Indian,High,Occasional,Fashion,Black,Medium,Yes,38655,Yes
+26-35,Low,Emirati,Medium,Rare,Jewelry,Silver,High,Yes,45035,No
+46+,Ultra High,Emirati,High,Frequent,Automobiles,Bold Colors,Medium,Yes,31720,Yes
+46+,Medium,Emirati,Medium,Frequent,Real Estate,Gold,High,Yes,28937,Yes
+26-35,Medium,Expat - Western,Low,Occasional,Automobiles,Black,Medium,Yes,19540,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Watches,Bold Colors,Medium,No,8944,No
+26-35,Low,Expat - Western,Medium,Occasional,Watches,Bold Colors,Low,No,49702,No
+26-35,Low,Expat - Arab,Medium,Occasional,Automobiles,Gold,High,No,13747,No
+26-35,Low,Expat - Indian,Low,Frequent,Jewelry,Gold,Medium,No,11505,No
+46+,Low,Other,High,Occasional,Watches,Gold,Low,Yes,47217,No
+26-35,High,Expat - Arab,High,Occasional,Watches,Black,High,Yes,12697,No
+18-25,Medium,Emirati,High,Occasional,Real Estate,Gold,High,Yes,37907,No
+36-45,Low,Expat - Western,Low,Occasional,Automobiles,Silver,Medium,No,16221,No
+26-35,Ultra High,Expat - Indian,Low,Frequent,Watches,Bold Colors,High,No,8087,No
+26-35,High,Emirati,Low,Rare,Jewelry,Gold,Low,No,22462,No
+46+,Ultra High,Expat - Indian,High,Rare,Fashion,Bold Colors,Low,No,23789,No
+26-35,Ultra High,Other,High,Occasional,Automobiles,White,High,No,34400,No
+26-35,Low,Expat - Western,Medium,Occasional,Real Estate,White,Low,Yes,3199,No
+26-35,Medium,Expat - Western,Low,Occasional,Watches,Gold,High,Yes,48316,No
+46+,High,Other,Medium,Rare,Jewelry,Bold Colors,Low,Yes,45023,No
+26-35,Medium,Expat - Western,Medium,Occasional,Automobiles,White,High,Yes,22737,No
+36-45,Low,Expat - Arab,Medium,Frequent,Jewelry,Gold,High,No,7073,No
+46+,High,Expat - Indian,Medium,Frequent,Jewelry,Bold Colors,High,Yes,17744,No
+36-45,Low,Emirati,High,Frequent,Real Estate,Gold,Low,Yes,11559,No
+46+,Low,Other,Low,Rare,Automobiles,Bold Colors,High,Yes,33695,No
+26-35,Medium,Expat - Arab,Low,Occasional,Watches,White,High,Yes,49865,No
+36-45,Medium,Emirati,High,Occasional,Real Estate,Gold,Medium,Yes,9401,No
+46+,Medium,Emirati,Medium,Occasional,Watches,White,Medium,Yes,12659,No
+18-25,Low,Other,Low,Rare,Fashion,Gold,High,Yes,42890,No
+26-35,High,Expat - Arab,Low,Rare,Jewelry,Black,Medium,No,14894,No
+46+,Low,Emirati,Low,Rare,Fashion,White,High,Yes,30160,No
+18-25,Low,Emirati,Medium,Rare,Jewelry,White,Medium,No,30272,No
+46+,High,Expat - Arab,High,Frequent,Real Estate,Silver,Low,No,25512,No
+18-25,Ultra High,Expat - Western,Medium,Rare,Watches,White,Low,No,34645,No
+26-35,High,Emirati,Medium,Rare,Watches,Bold Colors,High,No,47543,Yes
+36-45,High,Expat - Indian,Medium,Rare,Real Estate,Gold,High,Yes,22179,No
+18-25,Medium,Expat - Arab,Medium,Occasional,Automobiles,Black,Low,Yes,11691,No
+46+,Medium,Emirati,High,Occasional,Fashion,Bold Colors,Low,Yes,17110,No
+26-35,Low,Other,High,Occasional,Fashion,Bold Colors,Medium,Yes,36291,No
+18-25,Medium,Expat - Indian,Low,Frequent,Watches,Bold Colors,High,No,46311,No
+46+,Medium,Emirati,High,Frequent,Watches,Bold Colors,Low,No,30845,Yes
+46+,Low,Expat - Indian,Medium,Rare,Watches,Black,Low,Yes,40038,No
+46+,High,Expat - Indian,High,Occasional,Real Estate,Silver,High,Yes,25967,Yes
+18-25,Medium,Expat - Western,Medium,Frequent,Automobiles,White,Medium,Yes,29478,No
+18-25,Low,Expat - Indian,High,Occasional,Fashion,Bold Colors,Medium,No,6088,No
+18-25,Low,Expat - Western,High,Frequent,Jewelry,White,Medium,No,41332,No
+36-45,Medium,Expat - Arab,Medium,Frequent,Real Estate,White,Medium,No,8066,No
+18-25,Low,Expat - Western,Medium,Rare,Fashion,Bold Colors,Low,No,40313,No
+18-25,High,Other,High,Rare,Automobiles,Silver,High,Yes,3321,Yes
+18-25,Medium,Emirati,High,Frequent,Real Estate,White,High,Yes,46900,No
+36-45,Medium,Expat - Arab,Low,Rare,Fashion,Gold,Low,Yes,25533,No
+18-25,Medium,Expat - Arab,High,Frequent,Real Estate,White,Low,Yes,25509,No
+46+,High,Other,Medium,Frequent,Fashion,Bold Colors,Low,No,42098,No
+18-25,Medium,Expat - Western,Low,Occasional,Fashion,Black,High,Yes,9294,No
+46+,Medium,Emirati,Medium,Rare,Automobiles,White,High,No,47321,No
+46+,Medium,Expat - Western,Medium,Rare,Jewelry,Silver,High,Yes,39101,No
+46+,Low,Expat - Indian,High,Rare,Automobiles,Gold,Medium,Yes,26059,No
+36-45,High,Expat - Western,Medium,Occasional,Fashion,Gold,Low,Yes,32248,No
+36-45,High,Expat - Arab,High,Occasional,Real Estate,Black,Low,Yes,41626,Yes
+36-45,Medium,Emirati,Low,Occasional,Automobiles,Black,Low,No,21703,No
+18-25,High,Expat - Western,Medium,Rare,Jewelry,White,High,Yes,39157,No
+46+,High,Emirati,Medium,Rare,Fashion,Bold Colors,Low,No,4205,No
+36-45,High,Emirati,Medium,Rare,Automobiles,Silver,Low,No,35929,No
+36-45,High,Expat - Indian,Low,Occasional,Automobiles,Gold,Medium,Yes,18848,No
+18-25,Medium,Expat - Indian,Low,Occasional,Automobiles,Black,High,No,34411,No
+36-45,Medium,Expat - Arab,Medium,Frequent,Automobiles,Silver,Low,Yes,15986,No
+18-25,Medium,Other,Medium,Occasional,Real Estate,Bold Colors,High,No,12628,No
+26-35,High,Emirati,Medium,Frequent,Jewelry,Gold,High,No,39119,No
+36-45,Low,Other,Medium,Rare,Jewelry,Gold,High,No,5553,No
+26-35,High,Expat - Arab,High,Occasional,Fashion,Bold Colors,Medium,Yes,7518,Yes
+18-25,High,Emirati,High,Rare,Watches,Gold,High,Yes,39491,Yes
+46+,Low,Emirati,Medium,Rare,Real Estate,Bold Colors,High,Yes,8946,No
+36-45,High,Other,Medium,Rare,Fashion,Gold,High,Yes,1610,No
+18-25,Low,Expat - Western,Low,Rare,Fashion,White,Low,No,5302,No
+46+,Medium,Expat - Indian,High,Occasional,Automobiles,Bold Colors,Medium,No,35311,No
+46+,High,Expat - Western,Low,Rare,Watches,Silver,Low,Yes,35234,Yes
+26-35,Low,Other,Medium,Frequent,Watches,White,Medium,Yes,42876,No
+18-25,High,Expat - Indian,Medium,Occasional,Real Estate,Silver,Medium,Yes,15656,No
+46+,High,Expat - Western,Medium,Rare,Watches,Gold,High,Yes,40004,No
+36-45,Medium,Expat - Indian,Low,Occasional,Fashion,Silver,High,Yes,47487,No
+36-45,Low,Emirati,High,Frequent,Watches,White,Low,Yes,19656,No
+26-35,Low,Expat - Western,Low,Rare,Watches,Bold Colors,Medium,No,42811,No
+46+,Medium,Expat - Indian,Medium,Frequent,Jewelry,Black,High,Yes,5536,No
+18-25,Ultra High,Expat - Indian,Low,Rare,Fashion,Silver,High,Yes,43974,No
+36-45,Medium,Expat - Indian,Low,Frequent,Watches,Black,High,No,20856,No
+46+,Low,Expat - Western,High,Rare,Watches,Silver,High,Yes,37410,No
+46+,Medium,Expat - Arab,Low,Occasional,Automobiles,Silver,Low,No,45830,No
+26-35,Medium,Expat - Western,High,Rare,Watches,Bold Colors,Low,No,17447,No
+36-45,High,Other,Medium,Occasional,Watches,Gold,High,No,46823,No
+36-45,Low,Expat - Western,Low,Rare,Jewelry,White,High,Yes,34327,Yes
+18-25,High,Expat - Indian,High,Rare,Fashion,White,High,Yes,35501,Yes
+36-45,Medium,Emirati,Medium,Frequent,Real Estate,White,High,No,9861,No
+18-25,Ultra High,Expat - Western,High,Frequent,Fashion,Gold,High,No,21278,No
+36-45,Medium,Expat - Western,Low,Frequent,Automobiles,Black,Medium,Yes,2542,No
+26-35,Medium,Expat - Indian,High,Rare,Fashion,White,Medium,Yes,43231,No
+36-45,Ultra High,Emirati,Low,Rare,Watches,Black,Medium,Yes,3415,No
+18-25,Low,Emirati,Medium,Rare,Automobiles,Gold,Medium,Yes,44751,No
+18-25,Ultra High,Other,High,Occasional,Fashion,Gold,High,Yes,13905,Yes
+26-35,Medium,Expat - Western,High,Occasional,Automobiles,Bold Colors,Medium,Yes,22601,No
+36-45,Low,Emirati,High,Rare,Real Estate,White,Medium,Yes,39155,No
+36-45,Medium,Emirati,High,Frequent,Fashion,Bold Colors,Low,No,22563,No
+26-35,High,Expat - Arab,High,Frequent,Watches,White,Medium,Yes,41955,Yes
+36-45,Low,Expat - Arab,Low,Frequent,Automobiles,Gold,Medium,No,7643,No
+36-45,Medium,Emirati,Medium,Rare,Jewelry,Gold,High,No,49435,Yes
+18-25,Medium,Other,Medium,Frequent,Automobiles,Silver,Medium,Yes,25044,No
+36-45,Medium,Emirati,Medium,Rare,Jewelry,Silver,Medium,No,12246,No
+36-45,Low,Expat - Indian,Medium,Occasional,Watches,Gold,High,No,3458,No
+26-35,High,Expat - Western,Medium,Frequent,Real Estate,Gold,Medium,Yes,7028,No
+26-35,Ultra High,Other,Low,Occasional,Jewelry,Black,High,Yes,39215,No
+46+,Ultra High,Expat - Indian,Medium,Frequent,Real Estate,Black,Medium,Yes,35716,No
+18-25,High,Other,Low,Rare,Automobiles,Bold Colors,Low,No,7306,No
+36-45,Low,Expat - Indian,Medium,Rare,Watches,Silver,Low,No,42019,No
+36-45,High,Expat - Western,Medium,Rare,Jewelry,Silver,Medium,Yes,41860,No
+46+,Low,Expat - Western,High,Rare,Automobiles,Gold,Low,No,28678,No
+36-45,Low,Expat - Arab,High,Frequent,Fashion,Gold,High,Yes,25908,No
+18-25,Medium,Expat - Indian,Medium,Occasional,Automobiles,Bold Colors,Medium,Yes,13363,No
+46+,Medium,Expat - Arab,Low,Rare,Real Estate,Silver,High,No,15066,No
+18-25,High,Expat - Indian,Medium,Frequent,Watches,Black,Low,Yes,49897,No
+46+,Medium,Expat - Arab,Low,Occasional,Watches,White,High,No,49544,No
+46+,Medium,Expat - Western,Medium,Rare,Automobiles,Bold Colors,Low,No,33711,No
+26-35,Low,Other,Medium,Occasional,Fashion,White,Low,No,1189,No
+18-25,Ultra High,Expat - Arab,Low,Rare,Real Estate,Black,Low,Yes,12752,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Automobiles,Black,High,No,8482,No
+36-45,Medium,Expat - Indian,High,Occasional,Automobiles,White,Low,No,17679,No
+18-25,Low,Expat - Western,High,Rare,Watches,Bold Colors,Medium,Yes,25552,Yes
+36-45,High,Expat - Indian,Medium,Frequent,Real Estate,White,Low,Yes,1799,No
+36-45,Medium,Emirati,Low,Occasional,Fashion,Bold Colors,Medium,Yes,26381,No
+18-25,Low,Other,Low,Rare,Watches,Bold Colors,Medium,No,10934,No
+46+,Low,Expat - Arab,Medium,Occasional,Automobiles,Gold,Medium,No,20084,No
+18-25,Medium,Other,High,Occasional,Watches,Silver,Medium,Yes,42556,No
+46+,Medium,Expat - Western,Low,Frequent,Watches,Silver,High,No,10909,No
+36-45,Low,Expat - Arab,High,Occasional,Jewelry,Black,Medium,Yes,26931,No
+36-45,Ultra High,Expat - Arab,Low,Occasional,Watches,Gold,Low,No,46183,No
+36-45,Low,Emirati,High,Rare,Watches,Silver,Medium,Yes,26868,Yes
+26-35,Medium,Expat - Western,Medium,Rare,Real Estate,Bold Colors,Low,Yes,44558,No
+46+,Ultra High,Expat - Indian,High,Frequent,Watches,Bold Colors,High,Yes,14846,No
+26-35,Medium,Emirati,Medium,Occasional,Fashion,White,Medium,Yes,23257,No
+26-35,Medium,Emirati,Medium,Occasional,Automobiles,White,Low,No,29013,No
+18-25,Medium,Other,Low,Occasional,Real Estate,Bold Colors,High,Yes,38482,No
+26-35,Low,Other,Low,Frequent,Watches,Bold Colors,High,Yes,23875,No
+18-25,Ultra High,Other,High,Occasional,Fashion,White,Low,Yes,25717,Yes
+18-25,Medium,Emirati,High,Rare,Automobiles,Silver,Medium,Yes,12408,No
+26-35,High,Expat - Indian,High,Frequent,Real Estate,Black,High,No,36607,No
+46+,Low,Expat - Arab,Medium,Rare,Fashion,White,Low,No,37281,No
+46+,Low,Other,High,Rare,Watches,Silver,Medium,Yes,28326,No
+46+,Low,Expat - Indian,Low,Frequent,Jewelry,Silver,High,Yes,14601,No
+46+,Medium,Expat - Western,Medium,Rare,Jewelry,Silver,Low,Yes,2135,No
+46+,Medium,Other,Medium,Occasional,Real Estate,Gold,High,No,23741,No
+26-35,High,Expat - Arab,Medium,Frequent,Fashion,Gold,High,No,12913,No
+26-35,Medium,Expat - Western,Medium,Rare,Automobiles,Silver,Low,No,11101,No
+36-45,Ultra High,Expat - Western,Low,Occasional,Fashion,Bold Colors,High,No,19631,No
+46+,Low,Expat - Arab,Medium,Occasional,Jewelry,Gold,Low,No,7548,No
+26-35,High,Other,High,Rare,Real Estate,White,Medium,No,38284,No
+36-45,High,Emirati,Medium,Occasional,Watches,Gold,Low,Yes,37870,No
+46+,High,Expat - Arab,Low,Frequent,Fashion,Bold Colors,Medium,Yes,49985,No
+18-25,High,Expat - Arab,Low,Rare,Jewelry,Black,High,Yes,28215,No
+36-45,High,Expat - Arab,Medium,Occasional,Automobiles,Gold,Low,Yes,38279,No
+26-35,Medium,Expat - Western,Medium,Occasional,Real Estate,Silver,Low,No,20215,No
+18-25,Low,Expat - Indian,Medium,Rare,Watches,Silver,Low,Yes,26582,No
+18-25,Low,Emirati,Medium,Rare,Fashion,Silver,Low,Yes,15024,Yes
+18-25,Ultra High,Other,Medium,Rare,Automobiles,Black,Medium,Yes,12413,No
+36-45,Medium,Other,Medium,Rare,Watches,Bold Colors,Medium,Yes,17319,No
+26-35,High,Expat - Indian,High,Frequent,Jewelry,White,High,Yes,20446,Yes
+18-25,Medium,Expat - Arab,Medium,Rare,Jewelry,Bold Colors,High,No,46483,No
+46+,Low,Emirati,Medium,Frequent,Automobiles,Black,High,No,41743,Yes
+18-25,Low,Other,High,Frequent,Jewelry,Silver,High,No,33036,No
+18-25,Medium,Other,Low,Rare,Real Estate,Bold Colors,Low,Yes,13621,No
+36-45,Medium,Expat - Arab,Low,Frequent,Automobiles,White,Medium,Yes,11511,No
+36-45,Low,Expat - Indian,High,Rare,Jewelry,Silver,Medium,Yes,20923,No
+26-35,Medium,Emirati,Medium,Rare,Fashion,White,Medium,No,11558,Yes
+46+,Low,Expat - Indian,Medium,Occasional,Jewelry,Gold,Medium,Yes,33235,No
+36-45,Medium,Expat - Indian,Low,Rare,Real Estate,White,High,Yes,1526,No
+18-25,Low,Emirati,Medium,Occasional,Watches,Silver,Low,No,2753,No
+26-35,High,Emirati,Medium,Frequent,Watches,Gold,Medium,Yes,27248,No
+18-25,Medium,Other,Low,Occasional,Jewelry,Silver,Low,Yes,15656,No
+18-25,Medium,Other,Medium,Frequent,Watches,Silver,Low,Yes,24266,Yes
+36-45,Low,Emirati,Medium,Rare,Jewelry,Gold,Low,Yes,11220,Yes
+26-35,Low,Expat - Western,Medium,Frequent,Real Estate,White,Low,Yes,19038,No
+46+,Medium,Other,Low,Frequent,Watches,Black,Medium,Yes,13741,No
+46+,Medium,Expat - Western,Low,Rare,Fashion,Black,Medium,No,5841,No
+36-45,Medium,Emirati,Medium,Frequent,Jewelry,Black,Medium,No,37809,No
+36-45,Low,Other,Low,Rare,Watches,Black,High,Yes,31575,No
+26-35,Medium,Expat - Indian,High,Occasional,Real Estate,Bold Colors,Medium,No,42733,No
+46+,High,Emirati,Low,Rare,Real Estate,Black,High,Yes,15418,No
+46+,High,Expat - Arab,Medium,Rare,Fashion,Gold,High,Yes,38185,No
+46+,Low,Expat - Western,Low,Frequent,Real Estate,Black,High,Yes,42745,No
+18-25,Medium,Emirati,Medium,Occasional,Real Estate,Silver,Medium,No,28881,Yes
+46+,Low,Emirati,High,Rare,Watches,Black,Medium,Yes,15587,No
+18-25,Low,Other,Low,Occasional,Jewelry,White,Medium,No,23268,No
+26-35,Ultra High,Other,High,Occasional,Automobiles,Gold,High,No,1448,No
+18-25,Low,Other,Medium,Frequent,Real Estate,Gold,High,Yes,38353,No
+26-35,Medium,Expat - Arab,High,Rare,Real Estate,Bold Colors,Low,No,46519,No
+46+,Medium,Other,Medium,Frequent,Automobiles,Silver,High,No,9108,Yes
+46+,High,Emirati,High,Rare,Real Estate,Gold,High,Yes,49302,Yes
+26-35,Medium,Other,Medium,Occasional,Watches,White,Medium,Yes,12443,Yes
+36-45,Low,Expat - Indian,Medium,Rare,Watches,Black,Low,No,23435,No
+26-35,Medium,Other,Low,Rare,Automobiles,Gold,Low,No,34062,No
+36-45,Medium,Expat - Arab,Low,Occasional,Real Estate,White,Low,Yes,2238,Yes
+18-25,Low,Expat - Indian,High,Occasional,Real Estate,Black,Medium,Yes,16321,No
+18-25,Medium,Emirati,Medium,Rare,Jewelry,Bold Colors,Low,Yes,17074,Yes
+18-25,Low,Emirati,Medium,Frequent,Real Estate,Gold,Low,Yes,14049,Yes
+46+,Low,Expat - Western,High,Rare,Watches,Gold,Medium,Yes,36584,No
+18-25,Medium,Expat - Indian,Medium,Occasional,Fashion,White,Low,No,2098,No
+36-45,Low,Expat - Western,High,Frequent,Fashion,Silver,High,No,15679,No
+18-25,Medium,Expat - Indian,High,Occasional,Fashion,Bold Colors,High,Yes,35505,No
+26-35,Medium,Expat - Indian,Medium,Occasional,Fashion,Silver,High,No,36533,No
+26-35,High,Expat - Arab,High,Frequent,Real Estate,Gold,High,No,47998,No
+46+,Low,Expat - Western,Low,Occasional,Real Estate,Silver,High,Yes,12434,No
+26-35,Low,Expat - Arab,Medium,Occasional,Jewelry,Black,High,Yes,45859,No
+36-45,Low,Expat - Indian,Medium,Occasional,Real Estate,Bold Colors,High,Yes,34178,No
+18-25,Medium,Emirati,Medium,Occasional,Fashion,Silver,High,No,28575,Yes
+46+,High,Expat - Indian,High,Occasional,Automobiles,Black,High,Yes,20329,Yes
+18-25,Low,Expat - Arab,High,Occasional,Automobiles,White,Medium,No,38554,No
+18-25,Ultra High,Expat - Western,Medium,Occasional,Watches,Silver,Medium,Yes,42837,No
+36-45,Low,Expat - Western,Medium,Occasional,Watches,Bold Colors,High,Yes,19493,No
+26-35,Medium,Expat - Arab,High,Occasional,Real Estate,Black,Medium,Yes,22830,No
+26-35,High,Expat - Western,Medium,Rare,Automobiles,Silver,Medium,Yes,39603,No
+18-25,High,Other,Medium,Rare,Fashion,White,High,No,35754,No
+46+,High,Emirati,Medium,Occasional,Fashion,Silver,High,No,9126,No
+26-35,High,Emirati,High,Rare,Fashion,Black,Medium,Yes,42838,Yes
+46+,Medium,Emirati,Medium,Frequent,Real Estate,Silver,High,No,41068,Yes
+26-35,High,Expat - Western,High,Rare,Real Estate,Bold Colors,High,No,23093,No
+46+,Low,Expat - Western,High,Occasional,Jewelry,Gold,High,Yes,49316,No
+36-45,High,Expat - Indian,Medium,Occasional,Fashion,Black,High,No,36171,No
+46+,Medium,Expat - Indian,Medium,Rare,Fashion,Black,Medium,Yes,9262,No
+36-45,High,Emirati,High,Occasional,Real Estate,Black,Low,Yes,44270,Yes
+36-45,Medium,Other,Medium,Frequent,Real Estate,Black,Medium,Yes,21785,No
+46+,Medium,Expat - Indian,High,Frequent,Jewelry,Silver,Low,No,40469,No
+36-45,Medium,Expat - Indian,High,Occasional,Jewelry,Bold Colors,Low,Yes,4295,No
+18-25,High,Expat - Western,Medium,Frequent,Watches,White,Low,No,16687,No
+36-45,Low,Other,High,Frequent,Automobiles,Bold Colors,Medium,No,46643,No
+26-35,Low,Emirati,High,Rare,Fashion,Black,Medium,Yes,3121,No
+46+,Low,Expat - Indian,High,Frequent,Fashion,Silver,Medium,Yes,4582,No
+18-25,Low,Other,Medium,Rare,Jewelry,Silver,Medium,Yes,48245,No
+46+,High,Other,Low,Occasional,Jewelry,Black,Medium,Yes,31280,No
+26-35,Low,Emirati,Medium,Rare,Watches,Silver,Low,Yes,43589,No
+26-35,Ultra High,Other,Medium,Occasional,Automobiles,Black,Medium,Yes,39468,No
+26-35,Medium,Other,Medium,Occasional,Watches,Bold Colors,Low,Yes,41000,No
+36-45,Low,Other,High,Occasional,Automobiles,Gold,Medium,Yes,38056,No
+36-45,High,Expat - Indian,Medium,Occasional,Fashion,Silver,Medium,Yes,32672,No
+46+,Medium,Emirati,Medium,Occasional,Watches,Black,High,Yes,2085,No
+46+,Medium,Other,Low,Rare,Jewelry,Black,Low,No,16891,No
+18-25,Medium,Other,High,Occasional,Watches,Silver,Medium,No,16600,No
+18-25,High,Expat - Indian,Medium,Frequent,Watches,White,Medium,Yes,33458,No
+46+,Low,Emirati,Medium,Frequent,Fashion,Black,Medium,Yes,9645,No
+36-45,Ultra High,Expat - Western,Medium,Occasional,Jewelry,Silver,High,Yes,42578,No
+26-35,Ultra High,Expat - Indian,High,Frequent,Jewelry,Black,Low,Yes,42596,Yes
+46+,Medium,Emirati,Medium,Rare,Real Estate,White,Medium,Yes,5874,No
+18-25,Low,Other,Medium,Rare,Real Estate,Gold,Medium,No,14767,No
+36-45,Medium,Emirati,High,Occasional,Real Estate,White,Medium,No,27825,Yes
+46+,Low,Emirati,High,Occasional,Fashion,Bold Colors,High,Yes,11913,No
+46+,Low,Emirati,High,Occasional,Watches,Silver,Medium,No,17215,No
+36-45,Low,Expat - Western,Medium,Frequent,Jewelry,White,Low,Yes,19733,No
+46+,Medium,Emirati,Medium,Frequent,Jewelry,Gold,Low,Yes,15332,No
+36-45,High,Expat - Western,High,Rare,Watches,Black,Low,Yes,5432,Yes
+26-35,High,Other,Medium,Frequent,Jewelry,Silver,Low,Yes,23559,No
+36-45,High,Expat - Western,High,Rare,Watches,White,Medium,Yes,27570,Yes
+36-45,Medium,Other,Medium,Frequent,Fashion,Gold,High,Yes,41033,No
+36-45,Medium,Other,Medium,Rare,Fashion,White,High,Yes,7103,No
+46+,Medium,Expat - Western,Low,Occasional,Fashion,Bold Colors,High,Yes,44780,No
+46+,Ultra High,Expat - Indian,Medium,Frequent,Watches,Silver,Medium,No,16900,No
+36-45,Low,Expat - Arab,Low,Rare,Watches,Black,High,No,3031,No
+46+,High,Emirati,Low,Frequent,Automobiles,Gold,Low,Yes,18633,No
+18-25,Medium,Expat - Arab,High,Occasional,Jewelry,White,Medium,Yes,24192,No
+18-25,Medium,Emirati,Medium,Rare,Jewelry,Silver,High,Yes,20940,No
+46+,High,Emirati,Medium,Frequent,Automobiles,White,Low,No,42287,No
+46+,Medium,Other,High,Frequent,Automobiles,Silver,Low,Yes,9988,No
+36-45,High,Emirati,Medium,Occasional,Fashion,Bold Colors,Medium,Yes,39067,No
+26-35,Ultra High,Emirati,Low,Occasional,Automobiles,White,Medium,Yes,13952,No
+46+,Medium,Expat - Western,High,Rare,Watches,Bold Colors,High,Yes,28369,No
+18-25,Low,Expat - Arab,Medium,Frequent,Real Estate,Gold,High,Yes,36862,No
+36-45,Medium,Expat - Western,High,Frequent,Watches,Bold Colors,High,No,3977,No
+46+,Ultra High,Emirati,High,Occasional,Automobiles,Silver,Medium,No,39493,No
+18-25,Low,Other,High,Occasional,Jewelry,Gold,High,Yes,2268,No
+18-25,Medium,Expat - Western,Medium,Rare,Watches,White,High,Yes,49929,No
+26-35,Medium,Expat - Western,Medium,Frequent,Jewelry,White,Low,Yes,17756,No
+36-45,High,Expat - Indian,Medium,Frequent,Watches,Silver,Low,Yes,21764,No
+36-45,Low,Emirati,Low,Rare,Jewelry,Black,Low,No,41385,No
+26-35,High,Other,High,Rare,Watches,Black,High,Yes,16032,Yes
+26-35,Ultra High,Expat - Western,Low,Occasional,Jewelry,White,Medium,Yes,30478,No
+36-45,Low,Expat - Western,Medium,Occasional,Real Estate,Silver,Low,Yes,46702,No
+36-45,Low,Other,High,Rare,Fashion,Black,Medium,No,12885,No
+46+,Ultra High,Emirati,Medium,Rare,Watches,Bold Colors,High,No,10796,No
+46+,Low,Expat - Indian,Medium,Frequent,Real Estate,White,High,Yes,40047,No
+26-35,High,Expat - Western,Medium,Rare,Fashion,Bold Colors,Low,Yes,33863,No
+46+,Medium,Expat - Indian,High,Rare,Watches,Silver,Medium,Yes,16478,No
+18-25,Low,Expat - Arab,Medium,Frequent,Real Estate,Bold Colors,Low,No,33117,No
+46+,High,Emirati,High,Rare,Real Estate,Black,High,Yes,21753,Yes
+46+,Medium,Expat - Arab,Low,Occasional,Real Estate,Black,Medium,Yes,21325,No
+18-25,Medium,Expat - Arab,High,Occasional,Automobiles,Gold,Low,Yes,8021,No
+26-35,Medium,Expat - Arab,High,Frequent,Jewelry,White,High,No,16185,No
+18-25,Medium,Emirati,Low,Rare,Fashion,Silver,Low,Yes,6868,No
+46+,Low,Emirati,Medium,Occasional,Jewelry,White,Medium,Yes,14071,No
+26-35,Medium,Other,Low,Occasional,Jewelry,Bold Colors,Medium,Yes,9041,No
+46+,Ultra High,Expat - Indian,High,Occasional,Jewelry,Silver,Medium,No,17515,No
+18-25,Low,Expat - Indian,Medium,Occasional,Real Estate,Silver,Medium,No,45075,No
+18-25,Medium,Other,Medium,Rare,Jewelry,Black,Medium,No,41058,No
+46+,Medium,Other,Low,Rare,Automobiles,Bold Colors,Low,Yes,49263,No
+36-45,High,Expat - Arab,Medium,Rare,Watches,Black,Low,Yes,26966,No
+36-45,Low,Other,Low,Rare,Real Estate,Black,Low,No,40284,No
+18-25,Ultra High,Expat - Western,Medium,Occasional,Fashion,Gold,Low,Yes,43109,No
+18-25,Medium,Expat - Indian,Medium,Frequent,Watches,Black,High,No,45470,No
+36-45,Low,Other,High,Frequent,Watches,White,High,No,23290,No
+36-45,Low,Expat - Western,Medium,Occasional,Watches,Silver,Low,Yes,31702,No
+46+,Low,Expat - Western,Medium,Occasional,Jewelry,Black,High,Yes,29223,No
+46+,Medium,Expat - Western,High,Frequent,Jewelry,White,High,No,34575,No
+36-45,Medium,Expat - Western,High,Frequent,Real Estate,Bold Colors,Medium,No,46799,No
+46+,High,Expat - Arab,High,Occasional,Jewelry,Silver,Low,Yes,45168,Yes
+46+,Medium,Expat - Western,Medium,Occasional,Jewelry,Bold Colors,High,Yes,22661,No
+26-35,Low,Expat - Arab,Medium,Rare,Jewelry,White,High,Yes,17439,Yes
+46+,Medium,Expat - Arab,Low,Rare,Real Estate,Bold Colors,Low,Yes,37432,No
+18-25,High,Expat - Western,High,Frequent,Real Estate,Bold Colors,Medium,Yes,34511,Yes
+46+,Low,Expat - Indian,Low,Occasional,Automobiles,Bold Colors,Low,Yes,32147,No
+46+,Low,Expat - Western,Medium,Frequent,Automobiles,Black,Medium,No,30114,Yes
+36-45,Low,Expat - Western,Medium,Rare,Automobiles,Black,High,No,7030,No
+18-25,High,Expat - Western,Medium,Rare,Automobiles,Black,Medium,No,25515,No
+46+,Medium,Expat - Indian,Medium,Frequent,Watches,Silver,Medium,Yes,48429,No
+46+,Medium,Emirati,Low,Rare,Watches,White,Low,Yes,48743,No
+26-35,High,Emirati,Medium,Occasional,Automobiles,Black,High,No,31333,No
+46+,High,Expat - Arab,Medium,Frequent,Automobiles,Bold Colors,Low,Yes,1079,No
+46+,Medium,Expat - Arab,High,Occasional,Fashion,Bold Colors,Low,Yes,48577,No
+26-35,High,Expat - Indian,High,Occasional,Watches,Bold Colors,High,Yes,30048,Yes
+36-45,Low,Other,High,Rare,Fashion,Bold Colors,Low,No,45900,No
+46+,Low,Emirati,High,Occasional,Fashion,Gold,Low,No,3966,No
+26-35,Low,Expat - Arab,Medium,Frequent,Jewelry,Silver,Medium,Yes,49302,No
+18-25,Low,Emirati,Low,Occasional,Real Estate,White,Low,No,4728,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Watches,White,High,Yes,38304,No
+18-25,Ultra High,Expat - Indian,Medium,Occasional,Automobiles,Black,Low,Yes,39581,No
+18-25,Low,Other,Medium,Occasional,Automobiles,Gold,Medium,No,25794,No
+26-35,Low,Other,Medium,Occasional,Real Estate,White,Low,No,1947,No
+46+,Medium,Expat - Indian,Medium,Rare,Watches,Silver,Low,Yes,13565,No
+26-35,Ultra High,Expat - Arab,Medium,Frequent,Automobiles,Bold Colors,Low,Yes,16844,No
+26-35,Medium,Emirati,Medium,Rare,Automobiles,Black,Medium,No,1594,No
+26-35,Medium,Expat - Western,Low,Frequent,Jewelry,Silver,High,No,22414,No
+26-35,Low,Other,High,Frequent,Fashion,White,High,No,31690,No
+36-45,Low,Expat - Western,Low,Frequent,Automobiles,Gold,Medium,Yes,17524,Yes
+46+,Ultra High,Expat - Arab,Low,Frequent,Watches,Black,Medium,No,28469,No
+18-25,Ultra High,Other,Medium,Frequent,Real Estate,White,Low,No,20439,No
+18-25,Low,Expat - Western,Medium,Occasional,Jewelry,Black,High,Yes,27206,No
+46+,Ultra High,Expat - Arab,Medium,Rare,Watches,White,Medium,No,47785,No
+18-25,Medium,Emirati,Medium,Rare,Jewelry,Bold Colors,High,Yes,37973,No
+46+,High,Expat - Arab,Medium,Occasional,Fashion,Gold,Low,Yes,22555,No
+18-25,Medium,Other,Medium,Frequent,Automobiles,Bold Colors,Medium,No,8782,No
+26-35,Medium,Expat - Indian,High,Rare,Watches,White,High,Yes,3660,No
+18-25,Medium,Emirati,High,Occasional,Real Estate,Silver,High,Yes,49781,No
+46+,Medium,Expat - Western,Medium,Occasional,Fashion,Bold Colors,Low,No,40624,No
+46+,Low,Other,Medium,Rare,Fashion,Silver,Medium,Yes,7089,No
+46+,Low,Expat - Indian,High,Rare,Jewelry,White,High,Yes,6318,No
+46+,Medium,Expat - Arab,Low,Frequent,Fashion,Gold,Low,No,27605,No
+46+,High,Expat - Indian,Medium,Frequent,Watches,Silver,High,Yes,30400,No
+36-45,Low,Other,Medium,Rare,Jewelry,White,Low,Yes,16405,No
+36-45,Medium,Other,High,Frequent,Fashion,Silver,High,Yes,31209,No
+18-25,Ultra High,Expat - Indian,Low,Occasional,Real Estate,Bold Colors,High,Yes,9062,No
+46+,Low,Expat - Arab,Medium,Frequent,Watches,White,Low,No,18424,No
+18-25,Medium,Expat - Indian,High,Frequent,Real Estate,Bold Colors,Medium,No,42274,No
+46+,Medium,Other,Medium,Occasional,Real Estate,Black,Low,Yes,24987,No
+46+,High,Other,Low,Frequent,Jewelry,White,Medium,No,45419,No
+36-45,Low,Expat - Western,High,Occasional,Automobiles,Silver,High,Yes,21556,No
+36-45,Medium,Expat - Western,Medium,Frequent,Jewelry,Black,High,Yes,28601,No
+26-35,High,Emirati,Medium,Rare,Watches,Bold Colors,Low,No,20330,No
+36-45,Ultra High,Other,Medium,Frequent,Watches,Bold Colors,Low,No,16730,No
+26-35,Medium,Expat - Western,Medium,Rare,Jewelry,Silver,Medium,Yes,4236,No
+26-35,Medium,Expat - Indian,Medium,Rare,Automobiles,Black,Medium,Yes,4680,No
+26-35,Medium,Expat - Arab,Low,Rare,Jewelry,Gold,Medium,Yes,31312,No
+26-35,High,Expat - Indian,Low,Rare,Watches,Silver,Low,Yes,49151,No
+26-35,Medium,Expat - Arab,High,Rare,Automobiles,Bold Colors,High,Yes,22191,No
+18-25,Low,Expat - Western,Medium,Occasional,Watches,White,Low,No,45066,No
+36-45,Ultra High,Emirati,Low,Occasional,Automobiles,Black,High,Yes,18921,No
+26-35,Medium,Expat - Indian,Medium,Occasional,Automobiles,Gold,Low,No,37640,No
+46+,Medium,Expat - Indian,High,Rare,Jewelry,White,Low,Yes,35635,No
+36-45,Low,Expat - Indian,Low,Frequent,Jewelry,Black,Medium,Yes,49588,No
+36-45,Medium,Expat - Arab,Medium,Occasional,Jewelry,Silver,High,Yes,37688,No
+26-35,Medium,Expat - Western,Low,Frequent,Automobiles,Silver,Low,Yes,6693,No
+18-25,Medium,Expat - Indian,Low,Frequent,Automobiles,Black,Low,No,21266,No
+26-35,Low,Expat - Indian,Low,Rare,Watches,Gold,High,Yes,44716,No
+18-25,Medium,Emirati,High,Rare,Real Estate,Black,Low,Yes,27488,No
+46+,Ultra High,Emirati,Low,Rare,Jewelry,White,High,No,25122,No
+36-45,Low,Expat - Western,Low,Occasional,Watches,White,Medium,No,42224,No
+46+,Ultra High,Expat - Western,Medium,Rare,Watches,Silver,Medium,Yes,30004,No
+18-25,Medium,Other,High,Occasional,Fashion,Black,High,Yes,7331,No
+18-25,High,Emirati,Medium,Occasional,Jewelry,Silver,Medium,No,22566,No
+46+,High,Other,Medium,Occasional,Watches,Gold,High,No,46875,No
+18-25,Medium,Expat - Arab,Low,Occasional,Fashion,White,Low,No,43262,Yes
+46+,High,Other,Medium,Rare,Jewelry,Bold Colors,Low,Yes,47621,No
+36-45,High,Expat - Indian,Medium,Occasional,Automobiles,Bold Colors,High,No,43154,No
+46+,Medium,Other,Medium,Rare,Fashion,Black,Low,Yes,41899,No
+36-45,Medium,Expat - Western,Medium,Rare,Automobiles,Black,Medium,Yes,45564,No
+46+,Medium,Expat - Arab,Medium,Occasional,Real Estate,Bold Colors,Low,No,21778,No
+18-25,High,Expat - Indian,Low,Rare,Real Estate,Black,Low,Yes,34926,No
+46+,High,Other,Medium,Frequent,Real Estate,White,High,Yes,21751,No
+18-25,High,Expat - Arab,Low,Rare,Real Estate,Gold,Medium,Yes,18528,No
+46+,Medium,Expat - Arab,High,Rare,Watches,Gold,Low,Yes,1068,No
+46+,High,Expat - Indian,High,Occasional,Real Estate,Silver,Low,No,4717,No
+26-35,Low,Other,High,Occasional,Watches,White,High,No,16218,No
+18-25,Medium,Expat - Arab,High,Rare,Watches,Black,High,Yes,44968,No
+26-35,Low,Expat - Arab,Medium,Occasional,Jewelry,Black,Medium,Yes,26402,No
+18-25,Medium,Emirati,High,Frequent,Watches,Silver,Low,No,49623,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Watches,Silver,High,No,32643,No
+36-45,Medium,Emirati,Medium,Occasional,Real Estate,Black,High,Yes,43129,No
+46+,Medium,Other,Medium,Rare,Watches,Black,High,No,49460,No
+18-25,Medium,Other,Medium,Frequent,Automobiles,White,Medium,No,30152,No
+18-25,Medium,Other,High,Frequent,Real Estate,Silver,High,Yes,12526,No
+46+,Low,Expat - Western,Medium,Rare,Fashion,White,Medium,Yes,27916,Yes
+18-25,Medium,Other,Medium,Occasional,Real Estate,Black,Medium,Yes,43975,No
+18-25,Low,Expat - Arab,High,Frequent,Watches,Bold Colors,Low,No,27028,No
+26-35,Low,Expat - Indian,Low,Rare,Automobiles,Bold Colors,Low,Yes,27709,Yes
+18-25,Medium,Emirati,Medium,Rare,Real Estate,Black,Medium,Yes,42999,No
+36-45,Medium,Expat - Western,High,Frequent,Automobiles,Silver,Low,Yes,16063,No
+36-45,Medium,Other,Medium,Occasional,Fashion,Bold Colors,Low,No,5723,No
+46+,Medium,Other,Medium,Frequent,Fashion,Silver,High,Yes,5213,No
+18-25,Medium,Expat - Indian,Medium,Rare,Jewelry,Bold Colors,Low,No,23797,Yes
+46+,High,Expat - Indian,Medium,Frequent,Jewelry,Silver,Medium,No,37234,No
+36-45,Medium,Expat - Western,High,Occasional,Real Estate,Bold Colors,Low,Yes,20410,No
+18-25,Medium,Emirati,Medium,Rare,Jewelry,Silver,High,Yes,24382,No
+18-25,Low,Other,Medium,Occasional,Automobiles,White,Medium,Yes,46217,No
+46+,Medium,Expat - Western,Low,Frequent,Jewelry,Silver,Low,No,3747,Yes
+36-45,Medium,Expat - Arab,Low,Frequent,Automobiles,White,Medium,Yes,24655,No
+18-25,Medium,Expat - Arab,High,Occasional,Jewelry,White,Low,Yes,31348,No
+46+,Medium,Expat - Western,Medium,Frequent,Jewelry,Black,High,Yes,13454,No
+36-45,Medium,Other,Medium,Occasional,Jewelry,White,Low,Yes,13587,No
+46+,Medium,Expat - Western,Low,Frequent,Watches,Gold,Medium,No,23555,No
+26-35,High,Other,Medium,Occasional,Watches,White,Medium,No,29071,No
+18-25,High,Expat - Indian,High,Occasional,Jewelry,Silver,Medium,No,21239,No
+26-35,High,Expat - Western,Medium,Rare,Automobiles,White,Low,Yes,32602,No
+36-45,Ultra High,Other,Low,Rare,Real Estate,Silver,Low,Yes,3203,No
+26-35,Low,Expat - Western,Medium,Occasional,Fashion,Silver,Low,No,14635,No
+26-35,Low,Expat - Western,High,Frequent,Watches,Gold,High,Yes,2144,No
+36-45,Low,Other,Medium,Frequent,Jewelry,White,High,No,33699,No
+46+,Medium,Other,High,Frequent,Fashion,White,High,Yes,20083,Yes
+26-35,High,Emirati,Medium,Occasional,Watches,Bold Colors,Medium,Yes,27127,No
+46+,Low,Expat - Western,High,Occasional,Real Estate,Bold Colors,Medium,No,13213,No
+26-35,Ultra High,Expat - Arab,Medium,Occasional,Automobiles,Black,Medium,No,17944,No
+46+,Low,Expat - Western,Low,Occasional,Jewelry,Silver,Medium,No,2187,No
+36-45,Ultra High,Expat - Western,Medium,Rare,Real Estate,Gold,Medium,Yes,4133,No
+26-35,Medium,Other,Medium,Occasional,Watches,Bold Colors,Low,Yes,4411,No
+36-45,Low,Expat - Western,High,Frequent,Jewelry,White,Medium,Yes,35457,No
+26-35,Medium,Expat - Western,High,Rare,Fashion,Black,Low,No,38175,No
+36-45,Low,Expat - Arab,Medium,Frequent,Automobiles,Gold,High,No,36191,No
+36-45,Low,Other,Medium,Occasional,Watches,White,High,Yes,7728,No
+26-35,Medium,Expat - Western,Low,Rare,Automobiles,White,High,No,34744,No
+26-35,High,Expat - Indian,High,Occasional,Jewelry,Silver,High,No,23881,No
+26-35,Medium,Emirati,Medium,Rare,Real Estate,Silver,High,No,13801,No
+18-25,Medium,Expat - Arab,Medium,Frequent,Automobiles,Bold Colors,Medium,Yes,11548,No
+46+,Medium,Expat - Western,Medium,Occasional,Fashion,Bold Colors,Medium,Yes,33886,No
+18-25,High,Expat - Indian,Low,Occasional,Watches,White,Medium,No,35310,Yes
+18-25,Low,Expat - Western,Medium,Rare,Fashion,White,High,Yes,20427,No
+36-45,Medium,Expat - Western,Medium,Rare,Automobiles,Bold Colors,High,No,1972,No
+26-35,Low,Other,Low,Occasional,Real Estate,Bold Colors,Low,No,34683,No
+46+,Low,Other,High,Rare,Real Estate,White,Medium,No,7621,No
+36-45,Medium,Other,Medium,Occasional,Fashion,Gold,High,Yes,27013,No
+18-25,Low,Expat - Indian,Low,Rare,Jewelry,White,High,Yes,15530,No
+26-35,Medium,Expat - Western,Medium,Frequent,Jewelry,Gold,High,Yes,8354,No
+36-45,High,Emirati,High,Rare,Real Estate,Gold,Low,Yes,47529,Yes
+26-35,Low,Expat - Arab,Medium,Frequent,Fashion,White,High,Yes,38359,No
+36-45,Medium,Other,Medium,Rare,Fashion,Black,Low,Yes,24223,No
+26-35,Low,Other,Low,Rare,Fashion,Bold Colors,Low,Yes,42232,No
+18-25,Ultra High,Expat - Western,Low,Occasional,Automobiles,Silver,Medium,Yes,13550,No
+46+,Medium,Expat - Western,Medium,Rare,Jewelry,White,High,Yes,23660,No
+18-25,High,Expat - Indian,High,Rare,Jewelry,Gold,Low,Yes,32029,Yes
+46+,Medium,Expat - Indian,High,Frequent,Automobiles,White,High,Yes,31268,No
+26-35,Low,Other,Low,Rare,Watches,Bold Colors,Medium,No,48119,No
+36-45,Medium,Expat - Western,Medium,Occasional,Automobiles,Gold,Medium,Yes,27340,No
+18-25,Ultra High,Emirati,High,Frequent,Fashion,Silver,Low,Yes,5290,Yes
+46+,Medium,Expat - Arab,Medium,Occasional,Automobiles,Silver,Medium,No,31138,No
+18-25,High,Expat - Western,High,Occasional,Fashion,Silver,Medium,No,7446,No
+46+,High,Expat - Western,Low,Occasional,Real Estate,Black,Medium,Yes,14432,No
+18-25,Low,Expat - Indian,High,Occasional,Fashion,Gold,High,No,2522,No
+46+,Low,Expat - Arab,High,Frequent,Jewelry,Gold,High,No,34329,No
+46+,Medium,Other,High,Rare,Automobiles,Black,Low,No,4540,No
+26-35,Medium,Expat - Western,Medium,Occasional,Fashion,Gold,Low,Yes,13328,No
+46+,High,Other,Medium,Frequent,Watches,Black,Medium,No,35247,No
+26-35,Ultra High,Expat - Western,High,Occasional,Real Estate,White,Medium,Yes,7677,Yes
+46+,Medium,Other,Medium,Rare,Watches,Bold Colors,Low,Yes,42616,No
+36-45,Low,Expat - Arab,Medium,Frequent,Watches,Silver,Medium,No,26947,Yes
+36-45,High,Expat - Indian,High,Frequent,Watches,Black,Low,Yes,46534,Yes
+36-45,Low,Expat - Arab,High,Rare,Real Estate,Black,High,No,14520,No
+46+,High,Emirati,High,Frequent,Real Estate,Black,Medium,Yes,45711,Yes
+26-35,Medium,Expat - Indian,Medium,Rare,Real Estate,White,Medium,No,23805,No
+26-35,Medium,Expat - Arab,High,Frequent,Real Estate,Black,Medium,Yes,31444,No
+46+,Low,Emirati,High,Frequent,Watches,Bold Colors,High,Yes,21143,No
+36-45,Medium,Expat - Western,Low,Rare,Jewelry,Bold Colors,High,Yes,11292,No
+36-45,Medium,Expat - Western,Medium,Rare,Jewelry,Silver,Medium,Yes,43844,No
+26-35,Medium,Other,Medium,Frequent,Real Estate,White,Low,Yes,17017,No
+36-45,Low,Expat - Indian,Medium,Frequent,Automobiles,Bold Colors,High,No,26323,No
+18-25,High,Expat - Western,High,Rare,Fashion,Gold,Medium,Yes,42423,Yes
+26-35,High,Expat - Indian,Medium,Rare,Automobiles,Gold,Medium,No,42713,Yes
+36-45,Low,Expat - Western,High,Frequent,Automobiles,Gold,High,Yes,23320,No
+26-35,Low,Other,High,Frequent,Automobiles,Black,Low,Yes,9774,No
+18-25,Low,Expat - Arab,Medium,Frequent,Jewelry,Black,Medium,No,3205,No
+26-35,Medium,Other,High,Rare,Fashion,Gold,Low,Yes,13342,No
+26-35,Medium,Emirati,Medium,Frequent,Automobiles,Silver,Low,No,5027,No
+26-35,Medium,Expat - Western,High,Occasional,Real Estate,Silver,High,No,17327,No
+26-35,Low,Emirati,Low,Rare,Jewelry,Black,Medium,Yes,22200,No
+18-25,Medium,Emirati,High,Frequent,Real Estate,Gold,Medium,No,8188,No
+46+,Medium,Expat - Indian,Medium,Rare,Real Estate,Silver,Low,No,3808,No
+26-35,Medium,Expat - Western,Medium,Occasional,Automobiles,Black,High,Yes,14851,No
+26-35,Ultra High,Emirati,High,Rare,Real Estate,Gold,High,No,16354,No
+36-45,Low,Expat - Arab,Medium,Frequent,Fashion,White,High,Yes,16058,No
+26-35,Medium,Emirati,Medium,Occasional,Real Estate,Gold,Low,Yes,15620,No
+36-45,Medium,Expat - Arab,Medium,Occasional,Automobiles,Gold,Low,No,32230,No
+46+,Medium,Expat - Indian,High,Frequent,Real Estate,Bold Colors,Medium,No,37681,No
+18-25,High,Emirati,Medium,Frequent,Jewelry,Bold Colors,High,No,18803,No
+18-25,Medium,Other,Low,Frequent,Jewelry,White,Low,No,3167,No
+46+,Ultra High,Expat - Indian,Medium,Rare,Jewelry,White,High,No,3144,No
+18-25,Low,Expat - Arab,Medium,Rare,Watches,Gold,Low,No,3167,No
+46+,Low,Expat - Indian,Low,Rare,Jewelry,Silver,Medium,Yes,43520,No
+46+,High,Emirati,Medium,Frequent,Jewelry,White,High,Yes,43136,No
+46+,Medium,Expat - Western,Medium,Frequent,Watches,Gold,Low,Yes,26844,No
+18-25,Low,Expat - Western,Low,Rare,Jewelry,Black,High,No,29163,No
+36-45,Low,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,Low,Yes,23920,No
+46+,Low,Expat - Arab,High,Rare,Jewelry,Silver,Low,Yes,18550,No
+26-35,High,Expat - Western,Low,Occasional,Jewelry,Gold,Low,Yes,37343,No
+18-25,Low,Expat - Arab,Medium,Frequent,Watches,Black,High,No,19254,Yes
+46+,Medium,Expat - Indian,Medium,Frequent,Automobiles,Bold Colors,Low,No,41011,No
+46+,Low,Other,Medium,Rare,Real Estate,Black,Medium,Yes,21147,No
+26-35,Medium,Other,High,Rare,Fashion,Gold,High,Yes,13926,No
+36-45,Low,Expat - Indian,Medium,Frequent,Automobiles,White,Medium,Yes,34823,No
+36-45,Medium,Other,Medium,Rare,Real Estate,Bold Colors,Medium,Yes,24991,No
+36-45,Low,Emirati,Low,Frequent,Automobiles,Black,High,Yes,42851,No
+46+,High,Expat - Indian,Medium,Frequent,Real Estate,White,Low,No,28563,No
+46+,Low,Expat - Arab,Medium,Occasional,Real Estate,Silver,Medium,No,31688,No
+46+,Medium,Expat - Indian,Low,Rare,Automobiles,Gold,High,Yes,30023,No
+18-25,High,Expat - Western,Medium,Frequent,Watches,Gold,Low,Yes,35130,No
+26-35,Medium,Expat - Arab,High,Rare,Automobiles,Bold Colors,High,Yes,1925,No
+46+,Medium,Expat - Western,Medium,Occasional,Automobiles,Black,High,Yes,17321,No
+26-35,Medium,Expat - Arab,Medium,Occasional,Real Estate,Silver,High,Yes,11769,No
+26-35,Medium,Other,High,Rare,Fashion,Bold Colors,Low,Yes,37748,No
+36-45,Medium,Expat - Indian,High,Rare,Real Estate,Bold Colors,Medium,Yes,41028,No
+18-25,Ultra High,Emirati,Medium,Frequent,Jewelry,Black,Medium,No,17151,No
+46+,Medium,Expat - Arab,High,Occasional,Automobiles,Silver,High,No,11597,No
+36-45,Medium,Expat - Arab,High,Occasional,Automobiles,Black,High,No,35187,No
+36-45,High,Expat - Western,Medium,Occasional,Watches,Gold,Low,Yes,44835,No
+46+,Medium,Other,Medium,Rare,Real Estate,White,High,No,1059,No
+26-35,Low,Expat - Western,Medium,Frequent,Watches,Gold,High,No,36292,No
+36-45,Medium,Expat - Western,High,Rare,Automobiles,Gold,High,Yes,21181,No
+26-35,Ultra High,Other,Medium,Rare,Real Estate,Bold Colors,Medium,Yes,28235,No
+18-25,Low,Emirati,Low,Rare,Real Estate,Gold,High,Yes,29672,No
+26-35,Medium,Expat - Western,High,Frequent,Jewelry,Silver,Medium,Yes,2578,No
+18-25,Low,Expat - Western,Medium,Rare,Jewelry,Gold,Low,Yes,46366,No
+26-35,Medium,Expat - Arab,Low,Occasional,Fashion,Silver,Low,Yes,48295,No
+36-45,Low,Other,Medium,Occasional,Jewelry,Black,Medium,Yes,17047,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Real Estate,Bold Colors,Medium,Yes,33160,No
+18-25,High,Emirati,High,Frequent,Jewelry,Silver,Medium,Yes,34475,Yes
+46+,Medium,Emirati,Medium,Rare,Fashion,Gold,Medium,No,25549,No
+18-25,Medium,Other,High,Frequent,Automobiles,Bold Colors,High,Yes,6277,No
+18-25,High,Expat - Arab,Medium,Rare,Jewelry,Bold Colors,Medium,No,2780,No
+26-35,Ultra High,Expat - Arab,Low,Occasional,Real Estate,Silver,Medium,Yes,47579,No
+26-35,Low,Other,High,Rare,Automobiles,Silver,Medium,Yes,46913,No
+18-25,Medium,Expat - Arab,Medium,Rare,Real Estate,White,High,Yes,15662,No
+36-45,Low,Emirati,Medium,Rare,Automobiles,White,High,Yes,32516,No
+26-35,Ultra High,Emirati,Medium,Frequent,Real Estate,Bold Colors,High,Yes,33161,No
+46+,Ultra High,Expat - Indian,High,Rare,Jewelry,White,Low,Yes,45499,Yes
+26-35,Medium,Other,Medium,Rare,Jewelry,Gold,High,Yes,32886,No
+26-35,High,Expat - Western,Low,Rare,Fashion,Black,Medium,No,9800,No
+46+,Medium,Expat - Western,Low,Frequent,Automobiles,Bold Colors,High,Yes,6439,No
+18-25,Medium,Expat - Indian,Medium,Frequent,Fashion,Black,High,No,5307,No
+46+,Low,Expat - Indian,High,Frequent,Watches,White,Medium,Yes,3364,No
+18-25,High,Expat - Arab,Medium,Rare,Jewelry,Silver,High,No,17568,No
+18-25,Low,Expat - Indian,Medium,Occasional,Automobiles,Bold Colors,Low,Yes,39092,No
+18-25,High,Expat - Indian,Low,Occasional,Fashion,White,High,No,6483,No
+46+,High,Expat - Western,Medium,Occasional,Fashion,Gold,Low,No,1245,Yes
+18-25,High,Expat - Arab,High,Rare,Watches,Bold Colors,Low,No,9430,No
+36-45,Low,Expat - Indian,Medium,Occasional,Fashion,Bold Colors,Low,Yes,9183,No
+46+,Medium,Expat - Indian,High,Occasional,Real Estate,Silver,Medium,No,39692,No
+36-45,Low,Expat - Arab,Medium,Occasional,Jewelry,Bold Colors,High,Yes,31086,No
+18-25,Medium,Other,Low,Rare,Fashion,Silver,Low,No,33726,No
+26-35,Low,Expat - Arab,High,Occasional,Fashion,White,Low,Yes,14901,No
+18-25,Ultra High,Expat - Western,Medium,Occasional,Watches,Gold,High,Yes,4907,No
+36-45,Medium,Other,High,Rare,Real Estate,Gold,Medium,Yes,34044,No
+36-45,Medium,Emirati,High,Frequent,Fashion,Bold Colors,Medium,Yes,29604,No
+46+,Medium,Expat - Arab,Low,Occasional,Jewelry,Bold Colors,Low,No,38869,No
+26-35,Medium,Expat - Western,Low,Frequent,Jewelry,White,Medium,No,15537,No
+46+,Medium,Other,High,Occasional,Fashion,Silver,High,No,13501,No
+36-45,Medium,Expat - Arab,Medium,Rare,Real Estate,Gold,Medium,No,38371,No
+18-25,Ultra High,Expat - Indian,Low,Frequent,Jewelry,Silver,High,No,47154,No
+26-35,Medium,Expat - Arab,Low,Frequent,Jewelry,White,Low,Yes,37821,No
+18-25,Ultra High,Emirati,Low,Frequent,Real Estate,Gold,High,Yes,24196,No
+18-25,High,Expat - Arab,High,Frequent,Real Estate,Gold,Low,Yes,7073,Yes
+26-35,Low,Other,Low,Occasional,Fashion,Black,High,Yes,11561,No
+46+,Ultra High,Other,Medium,Occasional,Automobiles,White,High,Yes,19101,Yes
+18-25,Low,Expat - Arab,Medium,Frequent,Watches,White,Medium,Yes,46516,No
+36-45,High,Other,Medium,Occasional,Automobiles,Black,High,Yes,32426,No
+18-25,Medium,Expat - Indian,Low,Frequent,Automobiles,Silver,Low,Yes,30341,No
+26-35,High,Expat - Arab,High,Frequent,Jewelry,Black,High,No,8313,No
+26-35,High,Expat - Indian,Low,Rare,Real Estate,White,Low,Yes,31773,No
+26-35,High,Expat - Indian,High,Frequent,Jewelry,Silver,Low,Yes,29003,No
+46+,High,Expat - Western,High,Occasional,Watches,Gold,High,Yes,27420,Yes
+18-25,Medium,Expat - Arab,Medium,Frequent,Fashion,Black,Medium,Yes,6714,No
+46+,Low,Other,Medium,Rare,Watches,Silver,High,Yes,28139,No
+46+,Medium,Expat - Indian,Medium,Occasional,Jewelry,Silver,High,Yes,27098,No
+26-35,Low,Expat - Western,Medium,Rare,Jewelry,Silver,Medium,Yes,43294,No
+26-35,Medium,Expat - Arab,High,Rare,Jewelry,Black,Low,Yes,14582,No
+46+,Medium,Expat - Arab,High,Frequent,Jewelry,Gold,High,Yes,44583,No
+18-25,Ultra High,Emirati,Medium,Rare,Automobiles,Silver,Medium,Yes,14760,No
+36-45,Medium,Emirati,Medium,Rare,Fashion,Black,Medium,No,7255,No
+46+,High,Expat - Indian,High,Occasional,Automobiles,White,Low,Yes,17622,Yes
+18-25,Low,Emirati,High,Rare,Jewelry,Black,Medium,Yes,36983,No
+26-35,High,Expat - Indian,Medium,Frequent,Real Estate,Black,Low,Yes,41309,No
+26-35,Ultra High,Other,Medium,Frequent,Automobiles,Black,High,No,30715,Yes
+18-25,Medium,Expat - Indian,Medium,Frequent,Jewelry,Silver,Medium,Yes,37415,No
+36-45,Medium,Emirati,High,Rare,Jewelry,Black,High,No,22792,No
+26-35,High,Other,Low,Occasional,Fashion,White,Medium,No,43576,No
+26-35,Low,Emirati,Medium,Frequent,Watches,Silver,Medium,Yes,23724,No
+26-35,Medium,Expat - Indian,Medium,Rare,Automobiles,White,High,Yes,4652,No
+18-25,Medium,Expat - Western,Medium,Frequent,Automobiles,Bold Colors,Medium,Yes,27297,No
+46+,Low,Expat - Arab,Medium,Frequent,Automobiles,Black,High,Yes,33422,No
+26-35,Medium,Emirati,High,Occasional,Jewelry,Silver,High,Yes,15028,No
+46+,Low,Expat - Indian,Low,Frequent,Fashion,Silver,Low,Yes,14803,No
+36-45,Low,Other,Medium,Occasional,Jewelry,Black,High,Yes,7307,No
+26-35,Low,Emirati,Low,Rare,Jewelry,Gold,Low,Yes,32325,No
+26-35,Ultra High,Emirati,Low,Frequent,Real Estate,Gold,High,No,32574,No
+36-45,Medium,Expat - Arab,Medium,Rare,Fashion,White,Medium,Yes,20262,No
+26-35,Ultra High,Expat - Indian,Medium,Rare,Automobiles,Black,High,No,2535,No
+46+,Medium,Expat - Western,Medium,Rare,Watches,Black,Medium,No,15932,No
+18-25,Medium,Other,Medium,Frequent,Automobiles,Bold Colors,Low,No,16749,No
+46+,Medium,Expat - Indian,Low,Occasional,Jewelry,Gold,Medium,No,9727,No
+18-25,Medium,Other,Medium,Frequent,Fashion,Gold,High,Yes,18332,No
+18-25,Low,Emirati,High,Rare,Fashion,Black,Medium,Yes,30534,No
+46+,Medium,Expat - Arab,High,Occasional,Fashion,White,Low,Yes,11834,No
+46+,Low,Expat - Arab,Medium,Rare,Real Estate,Black,Medium,Yes,21325,Yes
+46+,Medium,Expat - Western,Medium,Occasional,Automobiles,White,Medium,No,10213,No
+46+,Medium,Expat - Arab,High,Frequent,Real Estate,Gold,High,No,49205,No
+36-45,Low,Emirati,Low,Occasional,Watches,Bold Colors,High,Yes,2403,No
+26-35,Low,Expat - Western,High,Frequent,Jewelry,Silver,Medium,Yes,8506,No
+18-25,High,Expat - Indian,High,Rare,Real Estate,Gold,Low,Yes,30659,Yes
+46+,Medium,Expat - Arab,Low,Occasional,Real Estate,White,Medium,Yes,8591,Yes
+46+,Low,Expat - Western,Low,Rare,Jewelry,Black,Low,Yes,13996,No
+46+,Ultra High,Emirati,High,Occasional,Fashion,Gold,Low,Yes,38828,Yes
+36-45,Low,Other,Medium,Frequent,Jewelry,Bold Colors,Low,No,48830,No
+46+,Medium,Other,Low,Occasional,Automobiles,White,Medium,Yes,35370,No
+46+,Ultra High,Emirati,Medium,Occasional,Jewelry,Black,Low,No,14472,No
+46+,Low,Emirati,Medium,Frequent,Fashion,Silver,Medium,No,30098,No
+26-35,Low,Other,Medium,Frequent,Jewelry,White,Low,No,3196,No
+36-45,Low,Expat - Western,High,Frequent,Real Estate,Black,Low,Yes,12091,Yes
+46+,Medium,Other,High,Occasional,Watches,Silver,Medium,No,16040,Yes
+18-25,Low,Emirati,Medium,Rare,Real Estate,Black,High,No,49784,No
+18-25,Medium,Expat - Arab,Medium,Occasional,Watches,Silver,High,Yes,7023,No
+18-25,Low,Expat - Indian,Medium,Occasional,Jewelry,Silver,Medium,Yes,21543,No
+36-45,Medium,Expat - Arab,Medium,Rare,Automobiles,Silver,Medium,No,29377,No
+36-45,Ultra High,Expat - Arab,Low,Frequent,Jewelry,Black,High,Yes,37635,No
+18-25,High,Emirati,High,Occasional,Fashion,Silver,High,Yes,43337,No
+46+,Medium,Other,High,Rare,Jewelry,White,High,Yes,41409,No
+36-45,Medium,Expat - Western,Medium,Frequent,Watches,Bold Colors,Medium,No,6004,No
+18-25,Medium,Expat - Arab,Medium,Frequent,Real Estate,Bold Colors,Low,No,10963,No
+18-25,Medium,Other,Medium,Occasional,Automobiles,Silver,Medium,Yes,14796,No
+46+,Medium,Expat - Western,Medium,Frequent,Jewelry,Bold Colors,High,Yes,41972,No
+26-35,Low,Expat - Arab,Medium,Frequent,Jewelry,Bold Colors,Low,No,8077,No
+36-45,High,Expat - Western,Medium,Rare,Real Estate,Silver,Medium,No,30848,No
+46+,Medium,Other,High,Rare,Automobiles,Silver,High,No,13526,No
+18-25,Low,Expat - Indian,Medium,Frequent,Jewelry,White,Medium,Yes,4261,No
+18-25,Medium,Other,Medium,Rare,Jewelry,Gold,Low,Yes,18046,No
+46+,Medium,Emirati,High,Frequent,Watches,Black,High,Yes,14397,No
+36-45,High,Expat - Western,Low,Occasional,Watches,Silver,Medium,No,26269,No
+26-35,High,Expat - Indian,Medium,Rare,Fashion,Silver,Low,Yes,37158,No
+26-35,High,Expat - Western,Medium,Frequent,Real Estate,Bold Colors,Low,Yes,26757,No
+18-25,Low,Expat - Western,Medium,Frequent,Automobiles,White,Medium,Yes,16299,No
+36-45,Medium,Expat - Arab,High,Rare,Jewelry,Bold Colors,Low,Yes,2902,No
+26-35,Medium,Emirati,Medium,Rare,Jewelry,Silver,High,No,43399,No
+36-45,Low,Expat - Western,High,Occasional,Fashion,Silver,Low,Yes,49330,No
+36-45,Low,Other,Medium,Frequent,Jewelry,Bold Colors,Medium,No,47308,No
+18-25,High,Other,Medium,Occasional,Real Estate,Silver,High,No,4846,No
+26-35,Low,Expat - Arab,High,Occasional,Fashion,Gold,Low,Yes,13359,No
+46+,Medium,Emirati,Medium,Occasional,Real Estate,Black,Low,No,3520,No
+18-25,Low,Emirati,Medium,Rare,Fashion,Black,High,No,41832,No
+26-35,Low,Other,Medium,Occasional,Jewelry,Black,High,No,21098,No
+26-35,Low,Expat - Indian,Medium,Rare,Fashion,Gold,Low,Yes,40451,Yes
+26-35,Ultra High,Expat - Arab,Low,Rare,Watches,Silver,High,Yes,24136,No
+26-35,High,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,Medium,Yes,36885,No
+26-35,Ultra High,Other,Medium,Occasional,Jewelry,White,Low,No,31720,No
+36-45,Medium,Other,Medium,Frequent,Automobiles,Silver,Medium,No,22157,No
+18-25,Low,Expat - Indian,High,Occasional,Jewelry,Gold,Low,No,49372,No
+36-45,Medium,Expat - Indian,Medium,Frequent,Automobiles,Gold,Medium,Yes,20674,No
+46+,Medium,Emirati,High,Occasional,Watches,Black,Medium,Yes,33357,No
+26-35,High,Expat - Arab,Low,Occasional,Automobiles,Silver,High,Yes,13578,No
+18-25,Low,Expat - Arab,Medium,Occasional,Fashion,Black,Low,Yes,3251,No
+26-35,Medium,Other,High,Occasional,Automobiles,White,High,No,14513,No
+18-25,Low,Emirati,Medium,Frequent,Jewelry,Black,High,Yes,38429,No
+36-45,Medium,Expat - Arab,High,Frequent,Real Estate,White,Low,Yes,28105,No
+18-25,High,Emirati,Medium,Occasional,Automobiles,Gold,Medium,Yes,47871,No
+46+,Medium,Emirati,Low,Occasional,Automobiles,Black,Low,Yes,21990,No
+46+,Medium,Other,Medium,Frequent,Automobiles,Black,Low,Yes,26499,No
+18-25,Medium,Emirati,Medium,Rare,Jewelry,Bold Colors,Low,Yes,7421,No
+18-25,Medium,Expat - Indian,High,Rare,Automobiles,Gold,High,Yes,25591,No
+18-25,High,Expat - Indian,Medium,Rare,Jewelry,Bold Colors,Low,Yes,27979,No
+18-25,High,Expat - Western,High,Frequent,Jewelry,White,Low,Yes,21835,Yes
+46+,Ultra High,Other,High,Frequent,Real Estate,White,Low,No,38693,No
+26-35,High,Expat - Western,Medium,Rare,Fashion,Gold,Medium,Yes,13202,Yes
+18-25,Medium,Expat - Indian,Medium,Rare,Jewelry,White,Medium,No,36414,Yes
+18-25,Medium,Expat - Western,High,Occasional,Watches,Gold,Medium,No,26666,No
+46+,Medium,Other,High,Frequent,Automobiles,White,Medium,Yes,20290,Yes
+46+,Low,Other,Medium,Frequent,Watches,Silver,High,No,19130,No
+36-45,High,Emirati,Medium,Rare,Automobiles,Black,High,Yes,38077,No
+18-25,Low,Expat - Arab,Medium,Rare,Real Estate,Silver,Low,No,20396,No
+36-45,Ultra High,Emirati,Medium,Frequent,Jewelry,Gold,High,No,18952,Yes
+46+,Medium,Other,Medium,Occasional,Fashion,Gold,Medium,No,28122,No
+46+,Medium,Expat - Indian,High,Rare,Jewelry,Silver,Low,Yes,30381,No
+26-35,Medium,Expat - Indian,Low,Frequent,Automobiles,Black,Low,Yes,46435,No
+18-25,High,Emirati,Low,Frequent,Fashion,Black,Medium,Yes,41078,No
+36-45,Medium,Other,Medium,Occasional,Jewelry,Bold Colors,Medium,No,24267,No
+46+,Medium,Expat - Indian,Medium,Occasional,Fashion,White,Medium,No,48735,No
+46+,Low,Other,Medium,Rare,Automobiles,Bold Colors,High,Yes,43007,Yes
+36-45,Medium,Expat - Indian,Medium,Rare,Real Estate,Black,Low,Yes,8088,No
+26-35,Low,Other,Medium,Rare,Real Estate,Silver,Medium,No,32818,No
+46+,High,Expat - Western,Low,Frequent,Jewelry,White,Low,Yes,13822,No
+18-25,Medium,Other,Medium,Rare,Watches,Silver,Low,No,37589,Yes
+46+,Medium,Other,High,Frequent,Automobiles,Bold Colors,High,No,2436,No
+18-25,Low,Emirati,Medium,Rare,Jewelry,Gold,Low,Yes,46665,No
+36-45,Low,Expat - Western,Medium,Occasional,Jewelry,Silver,Medium,No,28281,No
+18-25,High,Expat - Arab,Medium,Occasional,Real Estate,Bold Colors,Medium,Yes,23481,No
+36-45,Low,Emirati,High,Frequent,Fashion,Bold Colors,Low,Yes,31469,No
+18-25,Low,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,Low,No,19867,No
+36-45,Low,Expat - Indian,Medium,Frequent,Fashion,Gold,High,No,41487,No
+18-25,Ultra High,Expat - Arab,High,Frequent,Automobiles,Gold,Medium,Yes,23766,Yes
+26-35,High,Other,Medium,Occasional,Watches,Gold,Medium,Yes,30737,No
+18-25,Medium,Expat - Arab,Low,Frequent,Real Estate,White,Low,Yes,22213,No
+18-25,Low,Emirati,Medium,Occasional,Watches,Gold,Low,Yes,29355,No
+26-35,Medium,Emirati,Low,Rare,Jewelry,Gold,Low,Yes,23537,No
+46+,High,Expat - Arab,Medium,Rare,Real Estate,Gold,Medium,Yes,3794,No
+46+,Medium,Emirati,High,Occasional,Jewelry,Silver,Low,Yes,45296,No
+18-25,Low,Emirati,Medium,Occasional,Watches,Gold,High,Yes,33324,No
+26-35,Low,Expat - Arab,High,Occasional,Automobiles,White,High,Yes,31858,No
+18-25,Low,Expat - Western,Low,Occasional,Jewelry,Bold Colors,Low,No,43850,No
+36-45,Medium,Expat - Western,High,Rare,Fashion,Silver,High,No,14018,Yes
+36-45,High,Expat - Indian,Medium,Frequent,Automobiles,Black,High,Yes,18481,No
+18-25,Low,Emirati,Medium,Frequent,Automobiles,Gold,High,Yes,16584,No
+46+,Low,Expat - Arab,Low,Rare,Watches,Bold Colors,High,Yes,10850,No
+46+,Low,Emirati,High,Frequent,Watches,Bold Colors,High,Yes,26701,No
+18-25,Ultra High,Other,Low,Rare,Real Estate,Silver,Medium,Yes,42223,No
+18-25,Low,Emirati,Low,Frequent,Real Estate,Black,Low,No,44952,No
+36-45,High,Emirati,Medium,Occasional,Fashion,White,High,No,46975,No
+46+,Medium,Expat - Western,Medium,Occasional,Automobiles,Bold Colors,Low,No,1160,No
+18-25,Medium,Expat - Arab,Medium,Occasional,Fashion,Bold Colors,High,Yes,26832,No
+36-45,Low,Emirati,Low,Rare,Fashion,Bold Colors,Medium,No,32210,No
+46+,Low,Expat - Western,Medium,Rare,Watches,Bold Colors,Medium,No,23290,No
+26-35,Medium,Expat - Indian,Medium,Frequent,Fashion,Silver,High,Yes,30441,No
+36-45,High,Expat - Western,Medium,Frequent,Fashion,Black,High,Yes,25886,Yes
+46+,Medium,Expat - Western,Medium,Frequent,Jewelry,Bold Colors,High,Yes,33394,No
+46+,Medium,Expat - Western,High,Rare,Real Estate,White,Medium,Yes,9418,No
+36-45,Low,Emirati,Medium,Frequent,Real Estate,White,Medium,No,8081,No
+26-35,Ultra High,Emirati,Medium,Occasional,Automobiles,Gold,Low,Yes,38180,No
+36-45,High,Expat - Indian,Medium,Frequent,Real Estate,Bold Colors,Medium,Yes,11114,Yes
+46+,Low,Other,High,Occasional,Automobiles,Bold Colors,High,Yes,19722,No
+18-25,Ultra High,Other,High,Rare,Jewelry,Bold Colors,Low,Yes,22972,No
+18-25,Medium,Other,High,Occasional,Real Estate,Bold Colors,Medium,No,18985,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Jewelry,Bold Colors,Medium,Yes,6888,No
+46+,High,Other,Low,Occasional,Real Estate,White,High,No,4718,No
+18-25,High,Other,Medium,Rare,Real Estate,Black,Low,Yes,33147,Yes
+46+,Medium,Expat - Western,Medium,Rare,Jewelry,Black,Medium,Yes,44382,No
+36-45,Low,Emirati,Medium,Rare,Fashion,Gold,Medium,Yes,19309,No
+18-25,Medium,Emirati,High,Rare,Fashion,White,High,No,20299,No
+46+,Ultra High,Expat - Western,High,Frequent,Fashion,Bold Colors,Low,Yes,42211,Yes
+18-25,Low,Expat - Western,High,Rare,Fashion,Black,Low,Yes,23036,No
+36-45,Medium,Expat - Western,Medium,Occasional,Real Estate,Silver,Low,Yes,20885,No
+46+,Medium,Emirati,Medium,Rare,Watches,Silver,Low,Yes,30346,No
+18-25,Medium,Other,Medium,Frequent,Jewelry,Silver,High,No,48971,No
+36-45,Medium,Expat - Western,Low,Frequent,Watches,Bold Colors,Medium,Yes,27691,No
+18-25,Ultra High,Expat - Indian,High,Frequent,Watches,Bold Colors,Medium,Yes,41042,Yes
+18-25,Low,Expat - Western,Low,Occasional,Automobiles,Gold,Low,Yes,49527,No
+26-35,Low,Expat - Arab,Medium,Rare,Fashion,Gold,Low,No,18986,No
+26-35,Low,Expat - Western,Medium,Rare,Real Estate,Gold,Low,Yes,28846,No
+36-45,High,Emirati,Medium,Rare,Fashion,Silver,Medium,No,48872,No
+26-35,Medium,Expat - Western,High,Occasional,Fashion,Bold Colors,Medium,No,42401,No
+36-45,Low,Expat - Arab,Medium,Occasional,Watches,Silver,Low,Yes,9192,Yes
+26-35,High,Expat - Indian,High,Frequent,Automobiles,Gold,High,Yes,40269,Yes
+18-25,High,Other,Medium,Frequent,Fashion,Bold Colors,Medium,Yes,39487,No
+36-45,High,Expat - Western,Medium,Rare,Jewelry,White,Medium,No,10412,No
+36-45,Ultra High,Expat - Arab,High,Occasional,Jewelry,Black,Low,Yes,16963,Yes
+18-25,Low,Expat - Arab,Medium,Occasional,Fashion,Black,High,Yes,34623,No
+36-45,High,Expat - Indian,High,Rare,Watches,Gold,Low,No,2017,No
+36-45,Medium,Emirati,Medium,Rare,Watches,Silver,Low,Yes,6279,No
+26-35,High,Expat - Western,Medium,Frequent,Real Estate,White,High,Yes,11412,No
+36-45,High,Expat - Arab,Medium,Frequent,Automobiles,Bold Colors,High,Yes,8712,No
+46+,High,Expat - Indian,High,Frequent,Watches,Silver,High,Yes,16817,Yes
+18-25,Medium,Other,Low,Rare,Real Estate,Gold,Medium,Yes,29080,No
+26-35,Low,Expat - Arab,High,Rare,Jewelry,Silver,Low,Yes,7624,Yes
+26-35,Medium,Expat - Indian,Medium,Frequent,Jewelry,Gold,Medium,No,30126,No
+46+,Ultra High,Emirati,Medium,Frequent,Jewelry,Black,High,Yes,17579,No
+18-25,Ultra High,Emirati,Medium,Occasional,Fashion,Black,Medium,No,16131,No
+18-25,Low,Expat - Arab,Medium,Occasional,Automobiles,Silver,High,No,38462,No
+26-35,Low,Expat - Arab,Medium,Frequent,Real Estate,White,High,Yes,47815,No
+36-45,Low,Expat - Western,High,Frequent,Automobiles,Bold Colors,Low,No,38419,No
+26-35,High,Expat - Indian,Medium,Occasional,Fashion,Gold,Low,Yes,24375,No
+18-25,High,Expat - Arab,Medium,Frequent,Real Estate,Bold Colors,Low,No,27093,No
+46+,Low,Expat - Western,Medium,Occasional,Real Estate,Black,Medium,No,46494,No
+26-35,Medium,Expat - Western,Low,Occasional,Watches,White,Low,Yes,33525,No
+18-25,High,Expat - Arab,Medium,Occasional,Automobiles,White,High,Yes,30030,No
+26-35,High,Emirati,Medium,Rare,Automobiles,Bold Colors,Low,Yes,45067,No
+36-45,Medium,Expat - Indian,Medium,Rare,Watches,Black,Medium,Yes,6207,No
+26-35,Medium,Expat - Indian,Low,Frequent,Jewelry,Bold Colors,Low,Yes,11897,No
+26-35,Medium,Emirati,Medium,Occasional,Fashion,Silver,Low,Yes,27639,No
+18-25,Low,Expat - Arab,Medium,Rare,Automobiles,White,Low,No,3792,No
+18-25,Medium,Expat - Indian,Medium,Frequent,Watches,White,Medium,Yes,1420,No
+18-25,Medium,Expat - Arab,Medium,Frequent,Real Estate,Silver,High,No,30224,Yes
+26-35,High,Expat - Arab,Low,Frequent,Watches,Black,High,No,20198,No
+36-45,Medium,Expat - Western,High,Frequent,Jewelry,White,High,Yes,36608,No
+46+,High,Emirati,High,Frequent,Fashion,Gold,Low,No,47205,No
+46+,Low,Expat - Arab,High,Occasional,Jewelry,Gold,Low,Yes,18415,No
+18-25,Medium,Other,Low,Frequent,Real Estate,Black,Medium,Yes,41407,No
+18-25,Low,Emirati,High,Occasional,Real Estate,Silver,High,No,18875,Yes
+26-35,Low,Expat - Indian,High,Rare,Real Estate,Bold Colors,Low,Yes,5975,No
+46+,High,Expat - Western,High,Frequent,Real Estate,Black,Low,Yes,27461,Yes
+18-25,Ultra High,Expat - Indian,Low,Rare,Watches,Bold Colors,Low,No,22331,No
+36-45,Low,Expat - Indian,Medium,Occasional,Real Estate,Black,Medium,No,17893,Yes
+36-45,Medium,Emirati,High,Occasional,Real Estate,Gold,High,No,19243,No
+18-25,High,Expat - Indian,Medium,Rare,Watches,Silver,Medium,No,16535,No
+18-25,Low,Expat - Arab,Medium,Frequent,Real Estate,Gold,High,Yes,6061,No
+46+,Medium,Expat - Indian,Medium,Frequent,Jewelry,Silver,High,Yes,2858,No
+46+,High,Expat - Western,Medium,Rare,Jewelry,Bold Colors,Low,No,26489,No
+26-35,Medium,Expat - Western,Low,Rare,Automobiles,Black,Low,Yes,14678,No
+46+,Low,Other,Medium,Rare,Jewelry,White,Low,Yes,35833,No
+36-45,Medium,Expat - Western,Low,Frequent,Fashion,White,Low,Yes,48159,No
+36-45,High,Expat - Indian,Medium,Frequent,Fashion,Silver,Low,No,20350,No
+18-25,Medium,Expat - Western,Medium,Frequent,Fashion,Silver,High,Yes,14346,No
+46+,Low,Emirati,Medium,Rare,Watches,Gold,Low,No,49005,No
+26-35,High,Expat - Western,Low,Frequent,Jewelry,White,Low,Yes,7773,No
+36-45,Low,Expat - Arab,Medium,Occasional,Fashion,Gold,Medium,Yes,30465,No
+36-45,High,Emirati,High,Rare,Automobiles,Bold Colors,Medium,Yes,10788,Yes
+26-35,Low,Other,Low,Frequent,Watches,White,High,Yes,33343,No
+26-35,Ultra High,Expat - Arab,Low,Rare,Automobiles,Bold Colors,High,No,47862,No
+36-45,Medium,Expat - Indian,Low,Occasional,Jewelry,Black,Medium,Yes,38210,No
+36-45,Medium,Expat - Indian,High,Occasional,Real Estate,Gold,Medium,Yes,10247,No
+26-35,Low,Expat - Indian,Medium,Rare,Automobiles,Silver,Low,Yes,46963,No
+36-45,Medium,Expat - Arab,Medium,Rare,Real Estate,White,Low,Yes,42983,No
+18-25,High,Expat - Arab,Low,Occasional,Watches,Gold,High,Yes,36972,No
+18-25,Ultra High,Expat - Arab,Medium,Rare,Automobiles,Silver,Medium,Yes,17959,No
+26-35,Medium,Emirati,High,Occasional,Automobiles,Black,High,No,24807,No
+46+,Medium,Emirati,High,Occasional,Watches,White,Low,No,35133,No
+26-35,High,Expat - Indian,Medium,Frequent,Watches,Bold Colors,High,Yes,25218,No
+26-35,High,Expat - Western,Low,Rare,Fashion,Black,High,Yes,22734,No
+46+,Medium,Expat - Indian,Low,Rare,Jewelry,Silver,High,Yes,23828,No
+46+,Medium,Other,Low,Frequent,Automobiles,White,Low,Yes,18400,No
+46+,Medium,Emirati,Medium,Occasional,Automobiles,White,High,No,21002,No
+18-25,Medium,Expat - Arab,Low,Rare,Watches,Black,Low,No,33793,No
+36-45,Low,Emirati,Medium,Frequent,Watches,White,Medium,Yes,37492,No
+18-25,Medium,Expat - Arab,Medium,Frequent,Jewelry,Silver,High,No,33217,No
+36-45,Medium,Other,High,Rare,Watches,Black,High,Yes,37226,No
+18-25,High,Other,Medium,Frequent,Real Estate,Bold Colors,Low,Yes,28932,No
+36-45,Low,Emirati,High,Occasional,Real Estate,Black,High,Yes,44327,No
+18-25,Medium,Expat - Arab,High,Frequent,Real Estate,Black,Low,Yes,31875,No
+46+,Medium,Other,Low,Occasional,Real Estate,Bold Colors,High,No,26046,Yes
+26-35,Medium,Expat - Indian,High,Occasional,Jewelry,Silver,Medium,Yes,24664,No
+18-25,Low,Expat - Indian,Medium,Rare,Automobiles,Gold,Medium,Yes,25453,No
+36-45,Medium,Expat - Arab,Medium,Frequent,Real Estate,Gold,Medium,No,5746,No
+46+,Medium,Emirati,Medium,Occasional,Watches,Bold Colors,High,No,24973,No
+18-25,Medium,Other,High,Occasional,Real Estate,Silver,High,No,14217,Yes
+18-25,Medium,Emirati,Medium,Frequent,Jewelry,White,Medium,No,24362,No
+46+,Medium,Expat - Indian,Medium,Occasional,Watches,Bold Colors,Medium,Yes,42835,No
+18-25,High,Other,High,Frequent,Real Estate,Gold,Low,No,10133,Yes
+26-35,Low,Emirati,Low,Rare,Automobiles,Silver,Low,No,36809,No
+18-25,High,Expat - Western,Medium,Occasional,Watches,Black,Medium,No,41533,No
+26-35,Medium,Expat - Arab,High,Occasional,Watches,Silver,Medium,No,6404,No
+26-35,Low,Expat - Arab,High,Frequent,Automobiles,Silver,High,Yes,34339,No
+46+,Low,Expat - Western,High,Frequent,Watches,Gold,Medium,No,29725,No
+18-25,Medium,Expat - Indian,High,Frequent,Real Estate,Gold,Low,Yes,9796,No
+46+,High,Other,Low,Frequent,Watches,White,Low,Yes,46380,No
+18-25,High,Expat - Arab,High,Occasional,Real Estate,White,Low,Yes,49073,Yes
+18-25,High,Expat - Western,Medium,Rare,Automobiles,Bold Colors,Low,No,22364,Yes
+36-45,Medium,Expat - Western,Medium,Rare,Fashion,Black,Low,Yes,42341,No
+18-25,Medium,Expat - Indian,Low,Rare,Automobiles,White,Low,Yes,2236,No
+46+,Low,Expat - Indian,Medium,Rare,Real Estate,Gold,Medium,Yes,3380,No
+26-35,Medium,Emirati,High,Frequent,Jewelry,Silver,Low,No,40945,No
+18-25,Medium,Expat - Arab,High,Occasional,Automobiles,Bold Colors,Low,Yes,15538,Yes
+36-45,Low,Emirati,Medium,Occasional,Jewelry,White,Low,No,12971,No
+46+,Low,Expat - Western,Low,Occasional,Jewelry,Silver,Low,No,44065,Yes
+18-25,Medium,Other,Medium,Frequent,Real Estate,Silver,Medium,Yes,35285,No
+46+,High,Other,High,Occasional,Real Estate,White,High,Yes,18917,Yes
+36-45,Ultra High,Expat - Indian,High,Frequent,Fashion,Black,High,No,39655,No
+36-45,Ultra High,Other,Medium,Occasional,Watches,Black,High,No,12486,No
+46+,Medium,Other,Low,Rare,Automobiles,Bold Colors,High,No,38410,No
+18-25,Medium,Other,Medium,Frequent,Real Estate,Black,Low,Yes,26446,No
+26-35,Medium,Expat - Western,Medium,Occasional,Automobiles,Bold Colors,High,No,22703,No
+36-45,High,Other,High,Rare,Jewelry,Gold,High,Yes,45191,Yes
+18-25,Low,Other,Medium,Rare,Watches,White,Medium,Yes,12399,No
+18-25,Medium,Other,Medium,Rare,Fashion,Silver,Medium,No,39829,No
+26-35,High,Emirati,Medium,Frequent,Automobiles,Bold Colors,Medium,Yes,13685,No
+36-45,Medium,Expat - Western,Low,Frequent,Watches,Black,Low,No,23241,Yes
+36-45,Medium,Expat - Indian,High,Occasional,Fashion,Bold Colors,Low,Yes,5487,No
+18-25,Medium,Emirati,Medium,Rare,Automobiles,Bold Colors,Low,No,13018,No
+18-25,Low,Expat - Arab,Medium,Occasional,Watches,Black,Medium,Yes,31825,Yes
+26-35,Medium,Expat - Western,Medium,Occasional,Real Estate,Black,High,Yes,8750,No
+26-35,Medium,Expat - Western,Medium,Rare,Automobiles,White,Medium,No,18684,No
+36-45,Low,Expat - Arab,Medium,Occasional,Watches,Silver,Low,Yes,44118,No
+46+,Low,Expat - Arab,High,Frequent,Fashion,White,Medium,Yes,15410,No
+36-45,High,Expat - Arab,Medium,Occasional,Watches,White,High,No,16105,No
+18-25,Low,Expat - Indian,Medium,Rare,Real Estate,Black,Low,Yes,19913,No
+36-45,Medium,Other,Low,Frequent,Automobiles,Black,High,No,37028,No
+46+,Low,Expat - Western,Medium,Frequent,Automobiles,Silver,High,Yes,48342,No
+26-35,Ultra High,Other,Low,Occasional,Automobiles,Bold Colors,Low,Yes,47480,No
+46+,Low,Other,Medium,Occasional,Real Estate,White,High,No,18711,No
+46+,Medium,Expat - Arab,High,Frequent,Fashion,Silver,Medium,No,25967,No
+46+,High,Expat - Indian,High,Occasional,Automobiles,White,High,Yes,37023,Yes
+26-35,High,Emirati,Medium,Rare,Fashion,Bold Colors,High,Yes,37005,No
+46+,Low,Expat - Indian,Medium,Occasional,Watches,White,High,No,27622,No
+46+,High,Other,Low,Occasional,Fashion,Gold,Medium,Yes,46201,No
+46+,Medium,Expat - Indian,Medium,Frequent,Fashion,Silver,High,Yes,10497,No
+18-25,Medium,Expat - Arab,High,Occasional,Automobiles,Black,High,Yes,17350,No
+46+,Low,Emirati,Medium,Occasional,Jewelry,White,Medium,Yes,49709,No
+26-35,Low,Expat - Arab,Medium,Occasional,Jewelry,Silver,Low,Yes,23696,No
+46+,High,Emirati,High,Rare,Real Estate,Silver,Low,Yes,28470,Yes
+46+,Medium,Other,High,Occasional,Real Estate,White,Low,Yes,31889,No
+26-35,Medium,Emirati,Medium,Rare,Jewelry,Black,High,Yes,11224,Yes
+46+,High,Emirati,Medium,Rare,Watches,Black,Low,Yes,42724,Yes
+26-35,High,Emirati,Low,Rare,Automobiles,White,Medium,No,6465,No
+46+,Low,Expat - Indian,Low,Rare,Automobiles,Silver,High,Yes,17882,No
+26-35,Medium,Expat - Indian,High,Frequent,Watches,Black,High,No,33203,No
+46+,Low,Other,High,Rare,Watches,White,High,No,28944,No
+46+,High,Emirati,High,Occasional,Jewelry,White,Low,Yes,30837,Yes
+18-25,Medium,Expat - Western,Low,Rare,Real Estate,White,Low,No,3944,No
+18-25,Ultra High,Other,High,Occasional,Watches,Silver,Low,Yes,25336,Yes
+46+,Low,Emirati,Medium,Rare,Real Estate,Black,High,No,39624,No
+46+,Low,Emirati,Medium,Frequent,Fashion,Silver,Medium,No,45764,No
+36-45,Low,Expat - Indian,Medium,Rare,Automobiles,Gold,High,Yes,32796,Yes
+26-35,Low,Other,Low,Rare,Jewelry,Black,Medium,No,29789,No
+36-45,Low,Emirati,High,Frequent,Automobiles,Silver,High,Yes,46420,No
+18-25,Ultra High,Emirati,Medium,Rare,Jewelry,Black,Medium,Yes,25222,No
+18-25,Low,Other,Low,Occasional,Fashion,Gold,High,No,39845,No
+18-25,Low,Expat - Western,Low,Rare,Automobiles,Bold Colors,High,Yes,1135,No
+18-25,High,Other,Low,Rare,Fashion,White,Medium,Yes,16773,No
+46+,Medium,Other,Low,Rare,Jewelry,Silver,Medium,Yes,43060,No
+18-25,High,Expat - Western,Medium,Frequent,Watches,Gold,Medium,No,27447,No
+46+,Low,Other,High,Rare,Automobiles,Gold,Medium,Yes,5033,No
+46+,Medium,Emirati,Low,Rare,Fashion,Black,Medium,No,21497,No
+18-25,Low,Other,Low,Occasional,Automobiles,Black,Medium,Yes,15178,No
+18-25,Low,Expat - Western,Medium,Rare,Automobiles,White,Medium,Yes,7546,No
+26-35,Ultra High,Expat - Arab,High,Rare,Automobiles,Black,Medium,No,9396,No
+36-45,Low,Other,Medium,Rare,Real Estate,Silver,High,Yes,21978,No
+18-25,Medium,Expat - Indian,Medium,Rare,Fashion,Silver,Medium,No,44331,No
+26-35,Medium,Emirati,Medium,Occasional,Fashion,Silver,Medium,Yes,13882,No
+26-35,Medium,Emirati,Medium,Occasional,Automobiles,Bold Colors,High,Yes,17945,No
+36-45,High,Expat - Indian,Low,Frequent,Watches,Silver,High,Yes,22784,No
+46+,Low,Expat - Indian,High,Rare,Automobiles,Black,Low,No,4314,No
+18-25,Medium,Other,Medium,Frequent,Real Estate,Black,Low,Yes,19595,No
+36-45,Ultra High,Expat - Indian,Medium,Frequent,Jewelry,Silver,Medium,No,19755,No
+18-25,Medium,Expat - Arab,High,Rare,Real Estate,Gold,Medium,Yes,33311,No
+26-35,Ultra High,Expat - Western,Medium,Occasional,Watches,Gold,Low,Yes,46695,No
+26-35,Low,Expat - Indian,Medium,Occasional,Automobiles,Gold,Low,Yes,31598,No
+46+,Medium,Expat - Indian,Medium,Rare,Fashion,White,Medium,No,36449,No
+26-35,Low,Expat - Arab,Low,Rare,Automobiles,Bold Colors,Low,No,36574,No
+26-35,High,Emirati,Low,Occasional,Watches,Silver,Medium,No,45729,No
+36-45,Ultra High,Emirati,Medium,Rare,Fashion,White,High,Yes,19639,No
+18-25,Low,Other,High,Rare,Real Estate,Gold,High,Yes,46370,No
+18-25,Medium,Expat - Arab,High,Rare,Jewelry,Silver,Low,Yes,32023,No
+36-45,Low,Expat - Western,Medium,Occasional,Jewelry,White,High,No,10092,No
+46+,Medium,Expat - Western,Low,Frequent,Automobiles,Black,High,Yes,7382,No
+18-25,Medium,Expat - Arab,Low,Frequent,Real Estate,Gold,High,Yes,43710,No
+26-35,Ultra High,Expat - Western,High,Rare,Watches,White,High,Yes,4159,No
+18-25,Medium,Emirati,Medium,Occasional,Jewelry,Black,Medium,Yes,6656,No
+26-35,Medium,Expat - Western,Medium,Rare,Real Estate,Gold,Medium,Yes,2452,No
+46+,Low,Expat - Western,High,Occasional,Automobiles,Bold Colors,Low,No,43203,No
+36-45,Low,Expat - Arab,High,Rare,Fashion,Gold,High,Yes,19706,No
+18-25,Low,Expat - Arab,High,Occasional,Automobiles,Bold Colors,High,No,10862,No
+36-45,Low,Expat - Western,Low,Occasional,Automobiles,Bold Colors,High,No,11219,Yes
+18-25,High,Expat - Indian,High,Frequent,Real Estate,Bold Colors,Low,Yes,24481,Yes
+26-35,Medium,Expat - Arab,High,Rare,Jewelry,Silver,Medium,Yes,35536,No
+36-45,Medium,Other,Medium,Frequent,Real Estate,Silver,High,Yes,7096,No
+18-25,Low,Other,Medium,Frequent,Fashion,Bold Colors,Medium,No,38953,Yes
+26-35,High,Emirati,Medium,Occasional,Real Estate,Black,Low,Yes,12855,No
+36-45,High,Expat - Western,High,Rare,Watches,Bold Colors,Medium,Yes,44262,Yes
+36-45,Low,Expat - Indian,Low,Occasional,Automobiles,White,High,Yes,15460,No
+18-25,High,Emirati,Medium,Occasional,Jewelry,Bold Colors,Medium,Yes,34937,Yes
+18-25,Medium,Expat - Western,Low,Occasional,Fashion,Silver,Medium,Yes,22094,No
+18-25,Low,Expat - Arab,High,Rare,Automobiles,Silver,Low,Yes,40358,No
+26-35,Medium,Other,Low,Rare,Real Estate,White,Low,No,28924,No
+18-25,Medium,Expat - Indian,Medium,Occasional,Watches,White,Low,No,18789,No
+36-45,Low,Other,Medium,Rare,Real Estate,Gold,Low,Yes,1123,No
+36-45,Ultra High,Expat - Arab,High,Occasional,Automobiles,Black,Medium,Yes,49394,Yes
+18-25,High,Expat - Western,Medium,Rare,Fashion,Black,Medium,No,6909,No
+18-25,Medium,Expat - Arab,Low,Rare,Jewelry,Black,Low,Yes,32854,No
+46+,Medium,Expat - Arab,High,Frequent,Automobiles,Silver,Low,No,4896,No
+36-45,Medium,Other,Medium,Occasional,Fashion,Black,High,Yes,41834,Yes
+26-35,Medium,Expat - Indian,High,Frequent,Automobiles,Gold,High,No,43141,No
+46+,Medium,Expat - Arab,Low,Frequent,Watches,Gold,Low,Yes,18111,Yes
+18-25,Low,Other,Medium,Occasional,Real Estate,Black,Medium,Yes,8039,No
+18-25,Medium,Expat - Indian,Medium,Occasional,Jewelry,White,Low,No,45844,No
+36-45,High,Expat - Western,Low,Rare,Fashion,Gold,Medium,Yes,25099,No
+18-25,Medium,Expat - Western,Medium,Occasional,Jewelry,White,Medium,Yes,4670,No
+26-35,Low,Emirati,Medium,Frequent,Jewelry,Silver,High,Yes,44335,No
+36-45,High,Other,High,Frequent,Jewelry,Gold,Low,No,16029,No
+18-25,Low,Expat - Indian,Medium,Occasional,Fashion,White,Low,Yes,32811,No
+36-45,Low,Expat - Arab,Medium,Frequent,Fashion,Black,Medium,No,16793,Yes
+18-25,Low,Expat - Western,Medium,Rare,Jewelry,Silver,Low,Yes,42318,No
+18-25,Medium,Expat - Indian,High,Frequent,Real Estate,Bold Colors,High,Yes,49106,No
+18-25,High,Other,Medium,Rare,Automobiles,Bold Colors,High,No,21126,No
+26-35,Medium,Emirati,Medium,Frequent,Jewelry,Black,Low,Yes,20228,No
+26-35,Low,Expat - Western,Medium,Rare,Watches,Silver,Low,Yes,19595,No
+36-45,High,Expat - Indian,Medium,Rare,Jewelry,Silver,High,Yes,1972,No
+18-25,High,Expat - Indian,Medium,Occasional,Fashion,Silver,Low,Yes,1360,No
+18-25,High,Expat - Indian,High,Rare,Automobiles,Silver,Medium,No,3632,No
+26-35,Low,Other,Medium,Occasional,Watches,Bold Colors,Low,Yes,36958,No
+18-25,Medium,Other,High,Frequent,Automobiles,White,Medium,Yes,38716,No
+26-35,Ultra High,Other,Low,Frequent,Automobiles,Silver,Low,Yes,16346,No
+18-25,High,Expat - Arab,Medium,Frequent,Watches,White,Low,Yes,49322,Yes
+36-45,Low,Expat - Indian,High,Rare,Jewelry,Silver,High,Yes,19008,No
+18-25,Low,Expat - Western,Low,Frequent,Jewelry,Gold,Medium,No,13120,No
+18-25,Medium,Other,High,Frequent,Jewelry,Gold,High,No,31283,No
+46+,Ultra High,Other,Medium,Occasional,Real Estate,Gold,Low,Yes,8818,No
+26-35,Medium,Expat - Indian,High,Occasional,Jewelry,Silver,High,Yes,6119,No
+18-25,Medium,Other,Medium,Frequent,Watches,White,Low,No,31579,No
+18-25,Low,Expat - Arab,Medium,Frequent,Real Estate,Bold Colors,Low,Yes,46721,No
+46+,Medium,Expat - Arab,Low,Rare,Jewelry,Black,Low,Yes,48668,No
+46+,High,Other,Medium,Rare,Real Estate,Bold Colors,Medium,No,30837,No
+26-35,Medium,Expat - Indian,Low,Frequent,Watches,Silver,Medium,Yes,1975,No
+46+,High,Expat - Indian,Low,Occasional,Jewelry,Gold,Medium,Yes,17265,No
+36-45,Ultra High,Expat - Indian,Low,Frequent,Fashion,Gold,High,No,5318,No
+46+,Low,Emirati,Medium,Rare,Watches,White,Low,No,36081,No
+36-45,Medium,Other,High,Occasional,Automobiles,Silver,High,Yes,42515,No
+26-35,Low,Expat - Indian,Low,Occasional,Automobiles,Bold Colors,High,Yes,44069,No
+26-35,High,Expat - Arab,Low,Rare,Watches,Silver,Low,Yes,48816,No
+26-35,Medium,Expat - Western,Medium,Frequent,Automobiles,Silver,High,No,14134,No
+26-35,Medium,Expat - Western,Low,Frequent,Watches,Gold,Low,Yes,40432,No
+26-35,High,Expat - Indian,Low,Frequent,Fashion,Bold Colors,Low,Yes,47150,No
+36-45,Medium,Expat - Western,Low,Rare,Watches,Black,Low,No,11841,No
+36-45,Ultra High,Expat - Western,High,Occasional,Jewelry,Gold,Low,Yes,27135,Yes
+26-35,Medium,Emirati,High,Rare,Jewelry,Bold Colors,High,Yes,13427,No
+46+,Low,Expat - Arab,Medium,Frequent,Real Estate,White,High,Yes,41251,No
+18-25,Medium,Expat - Arab,Medium,Rare,Automobiles,Gold,High,Yes,35131,No
+26-35,High,Emirati,Medium,Occasional,Automobiles,White,Medium,Yes,37727,No
+46+,Medium,Emirati,Medium,Rare,Watches,Gold,High,No,26165,No
+18-25,High,Expat - Western,Medium,Frequent,Automobiles,Silver,High,No,2749,No
+26-35,Ultra High,Other,Medium,Occasional,Jewelry,Bold Colors,Medium,Yes,34308,No
+26-35,Low,Expat - Western,Medium,Rare,Fashion,White,Low,Yes,8634,No
+36-45,Ultra High,Emirati,Low,Rare,Watches,Gold,Low,Yes,11614,No
+18-25,Low,Expat - Arab,Medium,Occasional,Automobiles,White,Low,Yes,25866,No
+18-25,Low,Expat - Western,High,Occasional,Jewelry,Gold,Medium,Yes,11282,No
+46+,Low,Other,Medium,Frequent,Real Estate,Gold,High,No,21319,No
+36-45,High,Expat - Western,High,Occasional,Automobiles,Black,High,Yes,37726,No
+36-45,Medium,Expat - Indian,High,Frequent,Fashion,Black,High,Yes,16412,No
+36-45,Low,Expat - Western,Low,Rare,Fashion,Black,High,Yes,37627,No
+36-45,Medium,Emirati,Medium,Frequent,Automobiles,White,Medium,Yes,9050,Yes
+18-25,Medium,Expat - Arab,Medium,Rare,Automobiles,Silver,High,Yes,25583,Yes
+18-25,Low,Expat - Arab,High,Occasional,Jewelry,Gold,Low,Yes,19041,No
+26-35,High,Emirati,High,Rare,Automobiles,Bold Colors,Medium,Yes,7185,Yes
+26-35,High,Expat - Indian,Medium,Occasional,Real Estate,Black,Medium,No,21812,No
+36-45,Medium,Emirati,Medium,Rare,Jewelry,White,Low,Yes,26832,No
+36-45,Ultra High,Expat - Western,High,Rare,Watches,White,Low,Yes,18423,Yes
+36-45,Medium,Emirati,Low,Rare,Real Estate,White,High,Yes,48156,No
+26-35,Ultra High,Emirati,High,Rare,Jewelry,Bold Colors,Low,No,42644,No
+46+,Medium,Expat - Indian,High,Frequent,Jewelry,Bold Colors,Medium,Yes,37786,No
+46+,Medium,Expat - Western,Medium,Rare,Fashion,Black,Medium,Yes,30665,No
+26-35,Low,Other,Medium,Frequent,Jewelry,Bold Colors,Medium,Yes,10989,No
+26-35,High,Other,Medium,Occasional,Real Estate,Black,High,No,19208,No
+26-35,Medium,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,High,Yes,24054,No
+26-35,Low,Emirati,Medium,Frequent,Real Estate,Bold Colors,Low,Yes,31477,No
+26-35,Low,Expat - Arab,High,Occasional,Watches,Bold Colors,High,Yes,31374,No
+26-35,Medium,Expat - Indian,High,Occasional,Jewelry,Black,High,Yes,42220,No
+36-45,Medium,Other,High,Rare,Jewelry,Gold,Medium,Yes,4571,No
+36-45,High,Emirati,Low,Rare,Jewelry,Black,Medium,Yes,20576,No
+36-45,High,Expat - Indian,High,Rare,Jewelry,Gold,Low,No,10680,No
+36-45,Low,Expat - Indian,High,Frequent,Fashion,White,Medium,No,26706,No
+26-35,High,Emirati,Medium,Frequent,Fashion,White,High,Yes,15318,No
+46+,Low,Expat - Indian,Low,Occasional,Automobiles,Black,Low,Yes,21659,No
+18-25,High,Emirati,Medium,Rare,Jewelry,Gold,Low,Yes,6029,No
+26-35,High,Emirati,High,Frequent,Watches,Gold,Medium,Yes,49436,No
+18-25,Medium,Expat - Western,Medium,Frequent,Automobiles,Gold,Medium,No,3774,No
+46+,High,Expat - Arab,High,Rare,Jewelry,White,Medium,No,17972,No
+36-45,Medium,Expat - Indian,Medium,Frequent,Fashion,Black,Low,Yes,15048,Yes
+46+,Medium,Expat - Indian,High,Rare,Watches,Silver,Medium,Yes,34372,No
+26-35,High,Expat - Western,Low,Occasional,Automobiles,Gold,High,Yes,44188,No
+36-45,Medium,Expat - Western,Medium,Occasional,Watches,Gold,Low,No,42133,No
+26-35,Medium,Expat - Western,Medium,Occasional,Jewelry,Silver,Medium,No,15689,No
+36-45,Medium,Other,Low,Rare,Real Estate,Black,High,No,17737,No
+18-25,High,Other,High,Frequent,Watches,Gold,High,No,17014,No
+18-25,Medium,Other,Medium,Occasional,Watches,Black,Medium,Yes,22818,No
+18-25,Low,Emirati,Medium,Occasional,Fashion,Gold,High,No,34201,No
+46+,High,Expat - Indian,Medium,Occasional,Jewelry,Bold Colors,Low,No,12144,No
+26-35,High,Expat - Arab,Medium,Frequent,Watches,Gold,Low,Yes,32001,No
+46+,Low,Emirati,Low,Frequent,Jewelry,Bold Colors,High,Yes,1867,No
+18-25,Low,Expat - Indian,Low,Rare,Fashion,Black,Low,No,28182,Yes
+26-35,Low,Expat - Indian,High,Occasional,Jewelry,Gold,Medium,Yes,15340,No
+18-25,Medium,Expat - Western,Medium,Frequent,Fashion,White,High,No,12837,No
+46+,Medium,Expat - Western,High,Rare,Fashion,White,Low,No,48059,No
+46+,High,Emirati,High,Occasional,Automobiles,Silver,Medium,No,9787,No
+46+,Medium,Expat - Western,Medium,Frequent,Jewelry,White,Medium,No,1393,No
+18-25,Medium,Expat - Indian,Medium,Frequent,Real Estate,Bold Colors,Low,Yes,13056,No
+26-35,Medium,Expat - Western,Medium,Rare,Automobiles,White,High,No,44160,Yes
+26-35,High,Other,High,Occasional,Fashion,White,Medium,Yes,45957,Yes
+18-25,Medium,Expat - Western,High,Occasional,Real Estate,White,Medium,Yes,29429,No
+26-35,Ultra High,Expat - Indian,Medium,Frequent,Watches,Gold,Medium,Yes,46909,No
+18-25,Medium,Emirati,High,Occasional,Watches,Silver,Medium,Yes,32899,No
+26-35,Low,Expat - Arab,Low,Rare,Automobiles,Black,High,Yes,33221,No
+36-45,Medium,Expat - Western,High,Frequent,Real Estate,Silver,Low,No,21754,No
+36-45,Medium,Expat - Indian,High,Frequent,Jewelry,Bold Colors,Low,Yes,45389,No
+46+,Medium,Expat - Arab,Low,Rare,Real Estate,Gold,Low,Yes,21905,No
+36-45,Low,Expat - Arab,Medium,Frequent,Automobiles,Gold,Medium,Yes,25083,No
+36-45,Low,Other,Low,Occasional,Jewelry,White,High,Yes,42098,No
+36-45,High,Expat - Arab,Medium,Occasional,Jewelry,White,Low,No,30621,No
+18-25,Low,Expat - Indian,High,Frequent,Watches,Bold Colors,High,Yes,21577,No
+36-45,High,Expat - Indian,Medium,Rare,Real Estate,Gold,Low,No,37728,No
+36-45,Low,Expat - Western,Low,Rare,Jewelry,Black,Medium,No,1663,No
+46+,Medium,Expat - Western,Medium,Occasional,Automobiles,Silver,Low,Yes,48301,No
+36-45,Medium,Expat - Western,High,Rare,Watches,Gold,Medium,No,20216,No
+36-45,Medium,Expat - Arab,Medium,Frequent,Jewelry,Black,Medium,Yes,48259,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Real Estate,Black,Low,Yes,10265,No
+46+,Low,Other,Low,Occasional,Watches,Silver,High,No,5574,Yes
+46+,Low,Expat - Western,High,Occasional,Real Estate,Black,Medium,No,23755,No
+46+,Medium,Emirati,High,Occasional,Real Estate,Bold Colors,High,Yes,32241,No
+46+,Medium,Other,Medium,Rare,Real Estate,Black,Low,Yes,23676,No
+46+,Ultra High,Emirati,Low,Frequent,Watches,Bold Colors,Medium,Yes,22561,No
+46+,High,Expat - Arab,Low,Frequent,Jewelry,Black,High,Yes,25737,No
+18-25,High,Other,Low,Frequent,Fashion,White,Medium,No,24390,No
+36-45,High,Other,Medium,Occasional,Jewelry,Black,Low,Yes,27076,No
+46+,Medium,Expat - Indian,High,Frequent,Watches,Bold Colors,Medium,Yes,6546,No
+36-45,Low,Expat - Arab,Medium,Rare,Fashion,Black,Low,No,22280,No
+36-45,Ultra High,Expat - Arab,High,Rare,Fashion,Black,High,Yes,33953,Yes
+18-25,Medium,Other,Medium,Frequent,Fashion,Black,Medium,Yes,22037,No
+46+,Medium,Expat - Arab,High,Occasional,Automobiles,Bold Colors,High,No,41576,No
+26-35,Low,Other,High,Frequent,Watches,Black,Low,No,29564,No
+18-25,Medium,Expat - Indian,Low,Rare,Automobiles,Silver,Low,No,34597,No
+26-35,Medium,Other,Medium,Rare,Fashion,Silver,High,Yes,20903,No
+36-45,High,Expat - Arab,Medium,Rare,Automobiles,Bold Colors,High,No,31806,No
+36-45,Medium,Expat - Arab,Low,Frequent,Automobiles,White,Low,Yes,47328,Yes
+18-25,Medium,Other,Medium,Rare,Watches,Silver,High,Yes,25392,No
+18-25,Ultra High,Other,Medium,Occasional,Real Estate,Gold,Low,No,29087,No
+26-35,Low,Other,High,Frequent,Automobiles,Silver,High,Yes,45288,No
+46+,Medium,Expat - Western,Medium,Frequent,Automobiles,Gold,Low,No,45308,No
+26-35,Low,Expat - Arab,High,Rare,Fashion,Bold Colors,Low,Yes,23293,No
+18-25,High,Expat - Arab,Medium,Rare,Fashion,White,Medium,Yes,11677,No
+26-35,Ultra High,Expat - Western,High,Occasional,Fashion,Gold,Low,No,13803,No
+18-25,Low,Other,Medium,Frequent,Jewelry,Gold,Low,Yes,47656,No
+26-35,High,Expat - Indian,High,Rare,Automobiles,Silver,Medium,No,47002,No
+18-25,Low,Other,Medium,Occasional,Fashion,Gold,Medium,Yes,2225,No
+18-25,Ultra High,Other,Medium,Rare,Watches,Bold Colors,High,No,6774,No
+18-25,High,Expat - Western,Medium,Frequent,Jewelry,Bold Colors,High,Yes,14043,No
+46+,High,Expat - Arab,Medium,Rare,Real Estate,Bold Colors,Low,Yes,17163,Yes
+26-35,Low,Other,Low,Frequent,Automobiles,Silver,High,Yes,3844,Yes
+26-35,Ultra High,Expat - Arab,Low,Rare,Automobiles,White,High,No,8347,No
+26-35,High,Emirati,Low,Frequent,Watches,Silver,Low,No,21804,No
+18-25,Medium,Expat - Arab,High,Occasional,Real Estate,Bold Colors,Medium,No,37764,No
+26-35,High,Expat - Indian,Medium,Frequent,Real Estate,Silver,Medium,Yes,28246,No
+26-35,Low,Expat - Indian,Medium,Occasional,Jewelry,Bold Colors,Low,Yes,43458,No
+18-25,High,Other,High,Frequent,Automobiles,Black,Low,Yes,2688,No
+36-45,Low,Expat - Arab,Medium,Occasional,Fashion,Black,Low,Yes,48055,No
+18-25,High,Other,Medium,Rare,Watches,Gold,Low,Yes,18251,Yes
+26-35,Medium,Expat - Western,Low,Frequent,Watches,White,Low,No,13504,No
+18-25,Low,Expat - Indian,High,Rare,Watches,Black,Low,No,40720,No
+36-45,Low,Other,High,Occasional,Watches,Bold Colors,High,Yes,28584,No
+18-25,Low,Expat - Western,High,Frequent,Fashion,Silver,High,Yes,45484,No
+26-35,Medium,Other,Medium,Frequent,Fashion,Silver,High,No,49531,Yes
+36-45,Medium,Expat - Arab,High,Rare,Jewelry,Gold,Medium,Yes,39852,No
+46+,Medium,Expat - Arab,Low,Frequent,Automobiles,Silver,Low,Yes,14219,No
+26-35,Low,Expat - Arab,Low,Frequent,Fashion,Black,Low,Yes,43972,No
+36-45,Low,Expat - Arab,Low,Rare,Jewelry,Silver,High,Yes,25815,No
+36-45,High,Emirati,Medium,Frequent,Real Estate,Black,Medium,No,49865,No
+46+,Low,Expat - Western,Medium,Rare,Automobiles,Black,High,Yes,25623,No
+18-25,Ultra High,Expat - Western,Medium,Rare,Fashion,White,Low,Yes,37817,No
+18-25,High,Expat - Arab,Low,Rare,Real Estate,Gold,Low,Yes,4457,No
+26-35,Medium,Emirati,Medium,Rare,Jewelry,Bold Colors,High,No,28855,No
+46+,Medium,Expat - Arab,High,Rare,Fashion,Black,High,Yes,37258,No
+18-25,High,Emirati,Medium,Occasional,Fashion,Gold,Low,Yes,16470,No
+46+,Low,Expat - Arab,High,Occasional,Real Estate,Bold Colors,High,No,49957,No
+18-25,Low,Expat - Indian,Medium,Rare,Fashion,Silver,Low,No,46930,Yes
+36-45,Low,Expat - Indian,High,Occasional,Watches,Gold,High,No,19281,Yes
+18-25,High,Other,Medium,Occasional,Fashion,Gold,Medium,No,12728,No
+46+,Low,Expat - Arab,Medium,Frequent,Automobiles,Gold,Low,Yes,46680,No
+36-45,Medium,Expat - Western,Medium,Rare,Real Estate,Silver,Medium,Yes,39723,No
+36-45,Ultra High,Other,Medium,Occasional,Automobiles,Silver,High,Yes,11162,No
+36-45,High,Expat - Indian,High,Frequent,Jewelry,Gold,Medium,Yes,30272,Yes
+46+,Medium,Expat - Arab,Medium,Frequent,Automobiles,White,High,No,36488,No
+26-35,Low,Other,Medium,Rare,Watches,Black,Medium,No,44341,No
+26-35,High,Expat - Arab,High,Rare,Watches,Silver,Medium,No,12338,No
+26-35,Medium,Expat - Indian,Medium,Frequent,Automobiles,White,Medium,Yes,23296,No
+46+,Low,Other,Medium,Rare,Jewelry,Silver,Low,No,12675,Yes
+36-45,Low,Expat - Indian,Medium,Rare,Fashion,Gold,Medium,No,25070,Yes
+26-35,Ultra High,Emirati,Medium,Frequent,Watches,White,High,Yes,21080,No
+46+,Medium,Expat - Indian,Medium,Frequent,Automobiles,Bold Colors,High,No,48139,No
+26-35,High,Expat - Arab,Medium,Rare,Automobiles,Black,Low,Yes,14936,No
+18-25,High,Expat - Western,High,Occasional,Automobiles,Black,Low,Yes,11019,Yes
+26-35,Medium,Expat - Indian,Medium,Rare,Fashion,Silver,High,No,42182,No
+26-35,Medium,Expat - Western,Medium,Occasional,Real Estate,Black,Medium,No,2746,No
+36-45,Medium,Emirati,Medium,Frequent,Jewelry,Bold Colors,High,Yes,23768,No
+46+,Medium,Other,High,Occasional,Real Estate,White,Low,Yes,9325,Yes
+36-45,Medium,Other,High,Frequent,Jewelry,White,Low,No,45763,No
+36-45,High,Expat - Western,Medium,Rare,Jewelry,Gold,High,No,5486,No
+36-45,Medium,Other,High,Rare,Automobiles,White,Medium,No,17485,No
+36-45,High,Expat - Indian,Medium,Frequent,Watches,Silver,Medium,Yes,15328,No
+36-45,Medium,Expat - Western,Medium,Frequent,Automobiles,Bold Colors,Low,Yes,20112,No
+26-35,Medium,Expat - Arab,Low,Frequent,Fashion,Gold,High,Yes,45001,No
+36-45,Medium,Expat - Indian,Medium,Rare,Jewelry,Silver,High,Yes,33280,Yes
+36-45,Medium,Expat - Indian,Medium,Rare,Watches,Silver,Low,Yes,27576,No
+46+,High,Expat - Indian,High,Occasional,Jewelry,Silver,High,Yes,43528,Yes
+18-25,Low,Expat - Arab,Medium,Frequent,Jewelry,Black,Low,Yes,16702,Yes
+26-35,Medium,Emirati,High,Occasional,Automobiles,Silver,Medium,Yes,22320,No
+26-35,Low,Other,Medium,Rare,Watches,Black,Medium,No,19437,No
+26-35,Medium,Expat - Western,Medium,Occasional,Watches,White,High,Yes,1193,No
+36-45,Medium,Emirati,Medium,Occasional,Jewelry,Black,Medium,Yes,26317,No
+36-45,Medium,Expat - Western,Low,Rare,Watches,Silver,Medium,Yes,29482,No
+36-45,Ultra High,Other,Medium,Rare,Watches,Bold Colors,Low,Yes,20343,No
+46+,Medium,Expat - Arab,Low,Frequent,Automobiles,Bold Colors,Low,Yes,30144,No
+18-25,High,Expat - Indian,Medium,Occasional,Real Estate,White,High,No,12612,No
+36-45,Medium,Expat - Indian,Medium,Rare,Fashion,Silver,Low,No,20307,No
+18-25,Medium,Expat - Arab,High,Rare,Real Estate,Black,High,Yes,20623,No
+46+,Low,Emirati,Medium,Occasional,Watches,Bold Colors,High,Yes,21249,No
+26-35,Low,Emirati,Low,Rare,Jewelry,Gold,Low,Yes,9229,No
+36-45,Medium,Expat - Western,Medium,Frequent,Fashion,Silver,Medium,No,27274,No
+18-25,Medium,Expat - Arab,High,Frequent,Fashion,Silver,Medium,Yes,38334,No
+18-25,Low,Emirati,High,Occasional,Jewelry,Gold,Medium,Yes,7595,No
+36-45,Low,Expat - Arab,Medium,Frequent,Fashion,Bold Colors,Medium,No,29602,No
+26-35,Low,Other,Medium,Rare,Jewelry,Gold,High,No,39377,No
+26-35,Ultra High,Expat - Indian,Low,Rare,Fashion,White,Medium,No,38876,No
+26-35,Medium,Expat - Indian,High,Rare,Real Estate,Black,High,No,35551,No
+46+,Medium,Expat - Indian,Medium,Rare,Fashion,Black,Low,No,43926,No
+18-25,Low,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,Low,Yes,25678,No
+18-25,Medium,Expat - Arab,Medium,Frequent,Jewelry,Gold,High,Yes,23214,No
+18-25,Low,Expat - Western,Low,Frequent,Fashion,Silver,Medium,No,39599,No
+46+,Low,Expat - Indian,High,Rare,Jewelry,Silver,High,No,33809,No
+18-25,Medium,Expat - Western,Low,Occasional,Automobiles,Silver,Medium,No,44954,No
+46+,Low,Expat - Indian,Medium,Rare,Fashion,White,Medium,Yes,28794,Yes
+26-35,Low,Expat - Western,Medium,Rare,Fashion,White,High,Yes,23593,No
+36-45,Low,Expat - Western,High,Occasional,Automobiles,Silver,High,Yes,29864,No
+18-25,Low,Other,High,Occasional,Automobiles,Bold Colors,Medium,Yes,45329,No
+18-25,Low,Expat - Western,Medium,Rare,Automobiles,White,High,Yes,43636,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Jewelry,White,Medium,No,4689,No
+36-45,High,Expat - Western,High,Rare,Automobiles,Black,High,Yes,41363,Yes
+46+,Medium,Expat - Indian,Low,Frequent,Jewelry,Black,Low,No,15687,No
+36-45,Medium,Expat - Western,Medium,Frequent,Real Estate,Bold Colors,Medium,No,21381,No
+26-35,Low,Emirati,Medium,Occasional,Fashion,White,Low,Yes,34093,No
+26-35,Ultra High,Expat - Indian,High,Occasional,Fashion,White,High,Yes,24589,Yes
+36-45,Medium,Emirati,Medium,Rare,Watches,Gold,Low,No,2120,No
+46+,Low,Expat - Indian,High,Frequent,Real Estate,Bold Colors,High,No,17491,No
+46+,Medium,Expat - Arab,Medium,Frequent,Automobiles,Bold Colors,Medium,No,44638,Yes
+18-25,Low,Expat - Arab,Medium,Rare,Automobiles,Gold,High,No,40062,No
+46+,Medium,Expat - Arab,Medium,Rare,Real Estate,Gold,High,No,6193,No
+36-45,Medium,Emirati,Medium,Rare,Automobiles,Black,Medium,Yes,24608,No
+26-35,High,Other,Medium,Occasional,Watches,Bold Colors,High,No,16213,No
+18-25,Medium,Expat - Indian,Medium,Rare,Jewelry,Bold Colors,Medium,No,49379,No
+18-25,High,Expat - Arab,Low,Rare,Fashion,Gold,High,No,15230,Yes
+26-35,Ultra High,Expat - Indian,High,Frequent,Real Estate,Silver,Medium,Yes,19423,Yes
+46+,Low,Emirati,High,Rare,Fashion,Silver,Low,No,18187,No
+26-35,Low,Other,Medium,Frequent,Jewelry,Black,High,Yes,11040,No
+46+,Medium,Emirati,Medium,Frequent,Real Estate,Silver,High,No,1766,Yes
+26-35,Medium,Expat - Indian,Low,Occasional,Jewelry,Silver,High,Yes,30949,No
+36-45,Medium,Other,Medium,Rare,Automobiles,Silver,Medium,Yes,47464,No
+46+,Ultra High,Other,High,Rare,Automobiles,White,High,Yes,4527,No
+36-45,High,Emirati,Low,Frequent,Automobiles,Black,Medium,Yes,12021,No
+18-25,Medium,Expat - Arab,Low,Occasional,Jewelry,Gold,High,Yes,18872,No
+26-35,Medium,Expat - Indian,High,Occasional,Jewelry,Silver,Low,No,37897,Yes
+18-25,High,Expat - Western,Medium,Rare,Jewelry,White,High,Yes,12758,No
+18-25,Ultra High,Expat - Western,Low,Frequent,Fashion,Silver,Low,Yes,19757,No
+18-25,High,Emirati,Medium,Rare,Jewelry,White,Medium,Yes,26412,No
+18-25,Low,Expat - Indian,Medium,Rare,Automobiles,Black,Low,Yes,15312,No
+26-35,Medium,Expat - Indian,Medium,Rare,Watches,Silver,High,Yes,23119,No
+18-25,Low,Emirati,High,Rare,Jewelry,White,High,Yes,12804,No
+26-35,Low,Expat - Indian,High,Frequent,Watches,Bold Colors,Medium,Yes,47545,No
+26-35,Low,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,High,No,11983,No
+36-45,Medium,Emirati,High,Rare,Jewelry,White,High,Yes,30999,No
+46+,Medium,Expat - Arab,Medium,Rare,Fashion,Silver,Medium,Yes,31557,No
+46+,Low,Expat - Indian,High,Rare,Fashion,Silver,Medium,Yes,40758,Yes
+26-35,Medium,Emirati,Medium,Rare,Watches,Black,Low,No,29788,No
+36-45,Medium,Expat - Indian,High,Occasional,Fashion,Black,Medium,Yes,32950,No
+26-35,Medium,Emirati,High,Occasional,Fashion,Gold,High,Yes,4983,Yes
+26-35,Low,Expat - Indian,Low,Occasional,Fashion,Black,Medium,Yes,4768,No
+26-35,Medium,Expat - Arab,High,Occasional,Automobiles,Silver,High,Yes,2504,No
+36-45,High,Expat - Arab,High,Rare,Fashion,Gold,Low,Yes,3450,Yes
+46+,Low,Expat - Indian,High,Frequent,Real Estate,Black,Medium,Yes,12236,Yes
+36-45,Low,Emirati,Medium,Occasional,Jewelry,White,High,Yes,9002,No
+18-25,Medium,Expat - Western,High,Occasional,Fashion,Bold Colors,Medium,Yes,10891,No
+36-45,Ultra High,Expat - Arab,High,Rare,Fashion,Black,Medium,Yes,39787,Yes
+36-45,Medium,Expat - Arab,Medium,Rare,Fashion,Black,Medium,No,14898,No
+36-45,Medium,Expat - Western,High,Rare,Real Estate,White,Medium,No,11472,No
+36-45,Medium,Expat - Indian,Low,Rare,Fashion,Silver,Low,Yes,16264,No
+46+,Medium,Emirati,Low,Frequent,Fashion,White,High,No,18691,No
+18-25,Low,Expat - Indian,Medium,Frequent,Jewelry,Black,Medium,No,44487,No
+46+,Medium,Other,Medium,Occasional,Real Estate,Silver,High,No,33632,No
+46+,Ultra High,Expat - Arab,Medium,Frequent,Real Estate,Gold,Low,Yes,34743,No
+36-45,Medium,Other,Low,Occasional,Fashion,Black,High,No,44016,No
+26-35,High,Expat - Arab,High,Occasional,Real Estate,White,High,Yes,14002,Yes
+26-35,High,Expat - Arab,Low,Frequent,Watches,Gold,Low,Yes,47981,No
+46+,Low,Other,Low,Occasional,Real Estate,Bold Colors,Medium,Yes,44386,Yes
+46+,Ultra High,Other,Low,Rare,Real Estate,Gold,High,Yes,29250,No
+36-45,Low,Expat - Indian,Medium,Occasional,Real Estate,White,High,Yes,44388,No
+46+,Medium,Other,High,Rare,Automobiles,Gold,Medium,Yes,22323,Yes
+36-45,Low,Expat - Indian,Medium,Frequent,Automobiles,White,Medium,No,4733,No
+26-35,Low,Expat - Indian,High,Frequent,Automobiles,Black,High,Yes,42319,No
+26-35,Medium,Expat - Indian,Low,Occasional,Real Estate,Silver,Low,Yes,3223,Yes
+18-25,Low,Expat - Arab,Medium,Rare,Watches,Bold Colors,Medium,Yes,17868,No
+26-35,Medium,Expat - Arab,Medium,Occasional,Real Estate,Silver,Medium,Yes,35196,No
+46+,Medium,Other,Medium,Frequent,Fashion,Silver,Low,Yes,3080,No
+26-35,Low,Expat - Arab,Low,Occasional,Watches,Silver,High,No,14776,No
+36-45,Low,Other,Medium,Occasional,Automobiles,White,Medium,Yes,1695,No
+26-35,Medium,Expat - Arab,Medium,Rare,Jewelry,White,High,Yes,33969,No
+18-25,Medium,Emirati,High,Frequent,Watches,Bold Colors,High,No,13049,No
+26-35,High,Emirati,Medium,Occasional,Automobiles,White,High,Yes,16628,No
+36-45,Medium,Other,Low,Rare,Watches,White,Low,No,9265,No
+36-45,High,Expat - Arab,Medium,Occasional,Watches,White,High,Yes,25671,Yes
+46+,Medium,Expat - Arab,Low,Rare,Real Estate,White,High,Yes,13460,No
+26-35,Medium,Expat - Indian,High,Rare,Fashion,Black,Medium,Yes,4477,Yes
+36-45,Medium,Expat - Western,Medium,Occasional,Jewelry,Bold Colors,Medium,Yes,3202,No
+18-25,Low,Other,Low,Frequent,Automobiles,White,Low,Yes,49310,No
+46+,Medium,Expat - Western,High,Frequent,Watches,Bold Colors,Low,No,24874,No
+18-25,High,Expat - Western,Medium,Rare,Jewelry,Gold,Medium,No,48392,No
+26-35,Medium,Other,Low,Frequent,Watches,Black,Medium,No,42217,No
+26-35,High,Expat - Arab,Medium,Rare,Fashion,White,Low,No,12850,No
+26-35,High,Other,Medium,Frequent,Jewelry,Black,High,Yes,40085,Yes
+46+,High,Expat - Western,High,Occasional,Automobiles,Black,Low,No,21809,No
+36-45,Ultra High,Expat - Arab,High,Frequent,Watches,Gold,High,Yes,6350,Yes
+46+,Medium,Emirati,High,Rare,Fashion,Bold Colors,Medium,No,3806,No
+18-25,Medium,Other,Medium,Rare,Jewelry,Black,Medium,Yes,8163,No
+46+,Medium,Other,Medium,Frequent,Watches,Silver,Medium,No,29832,No
+18-25,Medium,Expat - Arab,High,Occasional,Watches,Gold,High,No,1185,No
+46+,Medium,Emirati,Low,Rare,Automobiles,Silver,Low,Yes,41838,No
+36-45,High,Emirati,Medium,Rare,Fashion,Gold,High,Yes,25718,No
+18-25,Medium,Expat - Arab,Medium,Rare,Real Estate,Silver,Low,Yes,12545,No
+26-35,Medium,Expat - Indian,Low,Rare,Watches,Silver,Low,Yes,26215,Yes
+26-35,Low,Other,Medium,Rare,Jewelry,Black,Low,No,29325,No
+46+,Medium,Other,High,Occasional,Automobiles,Black,Medium,No,19458,No
+26-35,Low,Expat - Western,High,Frequent,Automobiles,Gold,Low,Yes,17006,Yes
+18-25,High,Expat - Arab,Low,Occasional,Watches,Bold Colors,Medium,Yes,29544,No
+26-35,Medium,Expat - Western,Low,Occasional,Watches,Black,Low,No,33969,No
+36-45,Low,Expat - Western,Medium,Rare,Watches,Black,Low,Yes,12284,Yes
+36-45,Low,Emirati,High,Occasional,Real Estate,White,Medium,Yes,39478,No
+46+,Medium,Other,Low,Rare,Watches,Black,Medium,No,28655,No
+18-25,Medium,Expat - Western,High,Occasional,Fashion,Bold Colors,High,No,30143,No
+36-45,Medium,Emirati,Low,Rare,Jewelry,White,Low,Yes,16698,No
+36-45,Low,Expat - Arab,Medium,Rare,Watches,Silver,Medium,Yes,35870,No
+18-25,Medium,Expat - Western,Medium,Occasional,Real Estate,Silver,High,No,10102,No
+26-35,Medium,Other,High,Occasional,Jewelry,White,High,No,2571,No
+26-35,Medium,Expat - Western,Medium,Frequent,Automobiles,White,Medium,No,38893,No
+46+,Medium,Expat - Arab,Medium,Frequent,Watches,White,Low,Yes,40465,No
+26-35,Medium,Expat - Western,Medium,Frequent,Jewelry,Gold,High,No,22553,No
+18-25,Low,Other,High,Occasional,Automobiles,Bold Colors,Low,Yes,19543,No
+36-45,Ultra High,Emirati,High,Occasional,Real Estate,Bold Colors,Low,No,29901,No
+26-35,Medium,Other,Low,Rare,Fashion,Silver,High,Yes,15034,No
+46+,Medium,Emirati,High,Frequent,Watches,Silver,Medium,Yes,28120,No
+26-35,Low,Expat - Indian,Medium,Rare,Fashion,Silver,Low,No,2329,No
+18-25,Medium,Other,Low,Rare,Real Estate,Black,Medium,Yes,42420,No
+46+,Low,Other,Medium,Rare,Jewelry,Silver,High,Yes,26382,No
+26-35,Medium,Expat - Arab,Low,Rare,Jewelry,White,Low,No,4699,No
+46+,Ultra High,Expat - Western,High,Frequent,Real Estate,Silver,Medium,No,39795,No
+18-25,Medium,Emirati,High,Rare,Real Estate,White,Medium,No,11667,No
+36-45,Low,Emirati,Low,Occasional,Watches,Gold,Low,Yes,38591,No
+18-25,Low,Expat - Arab,Medium,Occasional,Automobiles,Black,Medium,Yes,43115,No
+18-25,Medium,Expat - Arab,High,Occasional,Fashion,Black,Medium,No,24459,No
+18-25,Low,Expat - Western,High,Frequent,Fashion,Bold Colors,High,Yes,7959,No
+18-25,Low,Expat - Western,Medium,Rare,Jewelry,Gold,High,No,30581,No
+36-45,High,Other,High,Frequent,Jewelry,White,Medium,Yes,47384,Yes
+36-45,Medium,Expat - Indian,Medium,Rare,Watches,Gold,Medium,No,7210,No
+46+,Low,Expat - Western,Medium,Frequent,Real Estate,Black,Low,Yes,13517,No
+26-35,Ultra High,Expat - Arab,High,Frequent,Fashion,White,High,Yes,13620,Yes
+36-45,Low,Expat - Western,Medium,Rare,Watches,Gold,Low,No,37744,No
+36-45,Ultra High,Emirati,Medium,Frequent,Jewelry,Black,Medium,Yes,23804,Yes
+26-35,Medium,Expat - Indian,Medium,Rare,Jewelry,White,Low,No,31568,No
+36-45,High,Other,High,Occasional,Fashion,White,Medium,No,18991,Yes
+18-25,Medium,Emirati,High,Occasional,Jewelry,Black,High,No,9912,No
+18-25,High,Emirati,Medium,Occasional,Jewelry,White,High,No,33527,No
+26-35,Ultra High,Expat - Indian,Medium,Frequent,Automobiles,Black,Medium,Yes,31863,No
+46+,Low,Other,Medium,Occasional,Real Estate,Silver,High,Yes,45827,Yes
+46+,Ultra High,Expat - Arab,Medium,Rare,Jewelry,Silver,Medium,Yes,34458,No
+26-35,Medium,Other,Medium,Occasional,Automobiles,White,Low,Yes,21407,No
+26-35,Medium,Expat - Western,High,Occasional,Watches,White,Medium,Yes,13344,No
+18-25,Medium,Emirati,Medium,Frequent,Jewelry,Black,Low,Yes,37205,No
+46+,Medium,Expat - Western,Medium,Rare,Watches,White,Medium,Yes,3355,No
+36-45,Low,Expat - Arab,Low,Frequent,Jewelry,Bold Colors,High,Yes,31893,No
+18-25,Medium,Expat - Western,Medium,Frequent,Fashion,Silver,Medium,Yes,1749,No
+26-35,Medium,Other,High,Rare,Automobiles,White,Medium,No,20435,No
+46+,High,Expat - Western,Medium,Frequent,Automobiles,White,Medium,Yes,46733,Yes
+36-45,High,Expat - Arab,Low,Rare,Fashion,Gold,High,Yes,46615,No
+36-45,Medium,Expat - Arab,Medium,Occasional,Real Estate,White,Medium,No,39526,No
+18-25,Medium,Expat - Arab,Medium,Rare,Automobiles,Bold Colors,High,Yes,19088,No
+46+,Low,Other,Low,Rare,Watches,Silver,Medium,No,45405,No
+46+,Low,Expat - Arab,Medium,Rare,Automobiles,Gold,Low,No,39842,No
+26-35,Low,Emirati,Medium,Frequent,Real Estate,Black,Medium,Yes,47146,No
+46+,Medium,Expat - Arab,Medium,Rare,Watches,Black,Low,No,25403,Yes
+46+,Low,Expat - Western,Medium,Rare,Watches,Silver,High,No,48297,No
+18-25,Ultra High,Expat - Western,Medium,Rare,Fashion,Black,High,Yes,39042,No
+46+,Medium,Expat - Western,High,Occasional,Jewelry,Bold Colors,Medium,No,47775,No
+36-45,Medium,Other,Medium,Rare,Fashion,White,High,Yes,40177,No
+18-25,Medium,Expat - Western,Medium,Frequent,Jewelry,Silver,Medium,Yes,40056,No
+18-25,Low,Other,Medium,Rare,Fashion,Gold,High,Yes,23713,No
+26-35,Medium,Other,Medium,Rare,Jewelry,White,Low,Yes,1885,No
+46+,Medium,Expat - Arab,High,Occasional,Automobiles,Black,High,Yes,34632,No
+26-35,Medium,Emirati,Medium,Rare,Watches,Black,Low,No,40685,No
+36-45,Medium,Expat - Arab,High,Frequent,Jewelry,Gold,Medium,Yes,12686,No
+18-25,Ultra High,Expat - Arab,Low,Rare,Automobiles,Bold Colors,Medium,Yes,4054,No
+18-25,High,Other,Medium,Frequent,Real Estate,Gold,Medium,Yes,9977,Yes
+18-25,Medium,Other,High,Occasional,Fashion,Silver,Low,No,26032,No
+36-45,Medium,Expat - Western,Medium,Rare,Real Estate,Gold,Medium,No,49967,No
+36-45,Medium,Expat - Western,Medium,Occasional,Automobiles,Black,Medium,No,9536,No
+26-35,Low,Expat - Arab,Medium,Rare,Real Estate,Bold Colors,Low,No,16070,No
+26-35,Medium,Expat - Indian,High,Frequent,Real Estate,Bold Colors,High,No,17937,No
+26-35,Low,Expat - Indian,Low,Occasional,Automobiles,Gold,Medium,No,22500,No
+46+,Medium,Expat - Western,High,Rare,Watches,Silver,High,No,41451,No
+18-25,Medium,Expat - Indian,Low,Frequent,Jewelry,Black,High,Yes,11011,No
+18-25,Low,Expat - Western,High,Occasional,Fashion,White,Medium,Yes,49039,No
+26-35,Ultra High,Other,Medium,Rare,Jewelry,Bold Colors,Medium,No,9896,No
+18-25,Ultra High,Expat - Arab,High,Occasional,Fashion,Gold,Low,Yes,30799,Yes
+26-35,High,Emirati,Medium,Rare,Jewelry,Silver,Low,Yes,15582,No
+46+,Medium,Expat - Arab,High,Frequent,Real Estate,Silver,Medium,Yes,40958,No
+46+,High,Expat - Western,Low,Frequent,Watches,Black,High,No,42912,No
+36-45,Low,Expat - Western,Low,Occasional,Real Estate,Bold Colors,Low,Yes,1814,No
+46+,High,Expat - Arab,Medium,Occasional,Watches,Black,Low,No,10740,No
+26-35,Low,Expat - Western,Low,Rare,Automobiles,White,Medium,No,25719,No
+46+,High,Expat - Indian,Low,Frequent,Fashion,White,Medium,No,36545,Yes
+36-45,Low,Expat - Indian,High,Rare,Fashion,White,Medium,No,21150,No
+18-25,High,Expat - Western,High,Frequent,Automobiles,Silver,Medium,No,5958,No
+26-35,Ultra High,Expat - Western,Medium,Occasional,Jewelry,Bold Colors,Low,Yes,4825,Yes
+18-25,Low,Expat - Indian,High,Rare,Automobiles,Black,Low,Yes,15800,No
+36-45,Medium,Expat - Western,Medium,Rare,Automobiles,Black,Low,Yes,10999,No
+36-45,Ultra High,Expat - Western,Medium,Frequent,Watches,White,High,No,21854,No
+36-45,Medium,Expat - Arab,High,Frequent,Automobiles,Bold Colors,Low,No,46732,No
+18-25,High,Emirati,Medium,Frequent,Fashion,Bold Colors,Low,No,28315,No
+18-25,Medium,Expat - Indian,High,Occasional,Real Estate,Gold,Medium,Yes,40540,No
+18-25,Medium,Expat - Arab,Medium,Rare,Watches,Bold Colors,Low,Yes,10481,No
+18-25,Low,Emirati,Medium,Frequent,Watches,Bold Colors,Low,Yes,49505,No
+36-45,Low,Expat - Western,Low,Occasional,Jewelry,Black,Low,Yes,18246,No
+36-45,High,Expat - Western,Low,Frequent,Real Estate,Bold Colors,Medium,Yes,23601,No
+26-35,Medium,Expat - Arab,Low,Rare,Watches,Bold Colors,Low,Yes,11677,No
+26-35,Medium,Expat - Western,High,Frequent,Automobiles,Black,Low,No,30552,Yes
+18-25,Medium,Other,High,Rare,Watches,Bold Colors,High,Yes,23322,No
+46+,Medium,Expat - Arab,High,Occasional,Watches,Black,High,Yes,3355,No
+46+,High,Emirati,Medium,Occasional,Watches,Gold,High,No,10157,No
+36-45,Ultra High,Expat - Arab,Medium,Frequent,Jewelry,Silver,High,Yes,36163,No
+36-45,Medium,Expat - Indian,Low,Rare,Watches,Black,Medium,Yes,26914,No
+36-45,High,Expat - Arab,Medium,Rare,Watches,Black,High,Yes,34292,No
+26-35,High,Expat - Western,Medium,Rare,Jewelry,Bold Colors,Low,Yes,1561,No
+26-35,Medium,Expat - Western,High,Frequent,Real Estate,Black,High,Yes,9167,No
+36-45,Ultra High,Other,Medium,Rare,Fashion,White,Medium,Yes,17184,No
+36-45,Low,Other,Low,Rare,Jewelry,White,High,Yes,25497,No
+36-45,Low,Other,Low,Rare,Jewelry,Gold,High,Yes,24800,No
+46+,High,Emirati,Low,Rare,Watches,Black,Medium,Yes,38432,No
+26-35,Medium,Other,Medium,Frequent,Watches,Bold Colors,Medium,No,2205,No
+46+,High,Emirati,High,Frequent,Fashion,Bold Colors,Medium,Yes,13039,Yes
+46+,High,Other,Medium,Rare,Watches,Silver,Medium,No,46161,No
+36-45,Low,Emirati,High,Rare,Automobiles,Gold,Medium,Yes,36006,No
+36-45,High,Expat - Arab,Medium,Occasional,Watches,Bold Colors,Medium,Yes,18544,No
+18-25,Medium,Expat - Arab,Medium,Occasional,Watches,Silver,Low,No,13987,No
+18-25,Medium,Expat - Western,Low,Rare,Automobiles,Bold Colors,High,Yes,6239,No
+46+,Medium,Emirati,High,Rare,Fashion,Silver,High,Yes,45785,No
+26-35,Ultra High,Expat - Indian,High,Occasional,Automobiles,White,Medium,No,24358,No
+36-45,Low,Expat - Western,Low,Occasional,Jewelry,White,Medium,Yes,18138,No
+36-45,Medium,Expat - Arab,Medium,Rare,Automobiles,Bold Colors,Low,No,23984,No
+46+,Medium,Emirati,Medium,Frequent,Real Estate,Gold,Low,No,29428,No
+18-25,High,Other,Medium,Frequent,Jewelry,Black,Medium,Yes,10096,No
+26-35,Medium,Expat - Indian,High,Rare,Watches,Gold,Low,Yes,48582,No
+18-25,Low,Expat - Arab,Medium,Rare,Jewelry,Gold,Low,Yes,25536,No
+18-25,Low,Expat - Western,Medium,Occasional,Fashion,Black,Medium,No,47059,No
+18-25,Medium,Emirati,Low,Occasional,Fashion,White,Medium,No,3621,No
+18-25,High,Expat - Indian,Low,Frequent,Automobiles,White,Medium,No,36958,No
+36-45,Low,Emirati,Low,Rare,Jewelry,Black,Medium,Yes,4948,No
+36-45,Low,Other,Low,Occasional,Watches,Silver,High,No,2287,Yes
+18-25,Ultra High,Expat - Western,High,Frequent,Fashion,Gold,High,Yes,24902,Yes
+26-35,Low,Emirati,High,Frequent,Watches,Bold Colors,Medium,Yes,48358,No
+46+,Ultra High,Expat - Arab,Low,Frequent,Real Estate,White,Low,No,22164,No
+26-35,Medium,Expat - Western,High,Occasional,Fashion,Bold Colors,Medium,Yes,16668,No
+26-35,High,Expat - Arab,Low,Occasional,Automobiles,Black,High,No,2772,No
+26-35,Low,Emirati,Medium,Rare,Real Estate,Bold Colors,Low,Yes,33238,No
+18-25,Low,Expat - Western,Medium,Rare,Jewelry,Bold Colors,High,No,39968,No
+36-45,High,Expat - Arab,Medium,Frequent,Watches,Gold,Medium,Yes,16762,No
+26-35,High,Other,Medium,Frequent,Fashion,Black,High,Yes,36906,Yes
+18-25,High,Other,Medium,Occasional,Real Estate,Bold Colors,High,Yes,8213,No
+26-35,Low,Emirati,Medium,Occasional,Real Estate,White,High,Yes,15941,No
+26-35,High,Expat - Western,High,Rare,Fashion,Black,Low,Yes,31345,No
+18-25,High,Expat - Indian,Low,Rare,Jewelry,White,High,No,36184,No
+36-45,Medium,Expat - Western,Low,Rare,Jewelry,Silver,Low,Yes,16964,No
+36-45,High,Other,Low,Occasional,Automobiles,Bold Colors,Medium,Yes,27855,No
+46+,High,Expat - Arab,Medium,Frequent,Jewelry,Black,Medium,Yes,18968,No
+18-25,Medium,Expat - Indian,Low,Rare,Automobiles,White,High,Yes,2046,No
+46+,Low,Emirati,High,Rare,Real Estate,Bold Colors,Low,No,15909,No
+46+,Medium,Expat - Indian,Medium,Occasional,Fashion,Gold,Medium,No,14578,No
+46+,Low,Emirati,Medium,Rare,Jewelry,White,Low,Yes,24368,No
+36-45,Medium,Expat - Indian,Medium,Frequent,Automobiles,White,Low,Yes,29599,No
+18-25,Medium,Emirati,Low,Occasional,Real Estate,Silver,High,No,6719,No
+46+,Low,Emirati,Low,Rare,Jewelry,Gold,High,Yes,16960,No
+18-25,Medium,Expat - Indian,Medium,Rare,Watches,Silver,Low,Yes,24606,No
+18-25,Low,Expat - Indian,Medium,Occasional,Real Estate,Gold,Low,Yes,49366,No
+36-45,High,Emirati,Medium,Occasional,Jewelry,White,High,Yes,16624,No
+46+,Ultra High,Other,Low,Rare,Real Estate,Silver,Low,Yes,40179,No
+46+,Low,Expat - Indian,High,Frequent,Fashion,Bold Colors,High,Yes,41842,No
+18-25,Ultra High,Expat - Western,Low,Occasional,Fashion,Gold,Low,No,11352,No
+26-35,Medium,Expat - Arab,High,Frequent,Fashion,White,High,Yes,31885,No
+36-45,Low,Emirati,High,Rare,Watches,Black,Low,Yes,16003,No
+36-45,Low,Emirati,Medium,Frequent,Fashion,Gold,High,Yes,10223,No
+36-45,Medium,Expat - Arab,Low,Rare,Watches,Gold,Low,Yes,32433,No
+36-45,High,Other,Low,Rare,Fashion,Bold Colors,Medium,Yes,13718,No
+46+,High,Expat - Arab,Medium,Rare,Real Estate,Gold,Medium,No,2315,No
+46+,Low,Expat - Indian,Medium,Rare,Jewelry,Gold,Low,Yes,22553,Yes
+26-35,Low,Expat - Arab,High,Frequent,Jewelry,Bold Colors,Medium,No,25682,No
+36-45,Medium,Emirati,High,Rare,Fashion,Bold Colors,Low,Yes,20464,No
+36-45,Low,Expat - Arab,Medium,Rare,Jewelry,Silver,Low,No,42704,No
+18-25,Low,Expat - Western,Low,Frequent,Fashion,White,Medium,Yes,32419,No
+46+,Low,Expat - Indian,Medium,Occasional,Fashion,White,Low,Yes,14767,No
+36-45,High,Expat - Arab,High,Frequent,Automobiles,Silver,High,No,7466,No
+26-35,Ultra High,Emirati,Medium,Frequent,Automobiles,White,Low,Yes,32028,No
+26-35,Medium,Expat - Indian,Low,Frequent,Automobiles,Gold,Low,No,48953,Yes
+46+,Ultra High,Emirati,High,Rare,Watches,Silver,Medium,Yes,38858,Yes
+26-35,Medium,Other,Medium,Rare,Automobiles,Silver,High,No,5240,No
+26-35,Medium,Expat - Western,High,Rare,Fashion,White,Low,No,32459,No
+46+,Low,Other,Medium,Occasional,Real Estate,Black,Low,No,26396,Yes
+36-45,Medium,Expat - Western,Low,Rare,Automobiles,White,Low,Yes,17795,No
+36-45,Ultra High,Expat - Arab,High,Occasional,Automobiles,Black,Low,Yes,25689,Yes
+26-35,Medium,Expat - Indian,Medium,Rare,Real Estate,Silver,Low,No,15910,Yes
+26-35,Medium,Expat - Arab,Medium,Frequent,Fashion,Black,Low,No,3446,No
+36-45,Medium,Expat - Western,Medium,Rare,Watches,Gold,High,No,4346,No
+46+,Low,Expat - Western,Low,Occasional,Automobiles,Bold Colors,High,Yes,46179,No
+26-35,High,Expat - Western,Medium,Occasional,Real Estate,Black,Low,No,41517,No
+18-25,Medium,Emirati,Low,Rare,Fashion,Bold Colors,Low,Yes,5142,No
+46+,Medium,Expat - Indian,Medium,Frequent,Jewelry,Gold,Medium,Yes,17070,No
+26-35,Medium,Expat - Arab,Medium,Rare,Watches,Bold Colors,High,Yes,47955,No
+26-35,Medium,Expat - Arab,High,Rare,Real Estate,Gold,High,Yes,8087,No
+18-25,Low,Other,High,Rare,Real Estate,Bold Colors,Low,No,24752,No
+18-25,Medium,Expat - Western,Low,Frequent,Real Estate,Bold Colors,High,Yes,16635,Yes
+36-45,Low,Expat - Western,Medium,Occasional,Automobiles,White,High,No,23218,No
+46+,High,Expat - Western,Medium,Frequent,Jewelry,Black,Medium,Yes,32873,No
+46+,High,Expat - Arab,Low,Occasional,Watches,Bold Colors,Medium,Yes,49575,No
+36-45,High,Other,High,Occasional,Fashion,Silver,High,Yes,43965,Yes
+46+,Medium,Emirati,High,Occasional,Fashion,White,High,Yes,46039,Yes
+46+,Medium,Expat - Indian,Low,Frequent,Jewelry,Black,High,Yes,15724,No
+46+,Low,Emirati,Medium,Rare,Real Estate,White,Low,No,32351,No
+46+,High,Expat - Arab,Low,Rare,Real Estate,Black,Medium,No,32433,Yes
+46+,Low,Expat - Western,Medium,Rare,Real Estate,Gold,Low,Yes,10261,No
+18-25,Medium,Expat - Indian,Low,Rare,Real Estate,Bold Colors,Medium,Yes,14479,No
+46+,Low,Expat - Arab,High,Rare,Real Estate,Silver,Medium,Yes,16804,No
+18-25,Low,Expat - Arab,High,Frequent,Jewelry,White,Medium,No,28245,Yes
+46+,Medium,Expat - Arab,Medium,Frequent,Automobiles,White,High,Yes,46101,No
+36-45,Low,Expat - Indian,Medium,Frequent,Watches,White,Medium,Yes,13827,No
+26-35,High,Expat - Indian,High,Frequent,Real Estate,White,Low,Yes,43368,Yes
+18-25,Medium,Other,Medium,Frequent,Automobiles,Bold Colors,Medium,No,45700,Yes
+46+,Low,Other,Low,Frequent,Fashion,Black,Low,Yes,13040,No
+36-45,Medium,Emirati,Medium,Frequent,Jewelry,Bold Colors,Medium,Yes,20477,No
+26-35,Low,Expat - Indian,High,Rare,Automobiles,Gold,Medium,No,17127,No
+18-25,Low,Expat - Indian,Medium,Occasional,Real Estate,Bold Colors,High,No,22182,No
+26-35,High,Expat - Indian,Medium,Frequent,Real Estate,Bold Colors,Low,No,27049,No
+36-45,Low,Other,High,Occasional,Real Estate,Gold,Medium,Yes,25527,No
+18-25,High,Expat - Arab,High,Frequent,Automobiles,Bold Colors,Medium,No,13473,No
+26-35,Low,Expat - Western,High,Frequent,Real Estate,Black,Low,No,17709,No
+46+,Low,Other,Low,Rare,Automobiles,Silver,Medium,No,34974,No
+18-25,High,Expat - Indian,Medium,Occasional,Real Estate,Gold,High,No,43464,Yes
+26-35,Medium,Other,High,Rare,Fashion,White,Low,No,14714,No
+36-45,Low,Emirati,High,Rare,Fashion,Black,High,Yes,35208,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Watches,Silver,Low,Yes,32945,Yes
+18-25,Low,Emirati,Low,Rare,Real Estate,Black,Low,No,22568,No
+26-35,High,Expat - Indian,High,Frequent,Real Estate,Black,Low,Yes,10147,Yes
+18-25,Medium,Other,High,Frequent,Automobiles,White,Medium,Yes,17267,No
+18-25,High,Expat - Arab,Low,Frequent,Automobiles,Silver,Low,Yes,42514,No
+26-35,High,Expat - Western,Medium,Frequent,Real Estate,Black,Low,No,32452,No
+26-35,Medium,Emirati,Low,Frequent,Watches,White,Low,Yes,6136,No
+46+,Ultra High,Other,Medium,Rare,Real Estate,Gold,High,No,33579,No
+26-35,Medium,Expat - Arab,Low,Rare,Automobiles,White,Low,No,32516,No
+36-45,Ultra High,Other,Medium,Frequent,Real Estate,Bold Colors,Medium,Yes,12446,No
+18-25,Low,Emirati,Medium,Frequent,Automobiles,White,Low,Yes,46099,No
+18-25,Medium,Expat - Western,Medium,Rare,Real Estate,White,Low,Yes,25524,Yes
+36-45,Medium,Other,Medium,Occasional,Jewelry,White,High,Yes,14188,No
+26-35,Medium,Expat - Indian,High,Rare,Automobiles,Black,Medium,Yes,39587,No
+36-45,Medium,Expat - Arab,Medium,Rare,Watches,Silver,Medium,Yes,41837,No
+36-45,High,Other,Low,Rare,Jewelry,White,Medium,No,46537,No
+46+,Low,Expat - Arab,High,Rare,Real Estate,White,Low,Yes,6560,No
+36-45,Low,Expat - Indian,Low,Rare,Automobiles,Bold Colors,Low,No,46621,No
+18-25,High,Expat - Western,High,Occasional,Jewelry,Bold Colors,Medium,Yes,44227,Yes
+36-45,Medium,Expat - Western,High,Frequent,Watches,Gold,Medium,No,37397,No
+18-25,Ultra High,Expat - Indian,Medium,Frequent,Automobiles,Gold,High,Yes,12657,No
+18-25,High,Expat - Arab,High,Occasional,Jewelry,Bold Colors,Medium,No,39082,No
+18-25,Ultra High,Other,Low,Frequent,Jewelry,Silver,Low,No,19840,No
+26-35,High,Expat - Indian,Medium,Frequent,Jewelry,Gold,Low,No,42430,No
+46+,Low,Emirati,Medium,Frequent,Fashion,Silver,Low,Yes,41397,No
+18-25,Low,Expat - Arab,Medium,Occasional,Real Estate,Bold Colors,High,No,12324,No
+18-25,High,Expat - Western,High,Occasional,Automobiles,Gold,Medium,Yes,26247,Yes
+26-35,Medium,Expat - Indian,Low,Frequent,Automobiles,White,Low,Yes,18558,No
+18-25,Low,Expat - Western,Medium,Frequent,Automobiles,Bold Colors,High,Yes,20943,No
+36-45,Medium,Expat - Arab,Medium,Frequent,Jewelry,Gold,High,Yes,40460,No
+36-45,Ultra High,Expat - Western,Medium,Rare,Real Estate,Silver,Low,Yes,42986,No
+46+,Medium,Expat - Indian,Medium,Rare,Watches,Silver,High,No,45514,No
+18-25,Medium,Expat - Arab,Medium,Rare,Automobiles,Gold,High,Yes,16372,No
+26-35,Medium,Emirati,High,Occasional,Real Estate,Silver,Low,Yes,13631,No
+36-45,Low,Expat - Indian,Low,Frequent,Real Estate,Gold,High,Yes,2472,Yes
+26-35,Medium,Other,High,Occasional,Fashion,Gold,Low,No,27955,No
+26-35,Medium,Expat - Indian,Medium,Occasional,Automobiles,Silver,Low,Yes,48367,No
+36-45,Low,Expat - Arab,High,Occasional,Jewelry,Black,High,Yes,31802,No
+26-35,High,Expat - Indian,High,Frequent,Real Estate,White,Low,No,5872,No
+36-45,Medium,Emirati,Medium,Rare,Real Estate,Bold Colors,Low,Yes,28547,No
+26-35,High,Emirati,Medium,Frequent,Watches,White,Medium,Yes,44341,No
+36-45,High,Other,High,Frequent,Fashion,Bold Colors,Low,Yes,14691,Yes
+18-25,Low,Expat - Western,Medium,Occasional,Real Estate,Bold Colors,Medium,No,45250,No
+46+,Medium,Expat - Arab,High,Occasional,Real Estate,White,Medium,No,5753,No
+36-45,Medium,Expat - Arab,Medium,Occasional,Jewelry,Gold,Medium,Yes,2833,No
+36-45,High,Expat - Western,Low,Rare,Jewelry,Silver,Medium,Yes,39696,No
+46+,Low,Emirati,Medium,Rare,Watches,Black,High,Yes,9645,No
+36-45,Medium,Emirati,High,Rare,Watches,Black,High,No,40584,Yes
+36-45,Medium,Expat - Indian,Medium,Frequent,Watches,Black,Low,No,31441,No
+26-35,Low,Other,High,Occasional,Jewelry,White,Low,Yes,41024,No
+46+,Low,Other,High,Frequent,Jewelry,White,Low,Yes,44317,Yes
+18-25,Medium,Other,Medium,Rare,Fashion,Gold,High,No,16062,No
+36-45,High,Expat - Indian,Low,Occasional,Automobiles,Black,Medium,No,10635,No
+46+,Medium,Other,High,Rare,Automobiles,Gold,High,No,21064,No
+26-35,Medium,Expat - Western,Medium,Occasional,Fashion,Black,High,No,10940,No
+18-25,Medium,Expat - Indian,High,Occasional,Automobiles,White,Low,No,36169,No
+46+,High,Expat - Western,Medium,Frequent,Jewelry,Silver,Low,Yes,14111,Yes
+18-25,Low,Expat - Indian,Medium,Frequent,Automobiles,Silver,Low,Yes,45131,No
+18-25,High,Other,High,Rare,Jewelry,Silver,Medium,Yes,46200,Yes
+18-25,Low,Expat - Western,Medium,Frequent,Fashion,Silver,Medium,No,30739,No
+36-45,Medium,Expat - Western,Medium,Frequent,Watches,Bold Colors,High,Yes,43746,No
+36-45,Low,Expat - Western,Medium,Frequent,Fashion,Black,Medium,Yes,18793,No
+26-35,Low,Expat - Indian,Medium,Occasional,Automobiles,Silver,Low,Yes,19146,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Jewelry,Bold Colors,Medium,Yes,34677,No
+46+,Low,Other,High,Rare,Automobiles,Bold Colors,Medium,No,1760,No
+26-35,High,Expat - Western,Medium,Occasional,Automobiles,Bold Colors,Medium,Yes,24022,No
+18-25,Low,Expat - Arab,Medium,Occasional,Watches,Gold,Medium,Yes,6612,No
+18-25,Medium,Other,Medium,Frequent,Automobiles,Gold,Low,No,37008,No
+36-45,Medium,Other,Medium,Occasional,Watches,Bold Colors,Low,Yes,28265,No
+18-25,Low,Expat - Western,Medium,Rare,Jewelry,Silver,High,No,1530,No
+46+,Low,Expat - Western,High,Rare,Jewelry,Black,High,No,10551,No
+18-25,Medium,Expat - Indian,High,Occasional,Watches,White,High,No,29394,No
+18-25,Medium,Expat - Arab,Medium,Frequent,Fashion,Gold,Medium,No,43987,No
+46+,Medium,Expat - Arab,Medium,Frequent,Jewelry,Silver,Medium,Yes,49984,No
+26-35,Medium,Expat - Western,Low,Occasional,Fashion,Silver,Low,Yes,3560,No
+26-35,Medium,Other,Medium,Rare,Jewelry,White,High,Yes,19561,No
+46+,Low,Expat - Western,Medium,Occasional,Jewelry,White,Low,Yes,6103,No
+36-45,Medium,Other,Medium,Frequent,Real Estate,Silver,High,Yes,25090,No
+18-25,Ultra High,Other,Medium,Frequent,Automobiles,White,High,Yes,18921,No
+46+,Medium,Expat - Western,Low,Occasional,Automobiles,Silver,High,No,43233,No
+18-25,Medium,Emirati,Low,Rare,Fashion,White,Medium,Yes,3781,No
+36-45,Medium,Expat - Arab,High,Occasional,Automobiles,White,High,Yes,18330,No
+18-25,High,Other,Medium,Rare,Fashion,Silver,High,Yes,6257,Yes
+46+,High,Other,Medium,Rare,Jewelry,Bold Colors,Medium,Yes,35956,No
+18-25,Medium,Emirati,Low,Occasional,Real Estate,Silver,High,No,39831,Yes
+26-35,Ultra High,Expat - Indian,Low,Occasional,Real Estate,Black,Medium,Yes,16615,No
+36-45,Low,Emirati,High,Rare,Jewelry,White,Medium,No,1881,Yes
+36-45,Low,Emirati,Medium,Rare,Watches,Gold,Low,Yes,2847,No
+36-45,High,Other,Medium,Rare,Watches,White,Medium,Yes,40367,No
+46+,High,Expat - Arab,Medium,Rare,Automobiles,Black,Medium,Yes,23110,No
+36-45,Low,Emirati,High,Frequent,Fashion,Gold,Medium,No,38336,Yes
+26-35,Low,Expat - Indian,Low,Occasional,Real Estate,Gold,High,Yes,17314,No
+46+,Low,Expat - Western,Low,Rare,Automobiles,Silver,Low,Yes,31118,No
+26-35,Low,Emirati,Medium,Occasional,Jewelry,Bold Colors,High,Yes,40931,Yes
+18-25,High,Emirati,Medium,Rare,Real Estate,Silver,Medium,No,44924,No
+18-25,Medium,Expat - Indian,Medium,Occasional,Fashion,Gold,Medium,No,23966,Yes
+18-25,Medium,Expat - Arab,Medium,Occasional,Fashion,Gold,Low,Yes,45023,No
+18-25,Medium,Emirati,Medium,Rare,Watches,Bold Colors,Low,Yes,12320,No
+26-35,Low,Emirati,High,Rare,Automobiles,White,Medium,No,3216,No
+46+,Low,Expat - Arab,Medium,Occasional,Jewelry,Bold Colors,Medium,No,26564,No
+46+,Medium,Expat - Indian,Low,Occasional,Real Estate,Silver,High,No,39469,No
+36-45,Ultra High,Emirati,Medium,Occasional,Fashion,White,Medium,No,25401,No
+26-35,High,Expat - Arab,High,Frequent,Real Estate,Silver,High,No,12780,No
+18-25,Low,Emirati,Medium,Rare,Jewelry,Bold Colors,Low,Yes,11694,No
+26-35,High,Expat - Western,High,Frequent,Real Estate,White,High,No,5809,No
+36-45,High,Other,Low,Frequent,Automobiles,Bold Colors,Medium,No,17562,No
+36-45,High,Expat - Western,Medium,Rare,Watches,Black,High,Yes,48160,No
+26-35,Medium,Emirati,Low,Rare,Real Estate,Gold,High,Yes,33441,No
+26-35,Medium,Expat - Indian,Medium,Frequent,Watches,White,Low,No,41539,No
+26-35,Medium,Other,High,Rare,Jewelry,Gold,High,Yes,2929,No
+46+,Low,Expat - Western,High,Occasional,Watches,Black,Medium,No,30617,No
+18-25,Low,Expat - Arab,Medium,Occasional,Real Estate,White,High,Yes,48074,No
+26-35,Low,Expat - Indian,Medium,Frequent,Real Estate,Gold,High,Yes,15244,No
+26-35,Medium,Expat - Western,High,Frequent,Fashion,Gold,High,Yes,33879,No
+26-35,High,Expat - Arab,Medium,Rare,Real Estate,White,Medium,Yes,45179,No
+36-45,Medium,Emirati,Low,Rare,Watches,Gold,High,Yes,12116,No
+36-45,Low,Expat - Arab,Medium,Frequent,Fashion,Gold,Medium,Yes,23418,No
+46+,Ultra High,Expat - Western,Medium,Frequent,Real Estate,White,High,No,16707,No
+18-25,Ultra High,Expat - Western,Medium,Occasional,Real Estate,Gold,Low,No,18765,Yes
+46+,High,Emirati,Medium,Occasional,Jewelry,Gold,Low,Yes,36895,No
+18-25,Ultra High,Expat - Arab,Medium,Rare,Fashion,Silver,Low,Yes,14100,No
+36-45,Medium,Expat - Arab,Medium,Occasional,Jewelry,Silver,Medium,Yes,24867,No
+36-45,Ultra High,Emirati,Low,Rare,Jewelry,Black,Medium,Yes,44971,No
+36-45,Low,Expat - Arab,Medium,Rare,Jewelry,Silver,Medium,Yes,2208,No
+46+,Medium,Emirati,High,Rare,Automobiles,Silver,High,Yes,45085,No
+26-35,Low,Expat - Indian,Medium,Occasional,Jewelry,Black,Medium,Yes,1036,No
+26-35,Low,Expat - Western,Medium,Frequent,Watches,Gold,Medium,Yes,19212,No
+36-45,Low,Expat - Indian,High,Frequent,Real Estate,Gold,Medium,Yes,12252,No
+26-35,Medium,Other,High,Occasional,Automobiles,Silver,Medium,No,20725,No
+26-35,High,Other,Medium,Frequent,Jewelry,Black,Low,Yes,8006,No
+46+,Medium,Other,Low,Rare,Real Estate,Gold,High,No,48835,No
+18-25,Low,Emirati,High,Frequent,Fashion,Bold Colors,Low,No,25059,No
+36-45,High,Expat - Arab,High,Occasional,Fashion,White,High,No,6347,No
+36-45,Medium,Expat - Indian,High,Frequent,Real Estate,White,High,No,33171,No
+46+,Medium,Expat - Indian,High,Rare,Watches,White,Low,Yes,29517,Yes
+46+,Medium,Expat - Indian,Medium,Rare,Real Estate,Silver,Medium,Yes,25274,No
+26-35,Low,Expat - Indian,Medium,Occasional,Real Estate,White,Low,Yes,34577,No
+36-45,Medium,Other,Low,Occasional,Automobiles,White,High,No,28648,No
+18-25,Ultra High,Expat - Indian,Medium,Occasional,Fashion,Bold Colors,High,No,5118,Yes
+46+,Low,Expat - Arab,Medium,Rare,Fashion,Gold,Medium,No,18910,No
+18-25,Medium,Other,Medium,Frequent,Jewelry,Bold Colors,Low,Yes,14083,No
+18-25,High,Expat - Indian,Medium,Frequent,Real Estate,Silver,High,No,14187,Yes
+36-45,High,Emirati,High,Occasional,Real Estate,White,Low,Yes,1424,Yes
+36-45,Low,Expat - Western,Medium,Frequent,Watches,Gold,Medium,Yes,27641,No
+46+,Low,Expat - Western,Medium,Frequent,Fashion,White,Medium,No,35750,No
+36-45,Low,Expat - Western,Low,Occasional,Watches,White,High,Yes,16918,No
+36-45,Medium,Other,Medium,Occasional,Automobiles,Silver,Medium,No,24154,No
+36-45,Medium,Expat - Indian,High,Rare,Jewelry,White,High,Yes,49166,No
+18-25,Low,Other,Medium,Rare,Watches,Black,High,No,12992,No
+46+,Ultra High,Expat - Arab,High,Rare,Fashion,Gold,Medium,Yes,35001,Yes
+26-35,Medium,Emirati,Medium,Rare,Automobiles,Gold,Medium,No,43757,No
+18-25,Low,Emirati,Medium,Frequent,Real Estate,Black,Low,No,15546,No
+36-45,Medium,Expat - Western,Medium,Frequent,Automobiles,Silver,Low,No,42524,No
+18-25,Medium,Expat - Western,Medium,Rare,Watches,White,High,Yes,4019,No
+36-45,Low,Expat - Western,High,Rare,Fashion,White,Low,No,2304,No
+36-45,Low,Expat - Indian,Medium,Occasional,Watches,Gold,High,Yes,47912,No
+18-25,High,Expat - Arab,High,Frequent,Real Estate,Silver,Medium,Yes,17832,Yes
+46+,Medium,Expat - Arab,Medium,Frequent,Real Estate,Silver,Medium,Yes,23791,No
+36-45,Medium,Expat - Arab,High,Rare,Fashion,Silver,Low,No,11022,No
+46+,Medium,Expat - Arab,Low,Frequent,Jewelry,White,High,Yes,11350,No
+26-35,Low,Expat - Western,High,Occasional,Automobiles,Silver,High,No,12818,No
+36-45,Low,Emirati,Medium,Occasional,Automobiles,Black,Low,No,34617,No
+46+,Medium,Expat - Western,Medium,Frequent,Real Estate,Bold Colors,High,Yes,4962,No
+46+,Low,Expat - Arab,Medium,Rare,Watches,Silver,High,No,5854,No
+26-35,Low,Expat - Western,High,Frequent,Watches,Bold Colors,Medium,Yes,35307,No
+46+,High,Expat - Arab,Low,Occasional,Jewelry,White,High,No,3944,No
+46+,Ultra High,Other,Medium,Rare,Watches,Silver,High,Yes,23327,No
+26-35,High,Emirati,High,Frequent,Automobiles,Gold,High,Yes,4244,Yes
+36-45,High,Other,Medium,Rare,Watches,White,Low,Yes,23720,No
+46+,Low,Expat - Indian,Low,Rare,Jewelry,Black,Low,Yes,26090,Yes
+46+,Ultra High,Expat - Western,Medium,Occasional,Automobiles,Black,Low,Yes,47023,No
+46+,Low,Expat - Indian,Medium,Rare,Watches,Bold Colors,High,Yes,35359,No
+18-25,Ultra High,Expat - Western,High,Frequent,Automobiles,Bold Colors,High,Yes,49536,Yes
+26-35,Ultra High,Other,High,Rare,Real Estate,Gold,Low,Yes,8855,Yes
+18-25,High,Expat - Arab,Medium,Rare,Real Estate,Gold,Low,Yes,2601,No
+26-35,Ultra High,Expat - Arab,High,Frequent,Real Estate,Black,High,No,32952,No
+36-45,Medium,Expat - Western,Medium,Occasional,Watches,Silver,High,Yes,46577,No
+36-45,Low,Expat - Arab,Low,Occasional,Jewelry,Black,Medium,No,6690,Yes
+46+,Medium,Other,Medium,Frequent,Automobiles,Black,Low,No,13521,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Fashion,Gold,High,No,35610,No
+36-45,Low,Other,Low,Occasional,Real Estate,Bold Colors,Low,No,11483,No
+26-35,Medium,Expat - Indian,High,Rare,Real Estate,Gold,Low,Yes,9058,No
+36-45,Ultra High,Other,High,Frequent,Fashion,Gold,Low,No,14704,No
+18-25,Low,Emirati,Medium,Rare,Fashion,Gold,Medium,Yes,6565,Yes
+36-45,High,Emirati,Medium,Frequent,Watches,Black,High,No,44856,No
+18-25,Ultra High,Emirati,High,Occasional,Automobiles,Silver,High,No,38256,No
+36-45,Ultra High,Expat - Western,High,Rare,Real Estate,Black,Low,Yes,31615,Yes
+46+,Ultra High,Expat - Western,High,Rare,Jewelry,White,High,No,42674,Yes
+18-25,Medium,Expat - Western,Medium,Frequent,Watches,Gold,Medium,Yes,2927,No
+36-45,Ultra High,Other,High,Rare,Watches,Gold,Low,Yes,16512,Yes
+46+,High,Expat - Western,Medium,Frequent,Jewelry,White,Medium,Yes,9301,No
+18-25,Low,Expat - Indian,Medium,Occasional,Jewelry,Gold,Medium,No,22313,No
+46+,Medium,Emirati,Low,Rare,Jewelry,Gold,High,No,9457,No
+26-35,High,Other,Low,Frequent,Fashion,Gold,High,No,6492,No
+26-35,Low,Emirati,Medium,Rare,Real Estate,White,Medium,Yes,4223,No
+18-25,Medium,Expat - Western,Medium,Frequent,Fashion,Black,High,Yes,23511,No
+36-45,Medium,Other,Low,Frequent,Real Estate,Gold,Medium,No,22455,No
+18-25,Low,Expat - Arab,High,Frequent,Fashion,Silver,Medium,Yes,34722,No
+46+,Medium,Expat - Indian,Low,Occasional,Automobiles,White,Low,No,24434,No
+36-45,High,Expat - Western,Medium,Rare,Real Estate,Bold Colors,Medium,Yes,31341,No
+26-35,Medium,Expat - Western,Medium,Occasional,Watches,White,Medium,Yes,43309,No
+36-45,Low,Expat - Indian,High,Frequent,Real Estate,Black,High,Yes,16007,No
+26-35,Low,Expat - Indian,Medium,Frequent,Real Estate,White,Low,No,35342,No
+36-45,Medium,Expat - Arab,Low,Occasional,Real Estate,Bold Colors,High,Yes,27799,No
+36-45,Ultra High,Expat - Western,Medium,Occasional,Automobiles,Silver,Low,Yes,16674,No
+36-45,Low,Expat - Western,High,Rare,Fashion,Bold Colors,High,Yes,16426,No
+46+,Medium,Emirati,High,Frequent,Watches,White,Medium,Yes,8095,No
+46+,Low,Other,Medium,Occasional,Fashion,Bold Colors,Low,Yes,45791,No
+18-25,Medium,Other,Medium,Frequent,Fashion,White,Low,Yes,25104,No
+18-25,High,Emirati,High,Frequent,Jewelry,Silver,Low,No,4255,No
+26-35,High,Other,Low,Rare,Automobiles,Silver,Low,Yes,34826,No
+46+,Low,Expat - Indian,Medium,Rare,Jewelry,Black,High,No,35725,No
+26-35,Medium,Other,Medium,Rare,Automobiles,Silver,High,No,24032,No
+18-25,Low,Other,Low,Occasional,Fashion,Gold,Low,Yes,5944,No
+26-35,Medium,Emirati,Medium,Frequent,Fashion,Bold Colors,Low,Yes,38826,No
+18-25,Medium,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,Low,No,31497,Yes
+46+,Low,Other,Medium,Occasional,Fashion,White,High,Yes,28723,Yes
+36-45,Low,Other,High,Rare,Fashion,Silver,Low,Yes,36287,Yes
+46+,Medium,Expat - Arab,Medium,Frequent,Watches,Black,Low,Yes,12845,No
+26-35,Ultra High,Emirati,High,Frequent,Jewelry,Black,Low,No,25297,No
+26-35,Ultra High,Expat - Arab,Low,Rare,Jewelry,Black,High,Yes,3570,No
+46+,Low,Emirati,Medium,Frequent,Jewelry,Gold,Medium,No,28503,No
+46+,High,Expat - Indian,Low,Rare,Real Estate,Silver,Medium,No,8450,Yes
+18-25,Medium,Emirati,High,Occasional,Watches,Black,High,Yes,21271,No
+26-35,Medium,Expat - Indian,High,Occasional,Jewelry,Gold,Medium,Yes,41471,No
+26-35,High,Expat - Indian,Medium,Rare,Jewelry,Bold Colors,Low,Yes,16898,No
+46+,Ultra High,Emirati,High,Occasional,Watches,White,Low,Yes,15389,Yes
+36-45,Ultra High,Expat - Western,Medium,Occasional,Fashion,Silver,High,Yes,49182,No
+26-35,Medium,Emirati,High,Rare,Jewelry,Silver,High,Yes,26463,No
+36-45,Medium,Other,High,Occasional,Fashion,Bold Colors,Medium,Yes,1744,No
+46+,High,Other,High,Frequent,Jewelry,Silver,Medium,Yes,23804,Yes
+46+,Low,Expat - Western,Medium,Occasional,Automobiles,Silver,Low,Yes,37282,No
+18-25,Medium,Expat - Indian,Low,Rare,Real Estate,Silver,High,No,11871,Yes
+26-35,Medium,Expat - Western,Medium,Frequent,Jewelry,Silver,Medium,Yes,14536,No
+36-45,Medium,Other,Low,Frequent,Automobiles,Gold,Medium,No,24097,Yes
+18-25,Low,Expat - Western,Medium,Occasional,Watches,Gold,Low,Yes,1175,No
+26-35,Low,Emirati,Medium,Frequent,Automobiles,White,Low,Yes,4217,No
+18-25,Ultra High,Expat - Western,Medium,Rare,Watches,Silver,Low,Yes,16106,No
+46+,Low,Expat - Indian,Low,Frequent,Jewelry,Bold Colors,Low,Yes,31359,No
+26-35,Medium,Emirati,Low,Occasional,Watches,Black,Medium,Yes,47464,No
+18-25,Low,Expat - Arab,Medium,Occasional,Automobiles,White,High,No,23357,No
+18-25,Low,Other,High,Frequent,Real Estate,Black,High,No,43354,No
+36-45,Low,Other,Medium,Rare,Fashion,Black,Low,Yes,39570,No
+18-25,Low,Expat - Western,Medium,Rare,Fashion,Silver,Low,Yes,8034,No
+26-35,High,Emirati,High,Occasional,Real Estate,Bold Colors,Medium,Yes,17263,Yes
+26-35,Low,Expat - Arab,Medium,Occasional,Fashion,Black,Low,Yes,43180,No
+36-45,Ultra High,Emirati,Medium,Rare,Jewelry,Black,High,Yes,9776,No
+26-35,Medium,Other,Medium,Frequent,Jewelry,White,Low,Yes,44822,No
+46+,Medium,Emirati,Medium,Frequent,Automobiles,Bold Colors,High,Yes,10812,No
+26-35,Medium,Expat - Arab,High,Frequent,Automobiles,Bold Colors,Low,Yes,20739,No
+26-35,Medium,Expat - Western,Low,Frequent,Watches,Black,Low,Yes,27925,No
+18-25,High,Expat - Indian,Medium,Rare,Automobiles,Bold Colors,High,Yes,20575,No
+18-25,Low,Emirati,Low,Occasional,Jewelry,White,Medium,Yes,23231,No
+26-35,Medium,Expat - Indian,Medium,Occasional,Automobiles,White,Medium,No,12399,No
+36-45,High,Other,High,Frequent,Fashion,White,Low,Yes,48731,Yes
+18-25,Ultra High,Expat - Western,Medium,Rare,Watches,Silver,Low,No,24100,No
+36-45,High,Expat - Western,Low,Rare,Watches,Black,High,No,11768,Yes
+26-35,Medium,Emirati,Medium,Frequent,Jewelry,Bold Colors,High,No,34299,No
+26-35,High,Expat - Western,Low,Frequent,Automobiles,White,Low,No,12357,No
+46+,Medium,Emirati,Low,Frequent,Fashion,Black,High,No,2437,No
+18-25,Medium,Emirati,High,Occasional,Automobiles,Black,Medium,No,25946,Yes
+26-35,Low,Expat - Indian,High,Frequent,Real Estate,Silver,Medium,Yes,21888,No
+46+,Medium,Expat - Western,High,Occasional,Automobiles,Bold Colors,High,Yes,6502,No
+18-25,Low,Emirati,High,Rare,Jewelry,Bold Colors,High,No,41376,No
+26-35,Medium,Expat - Indian,Medium,Rare,Automobiles,White,High,No,6566,Yes
+26-35,High,Expat - Arab,Low,Occasional,Watches,White,Medium,No,42576,No
+18-25,Low,Expat - Indian,High,Occasional,Fashion,Black,Low,No,5014,No
+18-25,Low,Expat - Indian,High,Occasional,Jewelry,Bold Colors,High,No,14613,Yes
+18-25,Low,Emirati,High,Occasional,Real Estate,Bold Colors,High,No,41167,No
+26-35,Ultra High,Other,Medium,Frequent,Fashion,White,High,No,34699,No
+26-35,Medium,Other,Medium,Rare,Fashion,Gold,Low,Yes,36233,No
+46+,Medium,Other,High,Frequent,Watches,Black,High,No,49391,No
+36-45,High,Expat - Indian,High,Occasional,Watches,Bold Colors,High,No,22814,No
+18-25,High,Emirati,High,Frequent,Watches,Silver,Medium,No,24386,No
+26-35,Medium,Expat - Western,Low,Frequent,Jewelry,Silver,High,No,47776,No
+26-35,Medium,Expat - Indian,Medium,Rare,Automobiles,Gold,Medium,Yes,42585,No
+18-25,High,Expat - Indian,Medium,Frequent,Fashion,White,Low,Yes,39756,No
+36-45,Medium,Emirati,High,Rare,Automobiles,White,High,No,8509,Yes
+18-25,Low,Expat - Arab,Low,Occasional,Automobiles,White,High,Yes,23316,No
+36-45,High,Expat - Indian,Low,Frequent,Watches,Silver,Medium,Yes,46617,No
+26-35,Medium,Expat - Arab,High,Occasional,Automobiles,White,Low,Yes,12071,No
+36-45,Low,Expat - Arab,Low,Rare,Fashion,Silver,Low,No,28742,No
+46+,Medium,Other,High,Occasional,Fashion,Gold,Medium,No,47849,No
+26-35,Low,Emirati,Medium,Occasional,Real Estate,Black,Low,No,14228,No
+46+,Low,Expat - Arab,High,Rare,Jewelry,Bold Colors,Low,No,12614,No
+18-25,High,Emirati,Medium,Occasional,Automobiles,Gold,Low,Yes,11301,No
+18-25,Low,Other,High,Occasional,Jewelry,Silver,Low,Yes,36549,No
+18-25,Medium,Emirati,High,Occasional,Jewelry,Gold,Low,Yes,43851,No
+36-45,Medium,Expat - Indian,Low,Frequent,Jewelry,Bold Colors,Low,No,12374,No
+26-35,Low,Expat - Arab,Low,Occasional,Jewelry,Black,Low,Yes,35407,No
+18-25,Ultra High,Emirati,Medium,Rare,Fashion,Bold Colors,Low,No,47606,No
+18-25,Low,Expat - Western,Medium,Frequent,Automobiles,Silver,High,Yes,42741,No
+26-35,Medium,Emirati,High,Frequent,Real Estate,Bold Colors,Medium,Yes,14982,No
+18-25,Medium,Expat - Arab,Medium,Rare,Jewelry,Gold,Low,No,32258,No
+46+,Low,Other,Medium,Occasional,Real Estate,White,Medium,Yes,46652,Yes
+26-35,Low,Other,Low,Frequent,Fashion,Gold,Low,No,11248,No
+26-35,High,Expat - Arab,High,Frequent,Fashion,Silver,Low,Yes,11515,No
+26-35,Ultra High,Expat - Indian,High,Frequent,Watches,Black,High,Yes,36042,Yes
+46+,Low,Expat - Indian,Medium,Occasional,Jewelry,Bold Colors,Medium,Yes,27809,No
+26-35,Medium,Other,Medium,Frequent,Watches,Black,Medium,Yes,11830,No
+46+,High,Other,Low,Rare,Real Estate,Silver,High,No,36248,Yes
+26-35,High,Expat - Arab,Medium,Occasional,Automobiles,Bold Colors,High,Yes,7799,Yes
+36-45,Medium,Expat - Indian,Medium,Rare,Watches,Gold,Medium,Yes,9547,No
+18-25,Medium,Other,Low,Rare,Fashion,Gold,Low,Yes,32562,No
+36-45,Medium,Expat - Indian,Medium,Frequent,Jewelry,Silver,Low,No,15328,Yes
+18-25,High,Other,Medium,Frequent,Real Estate,Bold Colors,Medium,No,13679,No
+46+,High,Emirati,Medium,Frequent,Fashion,Gold,Low,Yes,22058,No
+36-45,Low,Expat - Western,Medium,Rare,Automobiles,Silver,High,Yes,33237,No
+26-35,Medium,Emirati,Low,Occasional,Jewelry,Silver,High,No,47696,No
+18-25,Ultra High,Other,High,Frequent,Automobiles,Black,High,No,20906,No
+18-25,High,Expat - Western,High,Frequent,Automobiles,Gold,Medium,Yes,44427,Yes
+36-45,Ultra High,Expat - Western,Medium,Rare,Jewelry,Bold Colors,Medium,No,39872,No
+46+,High,Other,Low,Occasional,Jewelry,Gold,Medium,No,17547,Yes
+36-45,Medium,Other,High,Rare,Automobiles,Gold,Low,No,24306,Yes
+46+,Medium,Expat - Indian,High,Frequent,Real Estate,Gold,Medium,No,29210,No
+46+,Medium,Other,Medium,Rare,Jewelry,Silver,Medium,No,46693,No
+18-25,Low,Expat - Arab,Medium,Frequent,Fashion,White,High,Yes,29239,No
+36-45,Medium,Other,Low,Occasional,Watches,White,Low,No,28830,No
+36-45,High,Expat - Arab,Medium,Rare,Real Estate,Black,Low,Yes,4381,No
+46+,Low,Other,Low,Frequent,Jewelry,Gold,High,No,35832,No
+36-45,High,Expat - Indian,Medium,Frequent,Jewelry,White,Low,Yes,40357,No
+26-35,Medium,Expat - Arab,Medium,Frequent,Real Estate,Black,Medium,Yes,29841,No
+26-35,Ultra High,Emirati,Medium,Frequent,Watches,Silver,Low,No,8447,No
+36-45,Low,Expat - Arab,Medium,Rare,Automobiles,Gold,High,No,21368,Yes
+36-45,Low,Expat - Indian,Medium,Frequent,Fashion,Bold Colors,Low,Yes,21271,No
+46+,Medium,Expat - Arab,Medium,Rare,Jewelry,Silver,High,Yes,1339,No
+26-35,Low,Other,Low,Frequent,Watches,Black,Medium,Yes,20974,No
+26-35,High,Other,Low,Rare,Fashion,Silver,Medium,No,27509,No
+18-25,High,Expat - Indian,High,Rare,Real Estate,Bold Colors,High,No,38898,No
+46+,Low,Expat - Western,Low,Frequent,Jewelry,Silver,Medium,Yes,27221,No
+18-25,Medium,Other,High,Frequent,Automobiles,Black,Medium,No,28263,No
+26-35,Medium,Emirati,High,Frequent,Real Estate,Bold Colors,Low,No,8733,Yes
+46+,Medium,Expat - Indian,Medium,Frequent,Jewelry,Bold Colors,Medium,Yes,46878,No
+36-45,Ultra High,Expat - Arab,Medium,Occasional,Watches,Silver,High,No,6049,No
+46+,High,Expat - Arab,Medium,Frequent,Fashion,Bold Colors,Medium,Yes,44086,No
+36-45,Medium,Emirati,High,Frequent,Fashion,Silver,Low,No,46401,No
+36-45,High,Other,High,Frequent,Jewelry,Gold,High,Yes,22088,Yes
+46+,Medium,Expat - Indian,High,Rare,Real Estate,Bold Colors,Medium,Yes,16608,No
+36-45,Ultra High,Emirati,Low,Frequent,Automobiles,Silver,Medium,Yes,1638,Yes
+18-25,Medium,Other,Medium,Rare,Watches,Gold,Medium,Yes,8709,Yes
+26-35,High,Expat - Indian,Medium,Rare,Jewelry,Bold Colors,High,No,6143,Yes
+36-45,High,Expat - Arab,Medium,Rare,Watches,Gold,Low,Yes,2224,No
+18-25,Low,Expat - Indian,Low,Rare,Fashion,Bold Colors,High,Yes,48234,No
+36-45,High,Expat - Western,Low,Occasional,Automobiles,Black,High,No,49047,No
+26-35,Low,Expat - Indian,High,Frequent,Watches,Black,Low,Yes,45870,No
+18-25,Medium,Expat - Western,Medium,Rare,Jewelry,Silver,High,Yes,38013,Yes
+26-35,Medium,Expat - Indian,Medium,Frequent,Automobiles,White,High,No,10741,No
+26-35,Ultra High,Expat - Western,Medium,Rare,Real Estate,Black,Medium,No,23991,No
+18-25,High,Expat - Arab,High,Occasional,Jewelry,White,High,Yes,41175,Yes
+18-25,High,Other,High,Rare,Watches,Gold,Medium,Yes,27081,Yes
+18-25,High,Expat - Western,Medium,Frequent,Automobiles,Gold,High,No,48558,No
+46+,Medium,Expat - Western,Low,Frequent,Jewelry,White,Medium,Yes,16642,No
+18-25,Ultra High,Expat - Arab,Medium,Occasional,Automobiles,Silver,Medium,Yes,10567,No
+18-25,Medium,Expat - Western,High,Frequent,Automobiles,Bold Colors,Medium,Yes,42627,No
+18-25,Medium,Emirati,Medium,Frequent,Automobiles,White,Low,Yes,39536,No
+18-25,Low,Expat - Arab,Medium,Rare,Watches,White,High,No,18399,Yes
+36-45,High,Emirati,Medium,Frequent,Jewelry,White,High,No,34103,No
+46+,High,Expat - Arab,Medium,Rare,Fashion,White,High,No,46721,No
+26-35,Medium,Expat - Western,High,Occasional,Fashion,White,Low,No,16330,Yes
+18-25,Low,Emirati,Medium,Frequent,Watches,Silver,Medium,Yes,17464,No
+36-45,High,Expat - Western,Low,Rare,Watches,Black,High,Yes,3134,No
+36-45,Low,Expat - Arab,Low,Frequent,Automobiles,Bold Colors,Low,No,30662,No
+36-45,High,Expat - Western,Medium,Rare,Jewelry,Black,Low,Yes,1184,No
+26-35,Ultra High,Emirati,High,Occasional,Jewelry,White,High,Yes,31387,Yes
+18-25,Medium,Emirati,Medium,Rare,Real Estate,Black,Medium,No,41824,Yes
+46+,Low,Expat - Western,High,Frequent,Real Estate,Silver,Low,Yes,8263,No
+46+,High,Expat - Indian,High,Rare,Fashion,Gold,High,Yes,14191,Yes
+36-45,High,Expat - Arab,Medium,Frequent,Real Estate,Black,Medium,No,4514,No
+26-35,Medium,Expat - Arab,Low,Occasional,Real Estate,Bold Colors,Low,No,33734,No
+26-35,Ultra High,Expat - Western,Low,Rare,Fashion,Silver,Low,Yes,7077,No
+26-35,Low,Expat - Indian,High,Frequent,Fashion,Gold,High,No,36120,No
+46+,Medium,Emirati,Low,Frequent,Real Estate,Silver,High,Yes,49484,No
+36-45,High,Other,Medium,Frequent,Jewelry,White,Medium,Yes,10500,No
+18-25,High,Other,Medium,Rare,Real Estate,Gold,High,No,15992,No
+46+,Low,Expat - Western,High,Rare,Automobiles,Bold Colors,High,No,11133,No
+36-45,High,Expat - Indian,Low,Rare,Automobiles,Gold,Medium,Yes,7405,No
+36-45,Medium,Expat - Indian,Medium,Occasional,Automobiles,Bold Colors,High,Yes,31269,No
+18-25,Medium,Expat - Arab,Medium,Frequent,Watches,White,Medium,Yes,17874,No
+18-25,Low,Emirati,Medium,Frequent,Automobiles,Bold Colors,Medium,Yes,32457,No
+18-25,High,Expat - Indian,High,Occasional,Jewelry,Silver,Medium,Yes,18085,Yes
+26-35,Low,Other,Low,Occasional,Watches,Black,High,Yes,36702,No
+18-25,Medium,Emirati,High,Rare,Watches,Silver,Medium,Yes,15347,Yes
+36-45,Low,Emirati,Medium,Rare,Automobiles,Silver,High,Yes,14502,No
+18-25,High,Expat - Western,Medium,Rare,Real Estate,Gold,Medium,Yes,47479,No
